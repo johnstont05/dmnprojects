@@ -1,0 +1,257 @@
+@import 'normalize/import-now';
+@import 'mixins';
+@import 'variables';
+@import 'base';
+
+html,
+html.embedded {
+  // Applied when embedded using Pym.js
+  font-size: 10px;
+}
+
+body {
+  // This helps Pym.js more more accurately measure our <body>
+  &:after,
+  &:before {
+    content: " ";
+    display: table;
+  }
+}
+
+#map {
+  height: 500px;
+  width: 350px;
+}
+
+.sidebar {
+  float: right;
+  width: calc(100% - 370px);
+
+  .case-label {
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-size: 10px;
+    height: 17px;
+    letter-spacing: 0.6px;
+    line-height: 17px;
+    padding: 0 8px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: -0.8rem;
+  }
+
+  #profile {
+    float: left;
+    position: relative;
+    padding-right: 1em;
+    max-width: 100px;
+  }
+
+  #headline {
+    font-size: 2.6em;
+    font-family: $sans;
+    text-align: left;
+    margin-bottom: -0.8rem;
+  }
+
+  #area {
+    font-size: 1.8em;
+    font-family: $sans;
+    text-align: left;
+    font-style: italic;
+    font-weight: 200;
+    margin-bottom: 1.2rem;
+
+  }
+
+  #description {
+    line-height: 1.4em;
+  }
+
+  #date {
+    font-size: 1.6em;
+    font-weight: 200;
+    margin-bottom: -0.8rem;
+
+
+  }
+}
+
+#map-container {
+  position: relative;
+  max-width: 500px;
+  float: left;
+}
+
+.btn-group {
+  margin-bottom: 2rem;
+  width: 15rem;
+}
+
+.btn-group button {
+  font-family: $sans;
+  display: block;
+  border: 1px solid darken($dmnblue, 5%);
+  border-radius: 3px;
+  background-color: $dmnblue;
+  color: white;
+  font-weight: 700;
+  @include type(1.4rem, 1.8rem, 0);
+  @include transition(all, .25s, ease-out);
+  cursor: pointer;
+  padding: 10px;
+  &:hover {
+      background-color: darken($dmnblue, 5%);
+      color: white;
+      box-shadow: 0 1px 2px rgba(0,0,0,.25);
+  }
+  &:active {
+      box-shadow: inset 0 1px 1px rgba(0,0,0,.5);
+      outline: none;
+  }
+}
+
+#btn-prev {
+  float: left;
+}
+
+#btn-next {
+  float: right;
+}
+
+.key {
+  background-color: rgba(255,255,255,.9);
+  left: 0;
+  padding: 5px;
+  position: absolute;
+  top: 0;
+  z-index: 10;
+}
+
+.mapboxgl-popup {
+  font-family: $sans;
+  max-height: 500px;
+  overflow-y: auto;
+  z-index: 10;
+  pointer-events: auto;
+
+  img {
+    width: 100%;
+  }
+}
+
+.mapboxgl-popup-content {
+  color: $black50;
+  padding: 10px 10px 15px;
+
+  * {
+    margin-top: 0;
+  }
+
+  h6 {
+    font-weight: bold;
+    padding-right: 20px;
+    font-size: 1em;
+    margin-bottom: 0;
+  }
+}
+
+.mapboxgl-popup-close-button {
+  font-size: 2rem;
+  font-family: $sans;
+}
+@media (max-width: 400px) {
+  #map {
+    width: 300px;
+  }
+
+  .mapboxgl-popup {
+    width: 50%;
+  }
+}
+@media (max-width: 600px) {
+  .sidebar {
+    width: 100%;
+  }
+
+  #map-container {
+    max-width: none;
+    width: 100%;
+    float: none;
+    margin-bottom: 1.2rem;
+  }
+
+  #map {
+    width: 100%;
+  }
+
+  .embed__content {
+    .credit,
+    .source {
+      @include type(1.2rem, 1.5rem, 0.6rem);
+      max-width: none;
+      width: 100%;
+    }
+  }
+}
+
+.no-show {
+  display: none;
+}
+@media (max-width: 450px) {
+  #description {
+    font-size: 1.2em;
+  }
+
+  #map {
+    height: 250px;
+  }
+
+  #headline {
+    font-size: 2.4em;
+  }
+}
+
+.clearfix:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+#timeline {
+  height: 1.6rem;
+  width: 100%;
+  position: relative;
+  margin-bottom: 2.4rem;
+  &:before {
+    @include psuedoElement(100%, .1rem, absolute);
+    top: .8rem;
+    background-color: $black121;
+  }
+}
+
+.timeline-point {
+  position: absolute;
+  text-align: center;
+  text-indent: -9999px;
+  opacity: .15;
+  top: 1.4rem;
+  @include type(1.2rem, 1.5rem);
+  &:before {
+    @include psuedoElement(1rem, 1rem, absolute);
+    border-radius: 50%;
+    border: 1px solid $dmnblue;
+    top: -1.2rem;
+    margin-left: -.5rem;
+  }
+  &.active-point {
+    opacity: 1;
+    text-indent: 0;
+    &:before {
+      background-color: $dmnblue;
+    }
+  }
+  &.active-point.right-point {
+    text-indent: -10rem;
+  }
+}

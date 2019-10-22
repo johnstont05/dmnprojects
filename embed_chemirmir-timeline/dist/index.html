@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
+  <script src="https://kit.fontawesome.com/8e1f882a31.js"></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
+
+</head>
+
+<body>
+  <div id="embed__container">
+
+    <div class="embed__chatter">
+      <h4>Timeline of the Billy Chemirmir case</h4>
+      <p>Follow the trail of alleged victims and how law enforcement pieced together the case with this timeline. This timeline will be updated as more information becomes available.</p>
+    </div>
+
+    <div class="embed__content clearfix">
+
+      <div id="map-container">
+        <div id="map"></div>
+        <p class="credit">Taylor Johnston and Charles Scudder / DMN</p>
+      </div>
+      <div class='sidebar'>
+
+        <div id="timeline">
+          <div id="timeline-points"></div>
+        </div>
+
+        <div class="btn-group clearfix">
+          <button class="tl-btn" id="btn-prev"><i class="fas fa-chevron-left"></i> Back</button>
+          <button class="tl-btn" id="btn-next">Next <i class="fas fa-chevron-right"></i></button>
+        </div>
+        <div class="case-label">text</div>
+        <h4 id="date"></h4>
+        <h2 id="headline"></h2>
+        <h3 id="area"></h3>
+        <img id="profile" src="">
+        <p id="description"></p>
+        <p id="url" style="display: none;"></p>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/scripts.js"></script>
+  <script src="https://interactives.dallasnews.com/common/scripts/embed-tracker/embed-tracker.min.js"></script>
+</body>
+
+</html>
