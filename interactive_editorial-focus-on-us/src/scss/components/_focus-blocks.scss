@@ -1,0 +1,231 @@
+.focus__leader {
+  background-size: cover;
+  display: table;
+  height: 56.25vw;
+  position: relative;
+  width: 100%;
+
+  &:before {
+    @include psuedoElement(100%, calc(56.2vw + 1px), absolute);
+    background-color: rgba($black33, 0.65);
+    left: 0;
+    top: 0;
+  }
+}
+
+.leader__text {
+  display: table-cell;
+  position: relative;
+  vertical-align: middle;
+  z-index: 10;
+}
+
+.vignette__head {
+  @include type(4.8rem, 5.4rem, 0);
+  color: white;
+  font-family: $serif;
+  padding: 0 2.5%;
+  text-align: center;
+  @media (max-width: 500px) {
+    @include type(3.6rem, 4.2rem, 0)
+  }
+}
+
+.main__head {
+  @include type(4.8rem, 5.4rem);
+  font-family: $serif;
+  margin-top: 1.2rem;
+  @media (max-width: 600px) {
+    @include type(3.6rem, 4.2rem);
+  }
+}
+
+#civic-header {
+  background-image: url("../images/focuson-civic-2400.jpg");
+}
+
+#st-header {
+  background-image: url("../images/focuson-st-2400.jpg");
+}
+
+#teaching-header {
+  background-image: url("../images/focuson-teaching-2400.jpg");
+}
+@media (max-width: 600px) {
+  #civic-header {
+    background-image: url("../images/focuson-civic-1200.jpg");
+  }
+
+  #st-header {
+    background-image: url("../images/focuson-st-1200.jpg");
+  }
+
+  #teaching-header {
+    background-image: url("../images/focuson-teaching-1200.jpg");
+  }
+}
+@media (max-width: 300px) {
+  #civic-header {
+    background-image: url("../images/focuson-civic-600.jpg");
+  }
+
+  #st-header {
+    background-image: url("../images/focuson-st-600.jpg");
+  }
+
+  #teaching-header {
+    background-image: url("../images/focuson-teaching-600.jpg");
+  }
+}
+
+.focus__block {
+  display: grid;
+  grid-template-columns: 5fr 4fr;
+  grid-column-gap: 2.4rem;
+  margin-bottom: 9.6rem;
+  position: relative;
+
+  &.no-grid {
+    display: block;
+    max-width: 650px;
+    width: 90%;
+    margin: 2.4rem auto 0;
+  }
+  @media (max-width: 800px) {
+    display: block;
+    margin-bottom: 6rem;
+  }
+}
+
+.focus--no-rule {
+  &:after {
+    display: none;
+  }
+}
+
+.focus__vignette {
+  border-right: 1px solid $brandred;
+  font-family: $basic;
+  margin: 0 auto;
+  padding-right: 2.4rem;
+
+  h5 {
+    @include type(2.8rem, 3.2rem, 0.6rem);
+    display: inline-block;
+    margin-right: 5px;
+
+    &:last-of-type {
+      margin-bottom: 2.4rem;
+    }
+  }
+
+  p {
+    @include type(2rem, 3rem, 3.6rem);
+    letter-spacing: -0.25px;
+
+    &:last-of-type {
+      margin-bottom: 0;
+    }
+  }
+  @media (max-width: 800px) {
+    border-right: none;
+    margin-bottom: 2.4rem;
+    padding-right: 0;
+  }
+}
+
+.focus__links {
+  h5 {
+    color: $brandred;
+    font-family: $serif;
+    font-weight: 700;
+  }
+
+  p {
+    @include type(1.4rem, 1.8rem, 1.8rem);
+    font-family: $basic;
+  }
+
+  ul {
+    margin-bottom: 3.6rem;
+  }
+
+  li {
+    @include type(1.6rem, 2.4rem, 1.2rem);
+    font-family: $basic;
+
+    a {
+      color: $black33;
+    }
+  }
+}
+
+.issue-links {
+  width: 90%;
+  max-width: 650px;
+  margin: 4.8rem auto 0;
+  h5 {
+    font-weight: bold;
+  }
+}
+.content__row {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 2.4rem;
+  @media (max-width: 600px) {
+    display: block;
+  }
+}
+
+.content__column {
+  margin: 0 auto;
+  text-align: center;
+  a {
+    display: block;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  h5 {
+    color: $brandred;
+    font-family: $serif;
+  }
+  p {
+    color: black;
+    @include type(1.4rem, 1.8rem, 0);
+    font-weight: 400;
+    text-align: left;
+  }
+  img {
+    width: 100%;
+    margin-bottom: .3rem;
+  }
+  @media (max-width: 600px) {
+    margin-bottom: 4.8rem;
+  }
+}
+
+.collection__link {
+  @include type(1.6rem, 1.6rem, 0);
+  @include transition(background-color, 0.2s, ease-out);
+  background-color: $brandred;
+  border-radius: 2px;
+  color: white;
+  cursor: pointer;
+  font-family: $basic;
+  padding: 1.2rem 1.8rem;
+  text-transform: uppercase;
+
+  &:hover {
+    background-color: darken($brandred, 5);
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: white;
+  }
+}
+
+.border {
+  border: 1px solid $brandred;
+}

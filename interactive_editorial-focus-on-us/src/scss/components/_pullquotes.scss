@@ -1,0 +1,38 @@
+@import '../_variables';
+@import '../_mixins';
+
+@import '_side-blocks';
+
+/*
+-------------------------------------------
+PULLQUOTES
+-------------------------------------------
+*/
+
+.pullquote {
+  border-top: 1px solid $black235;
+  border-bottom: 1px solid $black235;
+  padding: 2.4rem 0;
+  text-align: left;
+  margin: 2.4rem auto;
+}
+.pullquote blockquote {
+  @include type(2.4rem, 4.8rem, 2.4rem);
+  font-family: $serif;
+  color: $black33;
+}
+.pullquote p.attribution {
+  font-family: $sans;
+  color: $black66;
+  text-align: right;
+  @include type(1.4rem, 1.8rem, 0);
+}
+.pullquote p.attribution:before {
+  content: '— ';
+}
+
+@media (max-width: 600px) {
+  .pullquote blockquote {
+    @include type(2rem, 3rem, 2.4rem);
+  }
+}
