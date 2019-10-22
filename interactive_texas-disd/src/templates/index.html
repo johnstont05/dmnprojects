@@ -1,0 +1,428 @@
+{%extends 'base.html'%}
+{%import 'partials/img.html' as img%}
+
+
+{%block custom_meta%}
+<meta content="{{keywords|join(',')}}" name="keywords" />
+
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<meta content="{{shareText}}" name="description" />
+<title>Texas school district grades</title>
+<meta property="og:url" content="{{url}}" />
+<meta property="og:title" content="{{shareTitle}}" />
+<meta property="og:description" content="{{shareText}}" name="description" />
+<meta property="og:image" content="{{imgURL}}" />
+<meta property="og:image:height" content="{{imgHeight}}" />
+<meta property="og:image:width" content="{{imgWidth}}" />
+<meta property="og:type" content="article" />
+<meta property="article:author" content="{{authorFBProfile}}" />
+<meta property="article:publisher" content="https://www.facebook.com/dallasmorningnews/" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@{{sectionTwitter}}" />
+<meta name="twitter:creator" content="@{{authorTwitter}}" />
+
+
+<meta name="liveFyreID" content="{{id}}" />
+
+
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "headline": "{{shareTitle}}",
+    "url": "{{url}}",
+    "thumbnailUrl": "{{imgURL}}",
+    "dateCreated": "{{publishDate}}",
+    "articleSection": "{{section}}",
+    "creator": ["{{authors|join('", "')|safe}}"],
+    "keywords": ["{{keywords|join('", "')|safe}}"]
+  }
+</script>
+
+<meta property="og:keywords" content="{{keywords|join(',')}}" />
+
+<meta name="news_keywords" content="{{keywords|join(',')}}" />
+{%endblock%}
+
+
+{%block custom_head%}
+<link rel="canonical" href="{{url}}" />
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.0/mapbox-gl-geocoder.min.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.0/mapbox-gl-geocoder.css' type='text/css' />
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+{%endblock%}
+
+
+{%block ad%}
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+  DFP_networkId = "11222444";
+  var DFPSlotSizes = window.isMobile ? [
+    [320, 50]
+  ] : [
+    [728, 90],
+    [970, 30]
+  ];
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  var pbjs = pbjs || {};
+  pbjs.que = pbjs.que || [];
+  pbjs.que.push(function() {
+    var pageAds = { //   adUnitID: "position"
+      dfpAdPositionTop: "Top",
+      dfpAdPositionMiddle: "Top2",
+      dfpAdPositionBottom: "Top2"
+    };
+
+    for (i in pageAds) {
+      var bidSlot = new Object();
+      bidSlot.code = i;
+      bidSlot.sizes = DFPSlotSizes;
+      bidSlot.bids = window.isMobile ? window.mobileBids[pageAds[i]] : window.desktopBids[pageAds[i]];
+      if (typeof bidSlot.bids != "undefined") {
+        if (typeof pbjs.addAdUnits != "undefined") {
+          pbjs.addAdUnits(bidSlot);
+        }
+        window.bidSlots[i] = bidSlot;
+      }
+    }
+  });
+  googletag.cmd.push(function() {
+    var DFP_sitepage = "DMN/interactives";
+    var dfpSizeMapping = googletag.sizeMapping().
+    addSize([992, 480], [
+      [728, 90],
+      [970, 30]
+    ]).
+    addSize([0, 0], [
+      [320, 50]
+    ]).
+    build();
+
+
+    var adSlot0 = googletag.defineSlot('/' + DFP_networkId + '/' + DFP_sitepage, DFPSlotSizes, "dfpAdPositionTop")
+      .defineSizeMapping(dfpSizeMapping)
+      .setTargeting("position", "Top")
+      .addService(googletag.pubads());
+
+    /*
+    var adSlot1 = googletag.defineSlot('/' + DFP_networkId + '/' + DFP_sitepage, DFPSlotSizes, "dfpAdPositionMiddle")
+                    .defineSizeMapping(dfpSizeMapping)
+                    .setTargeting("position", "Top2")
+                    .addService(googletag.pubads());
+    */
+
+    /*
+    var adSlot2 = googletag.defineSlot('/' + DFP_networkId + '/' + DFP_sitepage, DFPSlotSizes, "dfpAdPositionBottom")
+                    .defineSizeMapping(dfpSizeMapping)
+                    .setTargeting("position", "Top2")
+                    .addService(googletag.pubads());
+    */
+
+    googletag.pubads().enableAsyncRendering();
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+
+  });
+</script>
+{%endblock%}
+
+
+{%block content%}
+<section class="content-well clearfix">
+
+  <header id="story-head">
+    <h3>TEXAS SCHOOLS</h3>
+    <h1>Dallas ISD Grades</h1>
+    <h2>See where school district grades fall from A to F</h2>
+  </header>
+  <!-- end storyHead -->
+
+  <div class="byline-block">
+    <p>By <a target="_blank" href="mailto:taylor.johnston@dallasnews.com">Taylor Johnston</a> | Data and Interactives, Intern</p>
+    <p>August, 2019</p>
+    <!-- <p>Updated Month, Date, Year</p> -->
+  </div>
+  <!-- end bylineBlock -->
+
+  <div class="shareComments shareCommentsTop">
+    <ul id="share-bar1"></ul>
+  </div>
+  <!-- end shareComments -->
+<h4>Section Header Here</h4>
+
+<div class="bars">
+  <div class="percent econBar"></div>
+</div>
+
+<div class="bar-cont">
+  <div class="percent overallBar"></div>
+</div>
+
+<div class="bar-cont">
+  <div class="percent growthBar"></div>
+</div>
+
+<div class="bar-cont">
+  <div class="percent perfBar"></div>
+</div>
+
+<div class="bar-cont">
+  <div class="percent achievBar"></div>
+</div>
+
+
+  <!-- MAP -->
+  <div class="container">
+    <div id="map">
+
+      <!-- LEGEND -->
+      <div class='my-legend legend-overlay'>
+        <div class='legend-scale'>
+          <ul class='legend-labels'>
+            <li><span style='background:#329ce8;'>
+                <div id="grade-letter">A</div>
+              </span>(90-100)</li>
+            <li><span style='background:#52b033;'>
+                <div id="grade-letter">B</div>
+              </span>(80-89)</li>
+            <li><span style='background:#fec44f;'>
+                <div id="grade-letter">C</div>
+              </span>(70-79)</li>
+            <li><span style='background:#ff8f24;'>
+                <div id="grade-letter">D</div>
+              </span>(60-69)</li>
+            <li><span style='background:#e34e36;'>
+                <div id="grade-letter">F</div>
+              </span>(0-59)</li>
+            <li><span style='background:#999;'>
+                <div id="grade-letter">--</div>
+              </span>N/A</li>
+          </ul>
+        </div>
+        <div class="dot-charter">
+        </div>
+        <div class="dot-text">Charter Schools</div>
+      </div>
+    </div>
+
+    <!-- INFO BOX -->
+    <div class='info-container' id='map-features'>
+      <div class="info-text">
+
+        <!-- SCHOOL INFO -->
+        <div class="title">SCHOOL</div>
+        <div class="schoolName title"></div>
+
+        <!-- economic disadvantage -->
+        <div class="gradingMetric">% Economic Disadvantage: &nbsp
+          <div class="econSchool"></div><strong>%</strong>
+        </div>
+
+        <!-- overall performance -->
+        <div class="gradingMetric">Overall performance:
+          <div class="grades" id="overallSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- academic growth -->
+        <div class="gradingMetric">Academic growth:
+          <div class="grades" id="growthSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- relative performance -->
+        <div class="gradingMetric">Relative performance:
+          <div class="grades" id="performanceSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- student achievement -->
+        <div class="gradingMetric">Student achievement:
+          <div class="grades" id="achievementSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- closing the gaps -->
+        <div class="gradingMetric">Closing the gaps:
+          <div class="grades" id="gapSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <hr>
+
+        <!-- DISTRICT INFO -->
+        <div class="title">DISTRICT AVERAGE</div>
+        <div class="districtName title"></div>
+
+        <!-- economic disadvantage -->
+        <div class="gradingMetric">% Economic Disadvantage: &nbsp
+          <div class="econDistrict"></div><strong>%</strong>
+        </div>
+
+        <!-- overall performance -->
+        <div class="gradingMetric">Overall performance:
+          <div class="grades" id="overallDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- academic growth -->
+        <div class="gradingMetric">Academic growth:
+          <div class="grades" id="growthDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- relative performance -->
+        <div class="gradingMetric">Relative performance:
+          <div class="grades" id="performanceDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- student achievement -->
+        <div class="gradingMetric">Student achievement:
+          <div class="grades" id="achievementDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- closing the gaps -->
+        <div class="gradingMetric">Closing the gaps:
+          <div class="grades" id="achievementDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <h4>Section Header Here</h4>
+
+  <!-- DATA TABLES -->
+<table id="table_id" class="display" width="100%"></table>
+
+  <!-- GEOCODER -->
+  <div id='geocoder' class='geocoder'></div>
+  {%include "adblock1.html" %}
+
+
+
+  <p class="twitter-tag">Follow Taylor Johnston on Twitter at <a href="https://twitter.com/TF_Johnston">@TF_Johnston.</a></p>
+
+
+  <!-- end credits -->
+  <section class="more">
+    <h5>More from The Dallas Morning News</h5>
+    <div class="more__grid">
+      <a class="clearfix" href="#">
+        <img src="images/_defaultImage.jpg" alt="Fill this in">
+        <h6>Story title goes here</h6>
+        <p>Description of the story goes in this spot here</p>
+      </a>
+      <a class="clearfix" href="#">
+        <img src="images/_defaultImage.jpg" alt="Fill this in">
+        <h6>Story title goes here</h6>
+        <p>Description of the story goes in this spot here</p>
+      </a>
+      <a class="clearfix" href="#">
+        <img src="images/_defaultImage.jpg" alt="Fill this in">
+        <h6>Story title goes here</h6>
+        <p>Description of the story goes in this spot here</p>
+      </a>
+    </div>
+  </section>
+  <!-- end more -->
+
+
+  <div class="shareComments">
+    <div id="comments"></div>
+  </div>
+  <!-- end shareComments -->
+
+
+</section>
+<!-- end contentWell -->
+{%endblock%}
+
+
+
+
+{%block custom_foot%}
+<script type="text/javascript"></script>
+{%endblock%}
+
+
+
+
+
+{%block custom_social_meta%}
+<script type="text/javascript">
+  var storyTitle = "{{tweetText}}", // headline in tweet card
+    storyURL = "{{url}}",
+    leadText = "{{shareText}}", //description in tweet card
+    storyIMG = "{{imgURL}}",
+    storyAuthor = "{% for author in authors %}{{author}}{{', ' if not loop.last}}{% endfor %}",
+    twitterTag = "{{sectionTwitter}}",
+    comments = true,
+    share = true;
+  OAS_sitepage = 'www.dallasnews.com/{{desk}}/{{section}}/';
+</script>
+{%endblock%}

@@ -1,0 +1,364 @@
+@import 'base';
+@import 'header';
+@import 'footer';
+@import 'jquery.dataTables.min';
+@import 'responsive.dataTables.min';
+@import 'jquery-ui';
+
+h4 {
+  font-family: $sans;
+  font-weight: bold;
+}
+
+//BARS
+.bars {
+  width: 50%;
+  background-color: #ddd;
+}
+
+.percent {
+  text-align: right;
+  /* Right-align text */
+  padding-top: 10px;
+  /* Add top padding */
+  padding-bottom: 10px;
+  /* Add bottom padding */
+  color: white;
+  /* White text color */
+}
+
+.econBar {
+  width: 90%;
+  background-color: #4CAF50;
+}
+.overallBar {
+  width: 80%;
+  background-color: #2196F3;
+}
+.growthBar {
+  width: 65%;
+  background-color: #f44336;
+}
+.perfBar {
+  width: 60%;
+  background-color: #808080;
+}
+.achievBar {
+  width: 60%;
+  background-color:gold;
+}
+.container {
+  width: 100%;
+  overflow: hidden;
+}
+
+// MAP
+#map {
+  height: 600px;
+  margin-top: 2rem;
+  float: left;
+  width: 80%;
+}
+// POPUPS
+
+.mapboxgl-popup {
+  max-width: 100%;
+  font-family: $sans;
+  font-size: 1em;
+}
+// INFO BOX ON MAP
+
+.info-container {
+  background-color: #f7f7f7;
+  font-family: $sans;
+  border-radius: 3px;
+  z-index: 1;
+  overflow: hidden;
+  left: 2em;
+  /* if you don't want #second to wrap below #first */
+}
+
+#map-features {
+  height: 600px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  width: 20%;
+}
+
+.info-text {
+  margin: 1em;
+  font-family: $sans;
+}
+
+hr {
+  margin: 10em 0 1em;
+}
+
+.gradingMetric {
+  display: inline-block;
+  width: 100%;
+  font-size: 1.2em;
+  float: left;
+  padding-bottom: 8px;
+}
+
+.grades {
+  width: 35%;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  float: right;
+}
+
+.letter {
+  display: block;
+  font-weight: 700;
+  color: #dedede;
+  padding: 2px;
+}
+
+.a {
+  color: #dedede;
+
+  &.active {
+    background-color: #329ce8;
+    color: white !important;
+    padding: 2px;
+  }
+}
+
+.b {
+  color: #dedede;
+
+  &.active {
+    background-color: #52b033;
+    color: white !important;
+    padding: 2px;
+  }
+}
+
+.c {
+  color: #dedede;
+
+  &.active {
+    background-color: #fec44f;
+    color: white !important;
+    padding: 2px;
+  }
+}
+
+.d {
+  color: #dedede;
+
+  &.active {
+    background-color: #ff8f24;
+    color: white !important;
+    padding: 2px;
+  }
+}
+
+.f {
+  color: #dedede;
+
+  &.active {
+    background-color: #e34e36;
+    color: white !important;
+    padding: 2px;
+  }
+}
+
+.title {
+  margin-top: 10px;
+  margin-bottom: 8px;
+  font-size: 1.4em;
+}
+
+.schoolName {
+  font-size: 1.8em;
+  line-height: 1.8rem;
+  display: block;
+  font-weight: bold;
+}
+
+.econSchool {
+  display: inline-block;
+  font-weight: bold;
+}
+
+.overallSchool {
+  font-size: 1em;
+  display: inline-flex;
+  font-weight: bold;
+}
+
+.growthSchool {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.perfSchool {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.achievSchool {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.gapsSchool {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.districtName {
+  font-size: 1.8em;
+  line-height: 1.8rem;
+  display: block;
+  font-weight: bold;
+}
+
+.econDistrict {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.overallDistrict {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.growthDistrict {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.perfDistrict {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.achievDistrict {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.gapsDistrict {
+  font-size: 1em;
+  display: inline-block;
+  font-weight: bold;
+}
+// LEGEND
+
+.legend-overlay {
+  position: absolute;
+  bottom: 5px;
+  right: 0;
+  margin: 20px;
+  padding: 10px;
+  font-family: $sans;
+  z-index: 1;
+  background: #ffffff96;
+  border-radius: 2%;
+  padding-bottom: -5px;
+}
+
+.dot-charter {
+  height: 12px;
+  width: 12px;
+  background-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+.dot-text {
+  font-size: 1em;
+  font-family: $sans;
+  display: inline;
+}
+
+#grade-letter {
+  font-family: $sans;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.4em;
+  margin: 0.2em;
+}
+
+.my-legend .legend-scale ul li {
+  display: block;
+  float: left;
+  width: 50px;
+  margin-bottom: 10px;
+  top: 10px;
+  text-align: center;
+  font-size: 1em;
+  list-style: none;
+}
+
+.my-legend ul.legend-labels li span {
+  display: block;
+  float: left;
+  height: 25px;
+  width: 50px;
+}
+//GEOCODER
+.geocoder {
+  position: absolute;
+  z-index: 1;
+  width: 50%;
+  left: 50%;
+  margin-left: -25%;
+  top: 20px;
+}
+
+.mapboxgl-ctrl-geocoder {
+  min-width: 100%;
+}
+
+// RESIZING INFOBOX FOR DIFFERENT SCREENS
+@media (max-width: 1270px) {
+  #map {
+    height: 600px;
+    width: 70%;
+  }
+
+  #map-features {
+    height: 600px;
+    width: 30%;
+  }
+}
+@media (max-width: 850px) {
+  #map {
+    width: 60%;
+  }
+
+  #map-features {
+    height: 600px;
+    width: 40%;
+  }
+}
+@media (max-width: 700px) {
+  #map {
+    width: 100%;
+  }
+
+  #map-features {
+    height: 400px;
+    width: 100%;
+  }
+}
