@@ -1,0 +1,256 @@
+@import 'normalize/import-now';
+
+@import 'mixins';
+@import 'variables';
+@import 'base';
+
+html.embedded, html {
+  // Applied when embedded using Pym.js
+  font-size: 10px;
+}
+
+body {
+  // This helps Pym.js more more accurately measure our <body>
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+}
+
+#map-container {
+  position: relative;
+}
+
+#map {
+  height: 500px;
+}
+
+.key {
+  background-color: rgba(255,255,255,.9);
+  left: 0;
+  padding: 5px;
+  position: absolute;
+  top: 0;
+  z-index: 10;
+  p {
+    @include type(1.2rem, 1.5rem, .3rem);
+    padding-bottom: 0.3rem;
+    margin-top: 0;
+    text-align: center;
+  }
+}
+
+.mapboxgl-popup {
+    width: 280px;
+    font-family: $sans;
+    max-height: 500px;
+    overflow-y: auto;
+    z-index: 10;
+    pointer-events: auto;
+}
+
+.mapboxgl-popup-content {
+    color: $black50;
+    padding: 10px;
+    * {
+      margin-top: 0;
+    }
+    h5 {
+      font-weight: bold;
+      margin-bottom: .3rem;
+      font-weight: bold;
+      padding-right: 20px;
+    }
+    p {
+      font-size: 1.4rem;
+      line-height: 1.8rem;
+      margin-bottom: .3rem;
+    }
+}
+
+.mapboxgl-popup-close-button {
+    font-size: 2rem;
+    font-family: $sans;
+}
+
+// buttons
+.btn-group {
+  list-style-type: none;
+  padding: 0 0;
+}
+.btn-group li {
+  font-family: $sans;
+  display: inline-block;
+  border: 1px solid darken($black121, 5%);
+  border-radius: 3px;
+  background-color: $black121;
+  color: white;
+  font-weight: 700;
+  @include type(1.3rem, 1.8rem, 0);
+  @include transition(all, .25s, ease-out);
+  cursor: pointer;
+  margin-bottom: -50px;
+  padding: 3px;
+  &.active-layer {
+    background-color: $dmnblue;
+    border: 1px solid darken($dmnblue, 5%);
+  }
+  &:hover {
+      background-color: darken($dmnblue, 5%);
+      color: white;
+      box-shadow: 0 1px 2px rgba(0,0,0,.25);
+  }
+  &:active {
+      box-shadow: inset 0 1px 1px rgba(0,0,0,.5);
+      outline: none;
+  }
+}
+
+// LEGEND
+.map-overlay {
+  position: absolute;
+  bottom: 0;
+  top: 1em;
+  background: rgba(255, 255, 255, 0.8);
+  margin-left: 20px;
+  font-family: $sans;
+  overflow:visible;
+  border-radius: 3px;
+}
+
+#legend {
+    padding: 10px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    line-height: 20px;
+    height: 90px;
+    margin-bottom: 25px;
+    width: 170px;
+}
+
+.legend-key {
+  display: inline-block;
+  border-radius: 20%;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
+
+.dot-pub {
+  height: 12px;
+  width: 12px;
+  background-color: #000;
+  border-radius: 50%;
+  display: inline-block;
+  border-radius: 50%;
+
+}
+.dot-pri {
+  height: 12px;
+  width: 12px;
+  background-color: #626262;
+  border-radius: 50%;
+  display: inline-block;
+  border-radius: 50%;
+
+}
+
+.dot-text {
+  font-size: 1em;
+  display: inline-block;
+}
+
+//SCALE
+.gradientScale {
+  margin-top: 6px;
+}
+
+.scale {
+  width: 80px;
+  height: 10px;
+  margin: 20px 20px;
+  font-family: $sans;
+  display: none;
+}
+
+.scale:before {
+  font-family: $sans;
+  position: absolute;
+  margin-top: -20px;
+  left: 10px;
+  top: 72px;
+  font-weight: bold;
+}
+
+#populationScale:before {
+  content: 'Population';
+}
+
+#incomeScale:before {
+  content: 'Medium household income';
+}
+
+#povertyScale:before {
+  content: 'Poverty rate';
+}
+
+#raceScale:before {
+  content: 'Percent minority';
+}
+
+#right {
+  font-family: $sans;
+  font-size: 1em;
+  margin-bottom: 3px;
+  position: relative;
+  left: 45px;
+  list-style-type: none;
+  top: -5px;
+}
+
+#left {
+  font-family: $sans;
+  font-size: 1em;
+  margin-bottom: 3px;
+  position: relative;
+  right:58px;
+  list-style-type: none;
+  top: -28px;
+}
+.active-scale {
+  display:block;
+}
+
+#populationScale {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d73027+0,ffffff+50,1a9850+100 */ /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(247,251,255,1) 0%,rgba(33,113,181,1) 100%);  background: -o-linear-gradient(left, rgba(215,48,39,0.5) 0%, rgba(255,255,255,0.5) 50%, rgba(26,152,80,0.5) 100%);
+background: linear-gradient(to right, rgba(247,251,255,1) 0%,rgba(33,113,181,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7fbff', endColorstr='#2171b5',GradientType=1 );
+}
+
+#incomeScale {
+background: -webkit-linear-gradient(left, rgba(237,248,233,1) 0%,rgba(0,109,44,1) 100%);
+background: linear-gradient(to right, rgba(237,248,233,1) 0%,rgba(0,109,44,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edf8e9', endColorstr='#006d2c',GradientType=1 );
+}
+
+#povertyScale {
+background: -webkit-linear-gradient(left, rgba(242,240,247,1) 0%,rgba(74,20,134,1) 100%);
+background: linear-gradient(to right, rgba(242,240,247,1) 0%,rgba(74,20,134,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f0f7', endColorstr='#4a1486',GradientType=1 );
+}
+
+#raceScale {
+background: -webkit-linear-gradient(left, rgba(254,237,222,1) 0%,rgba(166,54,3,1) 100%);
+background: linear-gradient(to right, rgba(254,237,222,1) 0%,rgba(166,54,3,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feedde', endColorstr='#a63603',GradientType=1 );
+}
+
+@media (max-width: 400px) {
+  #map {
+    height: 300px;
+  }
+  .mapboxgl-popup {
+    width: 90%;
+  }
+}
