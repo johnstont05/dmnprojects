@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex, nofollow">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,700">
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.53.0/mapbox-gl.css' rel='stylesheet' />
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v3.1.6/mapbox-gl-geocoder.min.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v3.1.6/mapbox-gl-geocoder.css' type='text/css' />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+
+    <div id="embed__container">
+      <div class="embed__chatter">
+        <h4>Power outages across D-FW following Sunday storms</h4>
+        <p>Strong wind during storms on June 9 knocked out power for hundreds of thousands North Texans, some of whom may not have electricity restored for days. Click to view the number of outages in each zip code.</p>
+      </div>
+      <div class="embed__content">
+
+        <div id='mapwrap'>
+          <div id='map'></div>
+          <div id='geocoder' class='geocoder'></div>
+        </div>
+
+        <p class="source">Oncor outage data. Updated as of 4:40 p.m. June 12, 2019.</p>
+        <p class="credit">Ariana Giorgi, Stephanie Lamm and Taylor Johnston / The Dallas Morning News</p>
+      </div>
+    </div>
+
+    <script src="js/scripts.js"></script>
+    <script src="https://interactives.dallasnews.com/common/scripts/embed-tracker/embed-tracker.min.js"></script>
+  </body>
+</html>

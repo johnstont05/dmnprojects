@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+  <link rel="stylesheet" href="css/styles.css" />
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.css' rel='stylesheet' />
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.54.0/mapbox-gl.js'></script>
+</head>
+
+<body>
+
+  <div id="embed__container">
+    <div class="embed__chatter">
+      <h4>Dallas’ outdoor pools</h4>
+      <p>The map shows locations of the Dallas' outdoor public pools and aquatic centers, alongside the area’s demographics. Private pools at hotels, clubs and apartment complexes are concentrated in Uptown and North Dallas. Click each public pool to see the year it was built and upgrade date.</p>
+      <ul class="btn-group clearfix">
+        <!-- <li class="layer-toggle active-layer" id="population">Population</li> -->
+        <li class="layer-toggle active-layer" id="race">Race</li>
+        <li class="layer-toggle" id="income">Income</li>
+        <li class="layer-toggle" id="poverty">Poverty</li>
+      </ul>
+    </div>
+    <div class="embed__content">
+      <div id="map-container">
+        <div class='map-overlay' id='legend'>
+          <div class="dot-text dot dot-pub-upgraded">Public (Upgraded)</div>
+          <div class="dot-text dot dot-pub-notupgraded">Public (Not upgraded)</div>
+          <div class="dot-text dot dot-pri">Private</div>
+          <div class="gradientScale">
+            <ul class="scale active-scale" id="raceScale">
+              <li class="right">100%</li>
+              <li class="left">0%</li>
+            </ul>
+            <ul class="scale" id="incomeScale">
+              <li class="right">$100k+</li>
+              <li class="left">$0</li>
+            </ul>
+            <ul class="scale" id="povertyScale">
+              <li class="right">50%+</li>
+              <li class="left">0%</li>
+            </ul>
+          </div>
+        </div>
+        <div id="map"></div>
+
+      </div>
+      <p class="source"><strong>Source:</strong> City of Dallas; U.S. Census Bureau, 2017 ACS 5-Year Estimates. <strong>Note: </strong> The private pools shown are based on permits issued since May 2014.</p>
+      <p class="credit">Taylor Johnston / DMN</p>
+    </div>
+  </div>
+
+  <script src="js/scripts.js"></script>
+  <script src="https://interactives.dallasnews.com/common/scripts/embed-tracker/embed-tracker.min.js"></script>
+</body>
+
+</html>

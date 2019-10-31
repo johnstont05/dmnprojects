@@ -1,0 +1,157 @@
+#school-info {
+  font-family: $sans;
+  margin-bottom: 1.2rem;
+  padding-bottom: 1.2rem;
+  border: 1px solid $black235;
+  padding: 2.4rem;
+  box-shadow: 1px 1px 3px rgba($black215, .25), -1px 1px 3px rgba($black215, .25), 1px -1px 3px rgba($black215, .25), -1px -1px 3px rgba($black215, .25);
+  width: 90%;
+  margin: 0 auto 4.8rem;
+  h4 {
+    margin-bottom: .6rem;
+  }
+}
+
+.label-group {
+  margin-bottom: 2.4rem;
+  h5 {
+    font-weight: bold;
+    @include type(3rem, 3.6rem, 0);
+  }
+  p {
+    @include type(1.8rem, 2.4rem, 0);
+  }
+  p.label {
+    font-weight: bold;
+    @include type(1.2rem, 1.5rem, .3rem);
+    color: $black33;
+    text-transform: uppercase;
+  }
+  .field-value {
+    border-bottom: 1px solid $black235;
+  }
+}
+
+.label-grid {
+  display: grid;
+  .label-group {
+    margin-bottom: 0;
+  }
+}
+
+.grid-three-up {
+  grid-template-columns: 3fr 1fr 1fr;
+  grid-column-gap: 2.4rem;
+  grid-row-gap: 1.2rem;
+  @media (max-width: 750px) {
+    grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 2.4rem;
+    div:nth-child(1) {
+      grid-column: 1 / 4;
+    }
+    div:nth-child(2) {
+      grid-column: 1;
+    }
+    div:nth-child(3) {
+      grid-column: 2;
+    }
+  }
+}
+
+.grid-four-up {
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 2.4rem;
+  grid-row-gap: 1.2rem;
+  @media(max-width: 750px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.grid-five-up {
+  grid-template-columns: repeat(5, 1fr);
+  grid-column-gap: 2.4rem;
+  grid-row-gap: 1.2rem;
+  @media(max-width: 900px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  h6 > span {
+    display: block;
+  }
+  @media(max-width: 650px) {
+    grid-template-columns: repeat(2, 1fr);
+    h6 {
+      @include type(1.4rem, 1.8rem, 0rem)
+    }
+  }
+}
+
+#grad-info {
+  margin-top: 2.4rem;
+  padding-top: 2.4rem;
+  h6 {
+    font-weight: bold;
+  }
+  p.note {
+    @include type(1.4rem, 1.8rem, 1.2rem);
+  }
+}
+
+#ratings-dashboard {
+  font-family: $sans;
+  margin-top: 2.4rem;
+  padding-top: 2.4rem;
+  h5, h6 {
+    text-align: center;
+  }
+  > h6 {
+    text-align: left;
+    font-weight: bold;
+  }
+  h5 {
+    font-size: 4.8rem;
+    font-weight: bold;
+    line-height: 5.4rem;
+  }
+  ul {
+    margin: 0 auto;
+    max-width: 200px;
+  }
+  li {
+    color: white;
+    font-weight: bold;
+    height: 1.4rem;
+    line-height: 1.4rem;
+    margin-bottom: .6rem;
+    padding-left: 0.6rem;
+    position: relative;
+    span {
+      @include transition(all, .2s, ease-out);
+      background-color: $chartBlue;
+      border-radius: 0.8rem;
+      left: 0;
+      height: 1.4rem;
+      padding-right: .6rem;
+      position: absolute;
+      text-align: right;
+      top: 0;
+      width: 0;
+      z-index: -1;
+      &.no-pad {
+        padding-right: 0;
+      }
+    }
+    &:before {
+      @include psuedoElement(100%, 1.6rem, absolute);
+      background-color: $black235;
+      border-radius: .8rem;
+      height: 1.4rem;
+      left: 0;
+      top: 0;
+      z-index: -1;
+    }
+  }
+}
+
+.no-show {
+  display: none;
+}

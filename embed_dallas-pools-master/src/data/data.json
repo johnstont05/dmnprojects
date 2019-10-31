@@ -1,0 +1,6887 @@
+[
+  {
+    "Name": "COVE AT FRETZ AQUATIC CENTER",
+    "Year": "1970",
+    "Upgraded": "Y",
+    "upgraded_year": "Upgraded 2018",
+    "Latitude": 32.9495957,
+    "Longitude": -96.7846162,
+    "Type": "Public"
+  },
+  {
+    "Name": "LAKE HIGHLANDS NORTH AQUATIC CENTER",
+    "Year": "1970",
+    "upgraded_year": "Upgraded 2019",
+    "Upgraded": "Y",
+    "Latitude": 32.8858612,
+    "Longitude": -96.7309385,
+    "Type": "Public"
+  },
+  {
+    "Name": "PLEASANT OAKS POOL",
+    "Year": "1958",
+    "upgraded_year": "",
+    "Upgraded": "N",
+    "Latitude": 32.7517737,
+    "Longitude": -96.672374,
+    "Type": "Public"
+  },
+  {
+    "Name": "TOMMIE ALLEN POOL",
+    "Year": "1970",
+    "upgraded_year": "",
+    "Upgraded": "N",
+    "Latitude": 32.6606016,
+    "Longitude": -96.7533943,
+    "Type": "Public"
+  },
+  {
+    "Name": "TIETZE NEIGHBORHOOD AQUATIC CENTER",
+    "Year": "1947",
+    "upgraded_year": "Upgraded 2019",
+    "Upgraded": "Y",
+    "Latitude": 32.8220748,
+    "Longitude": -96.7606858,
+    "Type": "Public"
+  },
+  {
+    "Name": "EVERGLADE POOL",
+    "Year": "1975",
+    "upgraded_year": "",
+    "Upgraded": "N",
+    "Latitude": 32.7857584,
+    "Longitude": -96.6992262,
+    "Type": "Public"
+  },
+  {
+    "Name": "WALNUT HILL POOL",
+    "Year": "1954",
+    "upgraded_year": "",
+    "Upgraded": "N",
+    "Latitude": 32.8806663,
+    "Longitude": -96.8391236,
+    "Type": "Public"
+  },
+  {
+    "Name": "MARTIN WEISS POOL",
+    "Year": "1953",
+    "upgraded_year": "",
+    "Upgraded": "N",
+    "Latitude": 32.7346919,
+    "Longitude": -96.8759604,
+    "Type": "Public"
+  },
+  {
+    "Name": "COVE AT SAMUELL GRAND AQUATIC CENTER",
+    "Year": "1953",
+    "upgraded_year": "Upgraded 2018",
+    "Upgraded": "Y",
+    "Latitude": 32.7930022,
+    "Longitude": -96.7417383,
+    "Type": "Public"
+  },
+  {
+    "Name": "JAYCEE ZARAGOZA POOL",
+    "Year": "1974",
+    "upgraded_year": "",
+    "Upgraded": "N",
+    "Latitude": 32.7805767,
+    "Longitude": -96.9062725,
+    "Type": "Public"
+  },
+  {
+    "Name": "EXLINE POOL",
+    "Year": "1957",
+    "upgraded_year": "Will open with upgrades in 2020",
+    "Upgraded": "Y",
+    "Latitude": 32.7569669,
+    "Longitude": -96.7630836,
+    "Type": "Public"
+  },
+  {
+    "Name": "HARRY STONE POOL",
+    "Year": "1985",
+    "upgraded_year": "Will open with upgrades in 2020",
+    "Upgraded": "Y",
+    "Latitude": 32.8267197,
+    "Longitude": -96.674323,
+    "Type": "Public"
+  },
+  {
+    "Name": "GRAUWYLER POOL",
+    "Year": "1947",
+    "upgraded_year": "",
+    "Upgraded": "N",
+    "Latitude": 32.8316174,
+    "Longitude": -96.856512,
+    "Type": "Public"
+  },
+  {
+    "Name": "BONNIE VIEW POOL",
+    "Year": "1963",
+    "upgraded_year": "",
+    "Upgraded": "N",
+    "Latitude": 32.7337131,
+    "Longitude": -96.7951394,
+    "Type": "Public"
+  },
+  {
+    "Name": "GLENDALE POOL",
+    "Year": "1949",
+    "upgraded_year": "",
+    "Upgraded": "N",
+    "Latitude": 32.6849986,
+    "Longitude": -96.7982033,
+    "Type": "Public"
+  },
+  {
+    "Name": "KIDD SPRINGS AQUATIC CENTER",
+    "Year": "1959",
+    "upgraded_year": "Upgraded 2019",
+    "Upgraded": "Y",
+    "Latitude": 32.7531142,
+    "Longitude": -96.8353715,
+    "Type": "Public"
+  },
+  {
+    "Name": "COVE AT CRAWFORD AQUATIC CENTER",
+    "Year": "2018 (New site)",
+    "upgraded_year": "Upgraded 2018",
+    "Upgraded": "Y",
+    "Latitude": 32.7061015,
+    "Longitude": -96.6659036,
+    "Type": "Public"
+  },
+  {
+    "Name": "VILLAS OF SEAGOVILLE",
+    "Latitude": 32.6499804,
+    "Longitude": -96.5290164,
+    "Type": "Private"
+  },
+  {
+    "Name": "SKYE OF TURTLE CREEK",
+    "Latitude": 32.798523,
+    "Longitude": -96.810436,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE JOULE HOTEL",
+    "Latitude": 32.7805577,
+    "Longitude": -96.7983071,
+    "Type": "Private"
+  },
+  {
+    "Name": "THIRTY 377",
+    "Latitude": 32.8110688,
+    "Longitude": -96.7990152,
+    "Type": "Private"
+  },
+  {
+    "Name": "BUNGALOW BEACH CLUB",
+    "Latitude": 32.7941368,
+    "Longitude": -96.7911331,
+    "Type": "Private"
+  },
+  {
+    "Name": "STELLA",
+    "Latitude": 32.7948333,
+    "Longitude": -96.7973791,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON SQUARE TOWNHOMES DBA HOA",
+    "Latitude": 32.944142,
+    "Longitude": -96.8101029,
+    "Type": "Private"
+  },
+  {
+    "Name": "DON KNOBLER",
+    "Latitude": 32.821014,
+    "Longitude": -96.7897514,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOMERSET II APTS",
+    "Latitude": 32.8208556,
+    "Longitude": -96.7914404,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE ATWOOD",
+    "Latitude": 32.8490196,
+    "Longitude": -96.7642154,
+    "Type": "Private"
+  },
+  {
+    "Name": "SHERATON SUITES MARKET CENTER DALLAS",
+    "Latitude": 32.8004987,
+    "Longitude": -96.8252476,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE DWELLINGS AT KESSLER PARK",
+    "Latitude": 32.761961,
+    "Longitude": -96.85331,
+    "Type": "Private"
+  },
+  {
+    "Name": "CASA FELIZ APARTMENTS",
+    "Latitude": 32.7478361,
+    "Longitude": -96.8796271,
+    "Type": "Private"
+  },
+  {
+    "Name": "LINCOLN KESSLER PARK",
+    "Latitude": 32.7589349,
+    "Longitude": -96.8604573,
+    "Type": "Private"
+  },
+  {
+    "Name": "MARIPOSA VILLAS APARTMENTS",
+    "Latitude": 32.7279518,
+    "Longitude": -96.9095533,
+    "Type": "Private"
+  },
+  {
+    "Name": "WINSTED AT WHITE ROCK",
+    "Latitude": 32.8154581,
+    "Longitude": -96.7305419,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOUTH SIDE FLATS BY JEFFERSON",
+    "Latitude": 32.7699777,
+    "Longitude": -96.7967576,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAK CLIFF BOYS & GIRLS CLUB",
+    "Latitude": 32.7091082,
+    "Longitude": -96.7712321,
+    "Type": "Private"
+  },
+  {
+    "Name": "AXIS AT WYCLIFF",
+    "Latitude": 32.8105622,
+    "Longitude": -96.8165262,
+    "Type": "Private"
+  },
+  {
+    "Name": "4317 HARTFORD CONDOMINIUMS",
+    "Latitude": 32.8118435,
+    "Longitude": -96.8160434,
+    "Type": "Private"
+  },
+  {
+    "Name": "WYNDEMERE @ TURTLE CREEK",
+    "Latitude": 32.8103893,
+    "Longitude": -96.8049849,
+    "Type": "Private"
+  },
+  {
+    "Name": "CANTABRIA AT TURTLE CREEK",
+    "Latitude": 32.8044845,
+    "Longitude": -96.8093906,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALAMO SCHOOL POOL OF DISD",
+    "Latitude": 32.7773781,
+    "Longitude": -96.7763626,
+    "Type": "Private"
+  },
+  {
+    "Name": "BRIDGEPORT APTS",
+    "Latitude": 32.7898886,
+    "Longitude": -96.699714,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAK MEADOW APTS",
+    "Latitude": 32.849446,
+    "Longitude": -96.643195,
+    "Type": "Private"
+  },
+  {
+    "Name": "WOODBRIDGE APARTMENTS",
+    "Latitude": 32.8927008,
+    "Longitude": -96.773935,
+    "Type": "Private"
+  },
+  {
+    "Name": "8900 PARK LANE APARTMENTS INC",
+    "Latitude": 32.8682499,
+    "Longitude": -96.7451208,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE NASH",
+    "Latitude": 32.8876527,
+    "Longitude": -96.7632449,
+    "Type": "Private"
+  },
+  {
+    "Name": "TEALWOOD ON CREEK",
+    "Latitude": 32.8679183,
+    "Longitude": -96.7609166,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE WILDFLOWER III APTS",
+    "Latitude": 32.8733124,
+    "Longitude": -96.7543032,
+    "Type": "Private"
+  },
+  {
+    "Name": "TIERRA LINDA",
+    "Latitude": 32.7065771,
+    "Longitude": -96.8716038,
+    "Type": "Private"
+  },
+  {
+    "Name": "Y&O BURGUNDY, LLC BURGUNDY CONDOMINIUMS",
+    "Latitude": 32.9111331,
+    "Longitude": -96.8561327,
+    "Type": "Private"
+  },
+  {
+    "Name": "JEFFERSON WEST LOVE APARTMENTS",
+    "Latitude": 32.8280681,
+    "Longitude": -96.8475968,
+    "Type": "Private"
+  },
+  {
+    "Name": "BRANDON MILL APARTMENTS",
+    "Latitude": 32.650161,
+    "Longitude": -96.8836649,
+    "Type": "Private"
+  },
+  {
+    "Name": "REGAL CROSSING APARTMENTS",
+    "Latitude": 32.6555,
+    "Longitude": -96.8684808,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOLIDAY INN EXPRESS DALLAS - ARBORETUM",
+    "Latitude": 32.8801709,
+    "Longitude": -96.6874615,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAS TERRAZAS APARTMENTS",
+    "Latitude": 32.9325998,
+    "Longitude": -96.7632427,
+    "Type": "Private"
+  },
+  {
+    "Name": "AMERIGOLD SUITES",
+    "Latitude": 32.9355384,
+    "Longitude": -96.7546482,
+    "Type": "Private"
+  },
+  {
+    "Name": "HUNTER'S COURT APARTMENTS",
+    "Latitude": 32.9396523,
+    "Longitude": -96.7550111,
+    "Type": "Private"
+  },
+  {
+    "Name": "CAROLINA CHASE APTS",
+    "Latitude": 32.931487,
+    "Longitude": -96.815682,
+    "Type": "Private"
+  },
+  {
+    "Name": "CREEKBEND HOA",
+    "Latitude": 32.9182226,
+    "Longitude": -96.733111,
+    "Type": "Private"
+  },
+  {
+    "Name": "CREEKBEND HOA",
+    "Latitude": 32.9187479,
+    "Longitude": -96.733958,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE RESERVE @ LAKE HIGHLANDS",
+    "Latitude": 32.9063885,
+    "Longitude": -96.7187247,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON BEND APTS",
+    "Latitude": 33.0069247,
+    "Longitude": -96.7987146,
+    "Type": "Private"
+  },
+  {
+    "Name": "MCCALLUM CROSSING APARTMENTS",
+    "Latitude": 32.9876509,
+    "Longitude": -96.774035,
+    "Type": "Private"
+  },
+  {
+    "Name": "MAPLESHADE PARK",
+    "Latitude": 33.0083198,
+    "Longitude": -96.7858842,
+    "Type": "Private"
+  },
+  {
+    "Name": "BENTWOOD TRAILS",
+    "Latitude": 33.002639,
+    "Longitude": -96.798271,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAKWOOD COVE MOBILE HOMES",
+    "Latitude": 32.6860401,
+    "Longitude": -96.572246,
+    "Type": "Private"
+  },
+  {
+    "Name": "EAGLE CREEK APTS",
+    "Latitude": 33.009057,
+    "Longitude": -96.848358,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRING PARC",
+    "Latitude": 33.0000218,
+    "Longitude": -96.8550558,
+    "Type": "Private"
+  },
+  {
+    "Name": "CHAMPIONS OF NORTH DALLAS",
+    "Latitude": 33.0051953,
+    "Longitude": -96.8200971,
+    "Type": "Private"
+  },
+  {
+    "Name": "RANCHO PALISADES APARTMENTS PHASE I",
+    "Latitude": 33.002421,
+    "Longitude": -96.8235615,
+    "Type": "Private"
+  },
+  {
+    "Name": "4343 AT THE PARKWAY",
+    "Latitude": 33.011747,
+    "Longitude": -96.834465,
+    "Type": "Private"
+  },
+  {
+    "Name": "3939 ROSEMEADE",
+    "Latitude": 33.0107446,
+    "Longitude": -96.8455482,
+    "Type": "Private"
+  },
+  {
+    "Name": "ANDALUSIAN GATE",
+    "Latitude": 32.9941311,
+    "Longitude": -96.8533427,
+    "Type": "Private"
+  },
+  {
+    "Name": "TWENTYFIVE25",
+    "Latitude": 32.9914657,
+    "Longitude": -96.8648999,
+    "Type": "Private"
+  },
+  {
+    "Name": "ASSETS OF MORNINGSTAR LLC",
+    "Latitude": 32.9412878,
+    "Longitude": -96.8129168,
+    "Type": "Private"
+  },
+  {
+    "Name": "VISTA BUENA",
+    "Latitude": 32.9297477,
+    "Longitude": -96.7641628,
+    "Type": "Private"
+  },
+  {
+    "Name": "VISTA BUENA",
+    "Latitude": 32.9296193,
+    "Longitude": -96.7649157,
+    "Type": "Private"
+  },
+  {
+    "Name": "VISTA BUENA",
+    "Latitude": 32.9301085,
+    "Longitude": -96.760733,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOCUS DALLAS 98, LLC",
+    "Latitude": 32.9014063,
+    "Longitude": -96.7270178,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK NINETY - SIX NINETY .",
+    "Latitude": 32.9091712,
+    "Longitude": -96.7215124,
+    "Type": "Private"
+  },
+  {
+    "Name": "QUAIL HOLLOW APARTMENTS ALTONA DALLAS HOLDINGS LLC",
+    "Latitude": 32.7614273,
+    "Longitude": -96.6552355,
+    "Type": "Private"
+  },
+  {
+    "Name": "9505 ROYAL LANE LP",
+    "Latitude": 32.8947194,
+    "Longitude": -96.7378418,
+    "Type": "Private"
+  },
+  {
+    "Name": "CRP SKILLMAN APARTMENTS, LP",
+    "Latitude": 32.903428,
+    "Longitude": -96.711338,
+    "Type": "Private"
+  },
+  {
+    "Name": "CRP SKILLMAN APARTMENTS, LP",
+    "Latitude": 32.9026171,
+    "Longitude": -96.7115446,
+    "Type": "Private"
+  },
+  {
+    "Name": "CASTLE ROCK APARTMENTS",
+    "Latitude": 32.8932182,
+    "Longitude": -96.7268472,
+    "Type": "Private"
+  },
+  {
+    "Name": "B W HICKORY RANCH, LLC",
+    "Latitude": 32.6518356,
+    "Longitude": -96.8823186,
+    "Type": "Private"
+  },
+  {
+    "Name": "INWOOD CROSSROADS CONDOMINIUM ASSOC",
+    "Latitude": 32.8489337,
+    "Longitude": -96.8188889,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK VILLAGE",
+    "Latitude": 32.655219,
+    "Longitude": -96.887534,
+    "Type": "Private"
+  },
+  {
+    "Name": "PEGASUS VILLAS",
+    "Latitude": 32.8179389,
+    "Longitude": -96.8674668,
+    "Type": "Private"
+  },
+  {
+    "Name": "BANDERA APARTMENTS LLC",
+    "Latitude": 32.8673545,
+    "Longitude": -96.7879322,
+    "Type": "Private"
+  },
+  {
+    "Name": "SMG CARRIAGE, LP",
+    "Latitude": 32.8142169,
+    "Longitude": -96.756877,
+    "Type": "Private"
+  },
+  {
+    "Name": "VVSN HOLDING, LLC",
+    "Latitude": 32.8182609,
+    "Longitude": -96.8206133,
+    "Type": "Private"
+  },
+  {
+    "Name": "COLE ARMSTRONG HOLDING COMPANY LLC",
+    "Latitude": 32.822539,
+    "Longitude": -96.789751,
+    "Type": "Private"
+  },
+  {
+    "Name": "PREFERRED PLACE LLC",
+    "Latitude": 32.6595,
+    "Longitude": -96.886145,
+    "Type": "Private"
+  },
+  {
+    "Name": "RIVIERA AT WEST VILLAGE",
+    "Latitude": 32.8078071,
+    "Longitude": -96.7998552,
+    "Type": "Private"
+  },
+  {
+    "Name": "MCKINNEY UPTOWN",
+    "Latitude": 32.8047684,
+    "Longitude": -96.798473,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK TOWER",
+    "Latitude": 32.801381,
+    "Longitude": -96.8083876,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST KATY TRAIL, LLC",
+    "Latitude": 32.8077092,
+    "Longitude": -96.8007473,
+    "Type": "Private"
+  },
+  {
+    "Name": "2833 VICEROY LLC",
+    "Latitude": 32.817089,
+    "Longitude": -96.8219948,
+    "Type": "Private"
+  },
+  {
+    "Name": "APARTMENTS ON M-STREET",
+    "Latitude": 32.8111128,
+    "Longitude": -96.7765742,
+    "Type": "Private"
+  },
+  {
+    "Name": "EGW LIVE OAK INVESTMENT LP",
+    "Latitude": 32.7986299,
+    "Longitude": -96.7793682,
+    "Type": "Private"
+  },
+  {
+    "Name": "411 AKARD MASTER TENANT,LLC",
+    "Latitude": 32.783226,
+    "Longitude": -96.8006494,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTONWOOD GREEN",
+    "Latitude": 32.9676837,
+    "Longitude": -96.8165756,
+    "Type": "Private"
+  },
+  {
+    "Name": "PPF AMLI 2717 HOWELL ST, LLC",
+    "Latitude": 32.7996445,
+    "Longitude": -96.8020361,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALEXAN RIVEREDGE",
+    "Latitude": 32.7913892,
+    "Longitude": -96.8274811,
+    "Type": "Private"
+  },
+  {
+    "Name": "EPC-SOUN A, LLC",
+    "Latitude": 32.938078,
+    "Longitude": -96.983856,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE NEIGHBORHOODS OF CYPRESS WATERS",
+    "Latitude": 32.932253,
+    "Longitude": -96.9846339,
+    "Type": "Private"
+  },
+  {
+    "Name": "BILLINSLEY PROPERTY SERVICES II ,INC",
+    "Latitude": 32.9340227,
+    "Longitude": -96.990195,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE NEIGHBORHOODS OF CYPRESS WATERS",
+    "Latitude": 32.9330841,
+    "Longitude": -96.9865459,
+    "Type": "Private"
+  },
+  {
+    "Name": "FAIRFIELD SADLER LLC",
+    "Latitude": 32.8233459,
+    "Longitude": -96.8342652,
+    "Type": "Private"
+  },
+  {
+    "Name": "TRINITY FOREST",
+    "Latitude": 32.9085616,
+    "Longitude": -96.7413939,
+    "Type": "Private"
+  },
+  {
+    "Name": "JESUS MORALES",
+    "Latitude": 33.0819114,
+    "Longitude": -96.8577575,
+    "Type": "Private"
+  },
+  {
+    "Name": "CHAMPIONS OF NORTH DALLAS",
+    "Latitude": 33.0063939,
+    "Longitude": -96.8206551,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA TERRAZAS APARTMENTS",
+    "Latitude": 32.9325998,
+    "Longitude": -96.7632427,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRING HILL INVESTORS",
+    "Latitude": 32.9366947,
+    "Longitude": -96.7610817,
+    "Type": "Private"
+  },
+  {
+    "Name": "EPC-SOUN A LLC",
+    "Latitude": 32.938078,
+    "Longitude": -96.983856,
+    "Type": "Private"
+  },
+  {
+    "Name": "CHAMPIONS OF NORTH DALLAS",
+    "Latitude": 33.0064037,
+    "Longitude": -96.8220785,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE ALEXAN APARTMENTS",
+    "Latitude": 32.7975096,
+    "Longitude": -96.8140378,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE VILLAS AT KATY TRAIL",
+    "Latitude": 32.7995999,
+    "Longitude": -96.8087009,
+    "Type": "Private"
+  },
+  {
+    "Name": "TERRACE HOUSE",
+    "Latitude": 32.7990648,
+    "Longitude": -96.8096835,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALAMO MANHATTAN ROUTH LLC",
+    "Latitude": 32.8000457,
+    "Longitude": -96.8060375,
+    "Type": "Private"
+  },
+  {
+    "Name": "HYATT SUMMERFIELD SUITES DOWNTOWN",
+    "Latitude": 32.7949788,
+    "Longitude": -96.8098969,
+    "Type": "Private"
+  },
+  {
+    "Name": "AZURE",
+    "Latitude": 32.7959314,
+    "Longitude": -96.8085563,
+    "Type": "Private"
+  },
+  {
+    "Name": "WINDSOR AT TRIANON",
+    "Latitude": 32.7956283,
+    "Longitude": -96.8075983,
+    "Type": "Private"
+  },
+  {
+    "Name": "GABLES VILLA ROSA I",
+    "Latitude": 32.801121,
+    "Longitude": -96.803883,
+    "Type": "Private"
+  },
+  {
+    "Name": "GABLES VILLA ROSA II",
+    "Latitude": 32.799451,
+    "Longitude": -96.8052366,
+    "Type": "Private"
+  },
+  {
+    "Name": "ARTS GFPG LLC",
+    "Latitude": 32.7912478,
+    "Longitude": -96.7945188,
+    "Type": "Private"
+  },
+  {
+    "Name": "GABLES UPTOWN TRAIL",
+    "Latitude": 32.8003878,
+    "Longitude": -96.8072215,
+    "Type": "Private"
+  },
+  {
+    "Name": "LG ROUTH LP",
+    "Latitude": 32.7952609,
+    "Longitude": -96.8017141,
+    "Type": "Private"
+  },
+  {
+    "Name": "STATE THOMAS, LP",
+    "Latitude": 32.7934329,
+    "Longitude": -96.8003959,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE JORDAN UPTOWN",
+    "Latitude": 32.7933255,
+    "Longitude": -96.8015196,
+    "Type": "Private"
+  },
+  {
+    "Name": "JEFFERSON AT THE NORTH END",
+    "Latitude": 32.7880869,
+    "Longitude": -96.8066338,
+    "Type": "Private"
+  },
+  {
+    "Name": "CAMDEN FARMERS MARKET",
+    "Latitude": 32.7795418,
+    "Longitude": -96.7857553,
+    "Type": "Private"
+  },
+  {
+    "Name": "CAMDEN FARMERS MARKET",
+    "Latitude": 32.7807644,
+    "Longitude": -96.7880119,
+    "Type": "Private"
+  },
+  {
+    "Name": "MIRO APARTMENTS",
+    "Latitude": 32.7906448,
+    "Longitude": -96.8045795,
+    "Type": "Private"
+  },
+  {
+    "Name": "WINDSOR AT TURTLE CREEK",
+    "Latitude": 32.798523,
+    "Longitude": -96.810436,
+    "Type": "Private"
+  },
+  {
+    "Name": "COMMERCE STATLER DEVELOPMENT LLC",
+    "Latitude": 32.7801676,
+    "Longitude": -96.795,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE STATLER HOTEL",
+    "Latitude": 32.7806747,
+    "Longitude": -96.7946467,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE STATLER HOTEL DALLAS 1914 COMMERCE",
+    "Latitude": 32.7806747,
+    "Longitude": -96.7946467,
+    "Type": "Private"
+  },
+  {
+    "Name": "1900 MCKINNEY",
+    "Latitude": 32.7895775,
+    "Longitude": -96.8034923,
+    "Type": "Private"
+  },
+  {
+    "Name": "1900 PACIFIC HOLDING LP",
+    "Latitude": 32.7826271,
+    "Longitude": -96.7957961,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE CONTINENTIAL BUILDING",
+    "Latitude": 32.7802774,
+    "Longitude": -96.7956996,
+    "Type": "Private"
+  },
+  {
+    "Name": "FC MERC COMPLEX LP",
+    "Latitude": 32.7802774,
+    "Longitude": -96.7956996,
+    "Type": "Private"
+  },
+  {
+    "Name": "MERCANTILE PLACE",
+    "Latitude": 32.7810331,
+    "Longitude": -96.7960457,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE FAIRMONT DALLAS",
+    "Latitude": 32.7862613,
+    "Longitude": -96.8023638,
+    "Type": "Private"
+  },
+  {
+    "Name": "VICTORY PLACE",
+    "Latitude": 32.7917303,
+    "Longitude": -96.8090787,
+    "Type": "Private"
+  },
+  {
+    "Name": "HILTON GARDEN INN DOWNTOWN DALLAS",
+    "Latitude": 32.7818528,
+    "Longitude": -96.798723,
+    "Type": "Private"
+  },
+  {
+    "Name": "HILTON GARDEN INN DBA 1600 PACIFIC SUB TENANT, LLC",
+    "Latitude": 32.7817962,
+    "Longitude": -96.7988178,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE KIRBY RESIDENCES ON MAIN",
+    "Latitude": 32.7808319,
+    "Longitude": -96.7993307,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS INTERURBAN BUILDING",
+    "Latitude": 32.7789675,
+    "Longitude": -96.7976765,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE DAVIS BUILDING",
+    "Latitude": 32.780599,
+    "Longitude": -96.8005368,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALTA FARMERS MARKET",
+    "Latitude": 32.777802,
+    "Longitude": -96.7868004,
+    "Type": "Private"
+  },
+  {
+    "Name": "HARVEST LOFTS",
+    "Latitude": 32.7769369,
+    "Longitude": -96.7890134,
+    "Type": "Private"
+  },
+  {
+    "Name": "FARMERS MARKET SQUARE",
+    "Latitude": 32.7791904,
+    "Longitude": -96.7893817,
+    "Type": "Private"
+  },
+  {
+    "Name": "T. BOONE PICKENS YMCA DALLAS",
+    "Latitude": 32.7848387,
+    "Longitude": -96.8011078,
+    "Type": "Private"
+  },
+  {
+    "Name": "GPIF CRESCENT COURT HOTEL LLC",
+    "Latitude": 32.7945621,
+    "Longitude": -96.8044675,
+    "Type": "Private"
+  },
+  {
+    "Name": "GABLES REPUBLIC TOWER",
+    "Latitude": 32.783078,
+    "Longitude": -96.7976867,
+    "Type": "Private"
+  },
+  {
+    "Name": "WLK MOSAIC OWNER, LP",
+    "Latitude": 32.7825841,
+    "Longitude": -96.7996908,
+    "Type": "Private"
+  },
+  {
+    "Name": "LONE STAR GAS LOFTS",
+    "Latitude": 32.7796489,
+    "Longitude": -96.7948338,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAMILTON DPL",
+    "Latitude": 32.7794076,
+    "Longitude": -96.7984205,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE STONELEIGH HOTEL",
+    "Latitude": 32.7976202,
+    "Longitude": -96.8073464,
+    "Type": "Private"
+  },
+  {
+    "Name": "2220 CANTON HOMEOWNERS",
+    "Latitude": 32.7803355,
+    "Longitude": -96.7886389,
+    "Type": "Private"
+  },
+  {
+    "Name": "BUTLER BROS HOSPITALITY GROUP LLC",
+    "Latitude": 32.7773361,
+    "Longitude": -96.7954763,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRINGHILL SUITES",
+    "Latitude": 32.782732,
+    "Longitude": -96.8067035,
+    "Type": "Private"
+  },
+  {
+    "Name": "555 ROSS AVENUE (DBA)",
+    "Latitude": 32.7817735,
+    "Longitude": -96.8081405,
+    "Type": "Private"
+  },
+  {
+    "Name": "555 ROSS AVE APTS",
+    "Latitude": 32.7817735,
+    "Longitude": -96.8081405,
+    "Type": "Private"
+  },
+  {
+    "Name": "THIRD RAIL LOFTS",
+    "Latitude": 32.7808195,
+    "Longitude": -96.8002293,
+    "Type": "Private"
+  },
+  {
+    "Name": "ADOLPHUS HOTEL",
+    "Latitude": 32.7800411,
+    "Longitude": -96.7997282,
+    "Type": "Private"
+  },
+  {
+    "Name": "MANOR HOUSE APARTMENTS",
+    "Latitude": 32.7790942,
+    "Longitude": -96.8009951,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE METROPOLITAN",
+    "Latitude": 32.7798185,
+    "Longitude": -96.8012463,
+    "Type": "Private"
+  },
+  {
+    "Name": "CROWNE PLAZA DALLAS DOWNTOWN",
+    "Latitude": 32.7809726,
+    "Longitude": -96.8035775,
+    "Type": "Private"
+  },
+  {
+    "Name": "MARQUIS WEST END",
+    "Latitude": 32.781312,
+    "Longitude": -96.8055342,
+    "Type": "Private"
+  },
+  {
+    "Name": "OMNI DALLAS HOTEL",
+    "Latitude": 32.7751958,
+    "Longitude": -96.8041208,
+    "Type": "Private"
+  },
+  {
+    "Name": "ELAN DALLAS CITY LIGHTS OWNER LP",
+    "Latitude": 32.7885786,
+    "Longitude": -96.790396,
+    "Type": "Private"
+  },
+  {
+    "Name": "GRAND ESTATES @ FOUNDERS PARK",
+    "Latitude": 32.7608719,
+    "Longitude": -96.8182195,
+    "Type": "Private"
+  },
+  {
+    "Name": "EWING VILLAS",
+    "Latitude": 32.7393235,
+    "Longitude": -96.8108534,
+    "Type": "Private"
+  },
+  {
+    "Name": "ZANG TRIANGLE APARTMENTS",
+    "Latitude": 32.7600467,
+    "Longitude": -96.8196085,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAKS TRINITY LLC",
+    "Latitude": 32.763658,
+    "Longitude": -96.8177665,
+    "Type": "Private"
+  },
+  {
+    "Name": "SDC FIJI SENIORS VILLAGE",
+    "Latitude": 32.745924,
+    "Longitude": -96.801377,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAK BLUFF CONDOMINIUMS",
+    "Latitude": 32.8006864,
+    "Longitude": -96.7757545,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK GATES OF CITY PLACE",
+    "Latitude": 32.8041968,
+    "Longitude": -96.7867396,
+    "Type": "Private"
+  },
+  {
+    "Name": "VINTAGE APARTMENTS",
+    "Latitude": 32.8001902,
+    "Longitude": -96.7817752,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK GATES OF CITY PLACE",
+    "Latitude": 32.8041968,
+    "Longitude": -96.7867396,
+    "Type": "Private"
+  },
+  {
+    "Name": "IVY URBAN LIVING",
+    "Latitude": 32.8041968,
+    "Longitude": -96.7867396,
+    "Type": "Private"
+  },
+  {
+    "Name": "HUFFMAN KOA,LLC",
+    "Latitude": 32.8001902,
+    "Longitude": -96.7817752,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK GATES OF CITY PLACE",
+    "Latitude": 32.8032204,
+    "Longitude": -96.7860252,
+    "Type": "Private"
+  },
+  {
+    "Name": "IVY URBAN LIVING",
+    "Latitude": 32.8032204,
+    "Longitude": -96.7860252,
+    "Type": "Private"
+  },
+  {
+    "Name": "SWISSAIRE APARTMENTS",
+    "Latitude": 32.7960625,
+    "Longitude": -96.777724,
+    "Type": "Private"
+  },
+  {
+    "Name": "HB CAPITAL DALLAS LP",
+    "Latitude": 32.7996808,
+    "Longitude": -96.7824932,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MONTERREY - LEASING CENTER MELINDA KISSLING",
+    "Latitude": 32.8095625,
+    "Longitude": -96.7933303,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS THEOLOGICAL SEM",
+    "Latitude": 32.7943653,
+    "Longitude": -96.7799797,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS THEOLOGICAL SEMINARY",
+    "Latitude": 32.79343,
+    "Longitude": -96.7794006,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS THEOLOGICAL SEM",
+    "Latitude": 32.79343,
+    "Longitude": -96.7794006,
+    "Type": "Private"
+  },
+  {
+    "Name": "CIM/3636 MCKINNEY",
+    "Latitude": 32.8096237,
+    "Longitude": -96.796296,
+    "Type": "Private"
+  },
+  {
+    "Name": "LOFTS AT THE SAWYER",
+    "Latitude": 32.8096237,
+    "Longitude": -96.796296,
+    "Type": "Private"
+  },
+  {
+    "Name": "LOOS POOL",
+    "Latitude": 32.941829,
+    "Longitude": -96.849842,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRAGUE DISD POOL",
+    "Latitude": 32.697964,
+    "Longitude": -96.873664,
+    "Type": "Private"
+  },
+  {
+    "Name": "GABLES TURTLE CREEK CITYPLACE",
+    "Latitude": 32.808856,
+    "Longitude": -96.79789,
+    "Type": "Private"
+  },
+  {
+    "Name": "LENNOX AT WEST VILLAGE",
+    "Latitude": 32.808615,
+    "Longitude": -96.797697,
+    "Type": "Private"
+  },
+  {
+    "Name": "CIM 3636 MCKINNEY AVE DALLAS, LP",
+    "Latitude": 32.8073188,
+    "Longitude": -96.7966329,
+    "Type": "Private"
+  },
+  {
+    "Name": "WW ROSS AVENUE LP",
+    "Latitude": 32.7965291,
+    "Longitude": -96.7882192,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST COLES CORNER",
+    "Latitude": 32.8057203,
+    "Longitude": -96.799519,
+    "Type": "Private"
+  },
+  {
+    "Name": "LG LEMMON OAK GROVE, LLC",
+    "Latitude": 32.8046502,
+    "Longitude": -96.7973779,
+    "Type": "Private"
+  },
+  {
+    "Name": "3324 MCKINNEY AVE APTS INV LLC",
+    "Latitude": 32.8047684,
+    "Longitude": -96.798473,
+    "Type": "Private"
+  },
+  {
+    "Name": "CARLISLE ON THE KATY TRAIL",
+    "Latitude": 32.8065509,
+    "Longitude": -96.8016895,
+    "Type": "Private"
+  },
+  {
+    "Name": "GABLES UPTOWN TOWER",
+    "Latitude": 32.8038881,
+    "Longitude": -96.8001454,
+    "Type": "Private"
+  },
+  {
+    "Name": "BOIS DU CHEN HMOWNS ASSOC",
+    "Latitude": 32.8040315,
+    "Longitude": -96.8007307,
+    "Type": "Private"
+  },
+  {
+    "Name": "MANCHESTER STATE THOMAS",
+    "Latitude": 32.7992571,
+    "Longitude": -96.7943734,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST HEIGHTS OF STATE THOMAS",
+    "Latitude": 32.7979469,
+    "Longitude": -96.7986246,
+    "Type": "Private"
+  },
+  {
+    "Name": "MANCHESTER STATE THOMAS",
+    "Latitude": 32.7980782,
+    "Longitude": -96.7968769,
+    "Type": "Private"
+  },
+  {
+    "Name": "MONACO ON THE TRAIL",
+    "Latitude": 32.8034524,
+    "Longitude": -96.8033199,
+    "Type": "Private"
+  },
+  {
+    "Name": "SVF BLACKBURN DALLAS CORP",
+    "Latitude": 32.8084334,
+    "Longitude": -96.7939543,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOREST CITY RESIDENTIAL",
+    "Latitude": 32.8072965,
+    "Longitude": -96.7947463,
+    "Type": "Private"
+  },
+  {
+    "Name": "MERCER SQUARE CONDOMINIUS",
+    "Latitude": 32.8007306,
+    "Longitude": -96.8005621,
+    "Type": "Private"
+  },
+  {
+    "Name": "28 TWENTY EIGHT",
+    "Latitude": 32.797694,
+    "Longitude": -96.7998293,
+    "Type": "Private"
+  },
+  {
+    "Name": "GABLES @ KATY TRAIL",
+    "Latitude": 32.8019508,
+    "Longitude": -96.8043483,
+    "Type": "Private"
+  },
+  {
+    "Name": "EGW FITZHUGH INVESTMENT LP",
+    "Latitude": 32.8150425,
+    "Longitude": -96.7878146,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST WORTHINGTON",
+    "Latitude": 32.7986109,
+    "Longitude": -96.8003081,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST PROPERTIES",
+    "Latitude": 32.8016955,
+    "Longitude": -96.803086,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LINDEN IN TOWN",
+    "Latitude": 32.8107688,
+    "Longitude": -96.7892888,
+    "Type": "Private"
+  },
+  {
+    "Name": "TMT MILO APARTMENTS, INC.",
+    "Latitude": 32.8107688,
+    "Longitude": -96.7892888,
+    "Type": "Private"
+  },
+  {
+    "Name": "MARQUIS @ TEXAS STREET",
+    "Latitude": 32.7895844,
+    "Longitude": -96.7884715,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST PROPERTIES",
+    "Latitude": 32.8003971,
+    "Longitude": -96.8011319,
+    "Type": "Private"
+  },
+  {
+    "Name": "BRADY",
+    "Latitude": 32.80169,
+    "Longitude": -96.8051616,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST UPTOWN VILLAGE APTS",
+    "Latitude": 32.7944783,
+    "Longitude": -96.7965977,
+    "Type": "Private"
+  },
+  {
+    "Name": "FITZHUGH URBAN FLATS",
+    "Latitude": 32.8136978,
+    "Longitude": -96.7862617,
+    "Type": "Private"
+  },
+  {
+    "Name": "FITZHUGH URBAN FLATS",
+    "Latitude": 32.8136978,
+    "Longitude": -96.7862617,
+    "Type": "Private"
+  },
+  {
+    "Name": "CITYVILLE DALLAS HASKELL LP",
+    "Latitude": 32.807135,
+    "Longitude": -96.7896663,
+    "Type": "Private"
+  },
+  {
+    "Name": "SC ONE DALLAS LLC",
+    "Latitude": 32.797091,
+    "Longitude": -96.801943,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE CLUB DALLAS",
+    "Latitude": 32.7864562,
+    "Longitude": -96.7882627,
+    "Type": "Private"
+  },
+  {
+    "Name": "2610 ALLEN STREET GP A DELAWARE LI",
+    "Latitude": 32.7990764,
+    "Longitude": -96.7998073,
+    "Type": "Private"
+  },
+  {
+    "Name": "GABLES MIRABELLA",
+    "Latitude": 32.7995167,
+    "Longitude": -96.8047489,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST MERIDIAN",
+    "Latitude": 32.7975592,
+    "Longitude": -96.798637,
+    "Type": "Private"
+  },
+  {
+    "Name": "HUE AT CITYPLACE",
+    "Latitude": 32.8017341,
+    "Longitude": -96.7921566,
+    "Type": "Private"
+  },
+  {
+    "Name": "MFREFV-CITYPLACE, LLC",
+    "Latitude": 32.8017341,
+    "Longitude": -96.7921566,
+    "Type": "Private"
+  },
+  {
+    "Name": "BEL LOFT ROW LLC BEL LOFT ROW LLC",
+    "Latitude": 32.8042019,
+    "Longitude": -96.785299,
+    "Type": "Private"
+  },
+  {
+    "Name": "FISCH PROPERTIES , LP",
+    "Latitude": 32.8121347,
+    "Longitude": -96.7775569,
+    "Type": "Private"
+  },
+  {
+    "Name": "TREYMORE AT CITY PLACE APTS",
+    "Latitude": 32.8022664,
+    "Longitude": -96.788328,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE ICON AT ROSS",
+    "Latitude": 32.7951611,
+    "Longitude": -96.7903123,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS THEOLOGICAL SEMINARY",
+    "Latitude": 32.7935943,
+    "Longitude": -96.7804426,
+    "Type": "Private"
+  },
+  {
+    "Name": "910 TEXAS STREET",
+    "Latitude": 32.791378,
+    "Longitude": -96.7913556,
+    "Type": "Private"
+  },
+  {
+    "Name": "ELIZABETH VENTURE LLP",
+    "Latitude": 32.8139495,
+    "Longitude": -96.7909453,
+    "Type": "Private"
+  },
+  {
+    "Name": "STILLWATER PEAK DEVELOPMENT LLC",
+    "Latitude": 32.8042019,
+    "Longitude": -96.785299,
+    "Type": "Private"
+  },
+  {
+    "Name": "CEDAR LODGE APTS",
+    "Latitude": 32.849003,
+    "Longitude": -96.812602,
+    "Type": "Private"
+  },
+  {
+    "Name": "TRAVIS COLE APARTMENTS 2012 LP",
+    "Latitude": 32.826147,
+    "Longitude": -96.78777,
+    "Type": "Private"
+  },
+  {
+    "Name": "AMLI RESIDENTIAL - KNOX HENDERSON",
+    "Latitude": 32.824427,
+    "Longitude": -96.7878034,
+    "Type": "Private"
+  },
+  {
+    "Name": "MIRAMAR KNOX LP",
+    "Latitude": 32.824427,
+    "Longitude": -96.7878034,
+    "Type": "Private"
+  },
+  {
+    "Name": "CIM 4649 COLE AVENUE DALLAS LP",
+    "Latitude": 32.8239486,
+    "Longitude": -96.7884793,
+    "Type": "Private"
+  },
+  {
+    "Name": "TC KNOX HEIGHTS",
+    "Latitude": 32.8239007,
+    "Longitude": -96.7865394,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOMERSET APTS",
+    "Latitude": 32.8208556,
+    "Longitude": -96.7914404,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE ALEXANDRIA - 4408",
+    "Latitude": 32.8201217,
+    "Longitude": -96.7902069,
+    "Type": "Private"
+  },
+  {
+    "Name": "AURA ON MCKINNEY",
+    "Latitude": 32.8167932,
+    "Longitude": -96.791941,
+    "Type": "Private"
+  },
+  {
+    "Name": "STREETLIGHTS",
+    "Latitude": 32.8281154,
+    "Longitude": -96.7846376,
+    "Type": "Private"
+  },
+  {
+    "Name": "BELL FUND V KNOX-HENDERSON,LLC",
+    "Latitude": 32.8250945,
+    "Longitude": -96.7854928,
+    "Type": "Private"
+  },
+  {
+    "Name": "IP WHITEROCK, LP",
+    "Latitude": 32.8140811,
+    "Longitude": -96.7308427,
+    "Type": "Private"
+  },
+  {
+    "Name": "COLE AVE CONDOMINIUMS",
+    "Latitude": 32.8172623,
+    "Longitude": -96.7922053,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE CLIFFS IN THE VILLAGE",
+    "Latitude": 32.8573522,
+    "Longitude": -96.7575184,
+    "Type": "Private"
+  },
+  {
+    "Name": "NORTHBRIDGE APTS",
+    "Latitude": 32.859698,
+    "Longitude": -96.756634,
+    "Type": "Private"
+  },
+  {
+    "Name": "UPPER EASTSIDE",
+    "Latitude": 32.859698,
+    "Longitude": -96.756634,
+    "Type": "Private"
+  },
+  {
+    "Name": "SACK-N-SAVE",
+    "Latitude": 32.8587957,
+    "Longitude": -96.7582187,
+    "Type": "Private"
+  },
+  {
+    "Name": "NORTHBRIDGE APTS",
+    "Latitude": 32.8587725,
+    "Longitude": -96.7582122,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LAKES IN THE VILLAGE",
+    "Latitude": 32.8577642,
+    "Longitude": -96.761057,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAGE COUNTRY CLUB",
+    "Latitude": 32.8605382,
+    "Longitude": -96.7649066,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MEADOW IN THE VILLAGE",
+    "Latitude": 32.8567196,
+    "Longitude": -96.7646626,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE DAKOTA IN THE VILLAGE",
+    "Latitude": 32.8646393,
+    "Longitude": -96.7637629,
+    "Type": "Private"
+  },
+  {
+    "Name": "WESTSIDE IN THE VILLAGE",
+    "Latitude": 32.8638726,
+    "Longitude": -96.7645349,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BEND EAST IN THE VILLAGE APARTMEN",
+    "Latitude": 32.8534039,
+    "Longitude": -96.7602345,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BEND IN THE VILLAGE PHASE III",
+    "Latitude": 32.8553264,
+    "Longitude": -96.760742,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAGE GREEN II ASSOCIATES, LTD",
+    "Latitude": 32.8521941,
+    "Longitude": -96.7608783,
+    "Type": "Private"
+  },
+  {
+    "Name": "GRAND RESERVE DALLAS",
+    "Latitude": 32.850515,
+    "Longitude": -96.762574,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BEND EAST IN THE VILLAGE PHASE II",
+    "Latitude": 32.854819,
+    "Longitude": -96.762553,
+    "Type": "Private"
+  },
+  {
+    "Name": "SANDHURST MANOR",
+    "Latitude": 32.8454976,
+    "Longitude": -96.7616694,
+    "Type": "Private"
+  },
+  {
+    "Name": "STILLWATER AP-2 DEVELOPMENT LLC",
+    "Latitude": 32.8490196,
+    "Longitude": -96.7642154,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE STANDARD",
+    "Latitude": 32.8457714,
+    "Longitude": -96.764526,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE STANDARD APARTMENTS LP",
+    "Latitude": 32.8457714,
+    "Longitude": -96.764526,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA CIMA NEWPORT PARTNERS, LLC",
+    "Latitude": 32.8477622,
+    "Longitude": -96.7651248,
+    "Type": "Private"
+  },
+  {
+    "Name": "PREMIER PLACE LIFE TIME ATHLETIC",
+    "Latitude": 32.8386211,
+    "Longitude": -96.7752494,
+    "Type": "Private"
+  },
+  {
+    "Name": "PREMIER PLACE LIFE TIME ATHLETIC",
+    "Latitude": 32.8386211,
+    "Longitude": -96.7752494,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE HILL IN THE VILLAGE",
+    "Latitude": 32.8607949,
+    "Longitude": -96.7653228,
+    "Type": "Private"
+  },
+  {
+    "Name": "BELL CARLYLE PARTNERS",
+    "Latitude": 32.844369,
+    "Longitude": -96.768687,
+    "Type": "Private"
+  },
+  {
+    "Name": "TURTLE DOVE INVESTORS",
+    "Latitude": 32.8304404,
+    "Longitude": -96.7683375,
+    "Type": "Private"
+  },
+  {
+    "Name": "HIGHLAND HOTEL & RESIDENCES",
+    "Latitude": 32.8355513,
+    "Longitude": -96.7784876,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPUS7 BOULEVARD LP",
+    "Latitude": 32.841628,
+    "Longitude": -96.770857,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE PHOENIX MIDTOWN",
+    "Latitude": 32.8373356,
+    "Longitude": -96.7730778,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE CHASE IN THE VILLAGE - PHASE II",
+    "Latitude": 32.8547658,
+    "Longitude": -96.7660917,
+    "Type": "Private"
+  },
+  {
+    "Name": "5 MOCKINGBIRD",
+    "Latitude": 32.8373356,
+    "Longitude": -96.7730778,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA FITNESS",
+    "Latitude": 32.852135,
+    "Longitude": -96.7685081,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BEND IN THE VILLAGE PHASE I",
+    "Latitude": 32.8550833,
+    "Longitude": -96.7636617,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAGE GREEN I ASSOCIATES, LTD.",
+    "Latitude": 32.8525524,
+    "Longitude": -96.7626516,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE PARK APARTMENTS",
+    "Latitude": 32.8525989,
+    "Longitude": -96.7647279,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LOFTS AT MOCKINGBIRD STATION",
+    "Latitude": 32.8376887,
+    "Longitude": -96.7762529,
+    "Type": "Private"
+  },
+  {
+    "Name": "AVANA KNOX HENDERSON",
+    "Latitude": 32.81517,
+    "Longitude": -96.7806033,
+    "Type": "Private"
+  },
+  {
+    "Name": "T R LANDMARK",
+    "Latitude": 32.8499873,
+    "Longitude": -96.7653612,
+    "Type": "Private"
+  },
+  {
+    "Name": "LIC DALLAS APTS, INC.",
+    "Latitude": 32.8199444,
+    "Longitude": -96.783123,
+    "Type": "Private"
+  },
+  {
+    "Name": "STILLWATER AP1 DEVELOPMENT LLC",
+    "Latitude": 32.8485875,
+    "Longitude": -96.7653259,
+    "Type": "Private"
+  },
+  {
+    "Name": "STRATA",
+    "Latitude": 32.8127395,
+    "Longitude": -96.7802597,
+    "Type": "Private"
+  },
+  {
+    "Name": "APTCO MEDICAL DISTRICT LLC",
+    "Latitude": 32.8158724,
+    "Longitude": -96.8258046,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LIVE OAKS AT THE BRANCH",
+    "Latitude": 32.8429947,
+    "Longitude": -96.7625229,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE TEAK",
+    "Latitude": 32.8427746,
+    "Longitude": -96.7636604,
+    "Type": "Private"
+  },
+  {
+    "Name": "CREST AT GLENCOE",
+    "Latitude": 32.832984,
+    "Longitude": -96.7764614,
+    "Type": "Private"
+  },
+  {
+    "Name": "EGW EASTON INVESTMENTS LP",
+    "Latitude": 32.8156693,
+    "Longitude": -96.7811054,
+    "Type": "Private"
+  },
+  {
+    "Name": "BENNETT PLACE APARTMENTS",
+    "Latitude": 32.8112731,
+    "Longitude": -96.7804804,
+    "Type": "Private"
+  },
+  {
+    "Name": "AH APARTMENTS LP",
+    "Latitude": 32.8092849,
+    "Longitude": -96.7783049,
+    "Type": "Private"
+  },
+  {
+    "Name": "FEB RESIDENTIAL, LLC",
+    "Latitude": 32.8093337,
+    "Longitude": -96.7754381,
+    "Type": "Private"
+  },
+  {
+    "Name": "BNSPP PROPERTIES LLC",
+    "Latitude": 32.8093337,
+    "Longitude": -96.7754381,
+    "Type": "Private"
+  },
+  {
+    "Name": "EGW GREENVILLE INVESTMENT LP",
+    "Latitude": 32.8125995,
+    "Longitude": -96.7705149,
+    "Type": "Private"
+  },
+  {
+    "Name": "PGH WHITE LLC",
+    "Latitude": 32.808008,
+    "Longitude": -96.776984,
+    "Type": "Private"
+  },
+  {
+    "Name": "1809 BENNETT AVE",
+    "Latitude": 32.808008,
+    "Longitude": -96.776984,
+    "Type": "Private"
+  },
+  {
+    "Name": "BELMONT COURT APARTMENTS",
+    "Latitude": 32.8130543,
+    "Longitude": -96.782804,
+    "Type": "Private"
+  },
+  {
+    "Name": "FLATS AT THE SAWYER",
+    "Latitude": 32.8073188,
+    "Longitude": -96.7966329,
+    "Type": "Private"
+  },
+  {
+    "Name": "EMBASSY SUITES HOTEL DALLAS",
+    "Latitude": 32.8077698,
+    "Longitude": -96.8448572,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS MARKET CENTER HILTON GARDEN INN",
+    "Latitude": 32.801952,
+    "Longitude": -96.8331698,
+    "Type": "Private"
+  },
+  {
+    "Name": "HILTON ANATOLE HOTEL",
+    "Latitude": 32.8000009,
+    "Longitude": -96.8292638,
+    "Type": "Private"
+  },
+  {
+    "Name": "ARC HOSPITALITY PORTFOLIO I NTCTRS,LP",
+    "Latitude": 32.7990421,
+    "Longitude": -96.8247605,
+    "Type": "Private"
+  },
+  {
+    "Name": "DOUBLETREE DALLAS MARKET CTR",
+    "Latitude": 32.7974774,
+    "Longitude": -96.8261012,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALTA STRAND",
+    "Latitude": 32.7958763,
+    "Longitude": -96.8256396,
+    "Type": "Private"
+  },
+  {
+    "Name": "BELL DESIGN DISTRICT",
+    "Latitude": 32.7977287,
+    "Longitude": -96.8206135,
+    "Type": "Private"
+  },
+  {
+    "Name": "FUND DESIGN DISTRICT LLC",
+    "Latitude": 32.7959923,
+    "Longitude": -96.8218686,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALTA DESIGN DISTRICT",
+    "Latitude": 32.792978,
+    "Longitude": -96.816128,
+    "Type": "Private"
+  },
+  {
+    "Name": "PPF AMLI 1400 HI LINE DRIVE LP",
+    "Latitude": 32.7952228,
+    "Longitude": -96.816146,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOMEWOOD SUITES BY HILTON",
+    "Latitude": 32.8090467,
+    "Longitude": -96.847896,
+    "Type": "Private"
+  },
+  {
+    "Name": "3700 M",
+    "Latitude": 32.8076932,
+    "Longitude": -96.7962127,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA FITNESS INTERNATIONAL",
+    "Latitude": 32.8067293,
+    "Longitude": -96.7906453,
+    "Type": "Private"
+  },
+  {
+    "Name": "KERRIGAN PARTNERS, LTD",
+    "Latitude": 32.7631824,
+    "Longitude": -96.8492439,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROYAL PARK APTS",
+    "Latitude": 32.7533216,
+    "Longitude": -96.8245886,
+    "Type": "Private"
+  },
+  {
+    "Name": "LYNXETTE EXPLORATION LLC",
+    "Latitude": 32.7692322,
+    "Longitude": -96.8346844,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALTA YORKTOWN OWNER LP",
+    "Latitude": 32.7698418,
+    "Longitude": -96.8341816,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALEXAN WEST DALLAS",
+    "Latitude": 32.7720992,
+    "Longitude": -96.8327969,
+    "Type": "Private"
+  },
+  {
+    "Name": "KENSINGTON RIVERFALL, LLC",
+    "Latitude": 32.745465,
+    "Longitude": -96.831408,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALTA WEST COMMERCE LLC",
+    "Latitude": 32.7723353,
+    "Longitude": -96.8302712,
+    "Type": "Private"
+  },
+  {
+    "Name": "TW COMMERCE - EP320 LLC",
+    "Latitude": 32.7723353,
+    "Longitude": -96.8302712,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALAMO MANHATTAN BAD LLC",
+    "Latitude": 32.7499506,
+    "Longitude": -96.8244649,
+    "Type": "Private"
+  },
+  {
+    "Name": "LE PARC CONDOMINIUMS",
+    "Latitude": 32.8668327,
+    "Longitude": -96.788661,
+    "Type": "Private"
+  },
+  {
+    "Name": "INWOOD CROSSROADS CONDOMINIUMS",
+    "Latitude": 32.8489337,
+    "Longitude": -96.8188889,
+    "Type": "Private"
+  },
+  {
+    "Name": "FAIRFAX APARTMENTS I, LP",
+    "Latitude": 32.8335438,
+    "Longitude": -96.8238305,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE ARCHES AT PARK CITIES",
+    "Latitude": 32.8445641,
+    "Longitude": -96.8329723,
+    "Type": "Private"
+  },
+  {
+    "Name": "HIGHLAND PLACE CONDO'S",
+    "Latitude": 32.833768,
+    "Longitude": -96.8235147,
+    "Type": "Private"
+  },
+  {
+    "Name": "LMICS, LLC",
+    "Latitude": 32.8266358,
+    "Longitude": -96.8198494,
+    "Type": "Private"
+  },
+  {
+    "Name": "WINDSOR WEST LEMMON",
+    "Latitude": 32.8266358,
+    "Longitude": -96.8198494,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAK PARK HOA",
+    "Latitude": 32.8272453,
+    "Longitude": -96.8203696,
+    "Type": "Private"
+  },
+  {
+    "Name": "CITYVILLE OAK PARK",
+    "Latitude": 32.8255731,
+    "Longitude": -96.8201294,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARKFORD APTS",
+    "Latitude": 32.8235636,
+    "Longitude": -96.8206527,
+    "Type": "Private"
+  },
+  {
+    "Name": "ARTISAN RIDGE",
+    "Latitude": 32.7389788,
+    "Longitude": -96.9152233,
+    "Type": "Private"
+  },
+  {
+    "Name": "STAG II APARTMENTS LLC",
+    "Latitude": 32.7389788,
+    "Longitude": -96.9152233,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROLLING MEADOWS INVESTORS, LLC",
+    "Latitude": 32.718444,
+    "Longitude": -96.9054505,
+    "Type": "Private"
+  },
+  {
+    "Name": "MOUNTAIN VIEW COLLEGE (DCCCD)",
+    "Latitude": 32.7269983,
+    "Longitude": -96.903725,
+    "Type": "Private"
+  },
+  {
+    "Name": "ATLAS VISTAS OF PINNACLE PARK LLC",
+    "Latitude": 32.7500245,
+    "Longitude": -96.8981169,
+    "Type": "Private"
+  },
+  {
+    "Name": "HILLSIDE WEST SENIORS, LP",
+    "Latitude": 32.7578585,
+    "Longitude": -96.8789144,
+    "Type": "Private"
+  },
+  {
+    "Name": "CASA FELIZ APTS",
+    "Latitude": 32.7478361,
+    "Longitude": -96.8796271,
+    "Type": "Private"
+  },
+  {
+    "Name": "CASA FELIZ APTS",
+    "Latitude": 32.747534,
+    "Longitude": -96.878887,
+    "Type": "Private"
+  },
+  {
+    "Name": "RESIDENCE INN DALLAS AT THE CANYON",
+    "Latitude": 32.7659586,
+    "Longitude": -96.8761077,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE VILLAS OF REMOND",
+    "Latitude": 32.763033,
+    "Longitude": -96.870872,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS BAPTIST UNIVERSITY",
+    "Latitude": 32.7100766,
+    "Longitude": -96.9469828,
+    "Type": "Private"
+  },
+  {
+    "Name": "TELSTAR APARTMENTS",
+    "Latitude": 32.7490287,
+    "Longitude": -96.8673397,
+    "Type": "Private"
+  },
+  {
+    "Name": "VERNAZZA APARTMENTS",
+    "Latitude": 32.7490287,
+    "Longitude": -96.8673397,
+    "Type": "Private"
+  },
+  {
+    "Name": "RESIDENCE AT THE OAKS",
+    "Latitude": 32.7162174,
+    "Longitude": -96.9069189,
+    "Type": "Private"
+  },
+  {
+    "Name": "2626 DUNCANVILLE ROAD LLC",
+    "Latitude": 32.7173891,
+    "Longitude": -96.9083171,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAKWOOD APARTMENTS",
+    "Latitude": 32.7551657,
+    "Longitude": -96.8616008,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MERIDIAN AT KESSLER PARK",
+    "Latitude": 32.757742,
+    "Longitude": -96.8626116,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK CREEK MANOR APARTMENTS",
+    "Latitude": 32.7206213,
+    "Longitude": -96.8779717,
+    "Type": "Private"
+  },
+  {
+    "Name": "VIEW AT KESSLER PARK",
+    "Latitude": 32.7573662,
+    "Longitude": -96.8596361,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAMPTON INN & SUITES",
+    "Latitude": 32.7688831,
+    "Longitude": -96.8948004,
+    "Type": "Private"
+  },
+  {
+    "Name": "WESTMOUNT PLACE CONDO'S",
+    "Latitude": 32.7607671,
+    "Longitude": -96.8675088,
+    "Type": "Private"
+  },
+  {
+    "Name": "CHURCHILL AT PINNACLE PARK",
+    "Latitude": 32.7583763,
+    "Longitude": -96.8955091,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE HOMES OF MOUNTAIN CREEK",
+    "Latitude": 32.9077067,
+    "Longitude": -96.7525063,
+    "Type": "Private"
+  },
+  {
+    "Name": "PINNACLE RIDGE SPE LLC",
+    "Latitude": 32.7569274,
+    "Longitude": -96.8910671,
+    "Type": "Private"
+  },
+  {
+    "Name": "TOWN VIEW MOBILE HOME PARK",
+    "Latitude": 32.7597943,
+    "Longitude": -96.9123732,
+    "Type": "Private"
+  },
+  {
+    "Name": "MOULIN ROUGE APTS",
+    "Latitude": 32.757949,
+    "Longitude": -96.8716658,
+    "Type": "Private"
+  },
+  {
+    "Name": "MOSAIC MILL RUN",
+    "Latitude": 32.7586863,
+    "Longitude": -96.866295,
+    "Type": "Private"
+  },
+  {
+    "Name": "MOSAIC MILL RUN APTS",
+    "Latitude": 32.7586863,
+    "Longitude": -96.866295,
+    "Type": "Private"
+  },
+  {
+    "Name": "FRENCH COLONY DALLAS, LLC",
+    "Latitude": 32.7578235,
+    "Longitude": -96.8691521,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOLIDAY HILLS I APTS",
+    "Latitude": 32.7533358,
+    "Longitude": -96.8589883,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKE WEST YMCA",
+    "Latitude": 32.7866096,
+    "Longitude": -96.858713,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT @ LAKEWEST",
+    "Latitude": 32.7807547,
+    "Longitude": -96.8558219,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE AUSTIN @TRINITY GREEN",
+    "Latitude": 32.7777917,
+    "Longitude": -96.8418808,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK SIDE AT TRINITY GREEN",
+    "Latitude": 32.7771143,
+    "Longitude": -96.8404865,
+    "Type": "Private"
+  },
+  {
+    "Name": "CYPRESS AT TRINITY",
+    "Latitude": 32.7776891,
+    "Longitude": -96.8284516,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE AVERY ON SOUTHWESTERN",
+    "Latitude": 32.8559235,
+    "Longitude": -96.7560647,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BLUFFS OF LAKEWOOD APTS",
+    "Latitude": 32.8098542,
+    "Longitude": -96.7303361,
+    "Type": "Private"
+  },
+  {
+    "Name": "BLUFFS OF LAKEWOOD HOA",
+    "Latitude": 32.8098542,
+    "Longitude": -96.7303361,
+    "Type": "Private"
+  },
+  {
+    "Name": "TENISON AT WHITE ROCK",
+    "Latitude": 32.8054774,
+    "Longitude": -96.7301239,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKEWOOD FLATS OWNER LP",
+    "Latitude": 32.806914,
+    "Longitude": -96.730652,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKEWOOD FLATS OWNER LP",
+    "Latitude": 32.806914,
+    "Longitude": -96.730652,
+    "Type": "Private"
+  },
+  {
+    "Name": "WHITE ROCK CORONADO HOLDING LP",
+    "Latitude": 32.8083831,
+    "Longitude": -96.730255,
+    "Type": "Private"
+  },
+  {
+    "Name": "WHITE ROCK CORONADO HLDGS.",
+    "Latitude": 32.8083831,
+    "Longitude": -96.730255,
+    "Type": "Private"
+  },
+  {
+    "Name": "WHITE ROCK YMCA",
+    "Latitude": 32.8135591,
+    "Longitude": -96.7343156,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA VITA ON LOVERS LN",
+    "Latitude": 32.854107,
+    "Longitude": -96.7470921,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKEWOOD COUNTRY CLUB",
+    "Latitude": 32.8140615,
+    "Longitude": -96.7510327,
+    "Type": "Private"
+  },
+  {
+    "Name": "RESERVE ON ABRAMS",
+    "Latitude": 32.8547263,
+    "Longitude": -96.7516681,
+    "Type": "Private"
+  },
+  {
+    "Name": "JAMES & PATRICIA",
+    "Latitude": 32.8368111,
+    "Longitude": -96.7591411,
+    "Type": "Private"
+  },
+  {
+    "Name": "6011 GASTON AVE",
+    "Latitude": 32.8106708,
+    "Longitude": -96.757113,
+    "Type": "Private"
+  },
+  {
+    "Name": "POWER PROPERTIES",
+    "Latitude": 32.810385,
+    "Longitude": -96.7575313,
+    "Type": "Private"
+  },
+  {
+    "Name": "INDIO PARTNERS, LP",
+    "Latitude": 32.8140811,
+    "Longitude": -96.7308427,
+    "Type": "Private"
+  },
+  {
+    "Name": "BPP WINSTED WHITE ROCK LP",
+    "Latitude": 32.8154581,
+    "Longitude": -96.7305419,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKEWOOD ON HENDERSON LLC",
+    "Latitude": 32.7987979,
+    "Longitude": -96.7596456,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOWLER CHRISTIAN APARTMENTS",
+    "Latitude": 32.8035405,
+    "Longitude": -96.7534446,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKEWOOD ON THE TRAIL",
+    "Latitude": 32.8081877,
+    "Longitude": -96.747521,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKEWOOD ON THE TRAIL",
+    "Latitude": 32.8084211,
+    "Longitude": -96.7458973,
+    "Type": "Private"
+  },
+  {
+    "Name": "PINNACLE AMS",
+    "Latitude": 32.7574357,
+    "Longitude": -96.7472892,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK SOUTH YMCA",
+    "Latitude": 32.7589463,
+    "Longitude": -96.7634739,
+    "Type": "Private"
+  },
+  {
+    "Name": "AMERICAN BEAUTY MILL LOFTS",
+    "Latitude": 32.767047,
+    "Longitude": -96.782003,
+    "Type": "Private"
+  },
+  {
+    "Name": "NYLO DALLAS SOUTH SIDE",
+    "Latitude": 32.7676868,
+    "Longitude": -96.7961238,
+    "Type": "Private"
+  },
+  {
+    "Name": "LISBON SCHOOL POOL OF DISD",
+    "Latitude": 32.693911,
+    "Longitude": -96.7850802,
+    "Type": "Private"
+  },
+  {
+    "Name": "LANCASTER URBAN VILLAGE",
+    "Latitude": 32.6944669,
+    "Longitude": -96.7942859,
+    "Type": "Private"
+  },
+  {
+    "Name": "OVERTON PARK",
+    "Latitude": 32.6986528,
+    "Longitude": -96.8229171,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAGE OAKS APTS",
+    "Latitude": 32.7214411,
+    "Longitude": -96.7680948,
+    "Type": "Private"
+  },
+  {
+    "Name": "52 VHH LLC",
+    "Latitude": 32.7214411,
+    "Longitude": -96.7680948,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT @ CEDAR CREST BLVD",
+    "Latitude": 32.7172312,
+    "Longitude": -96.7743806,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT OF OAK HOLLOW",
+    "Latitude": 32.6964555,
+    "Longitude": -96.7700142,
+    "Type": "Private"
+  },
+  {
+    "Name": "REESE COURT VILLAS",
+    "Latitude": 32.7342897,
+    "Longitude": -96.8117659,
+    "Type": "Private"
+  },
+  {
+    "Name": "MOORLAND YMCA",
+    "Latitude": 32.6845584,
+    "Longitude": -96.8117805,
+    "Type": "Private"
+  },
+  {
+    "Name": "GRACE PRESBYTERIAN VILLAGE",
+    "Latitude": 32.69088,
+    "Longitude": -96.816315,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE VILLAGES OF DALLAS",
+    "Latitude": 32.69088,
+    "Longitude": -96.816315,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE FLATS AT FIVE MILE CREEK",
+    "Latitude": 32.6852253,
+    "Longitude": -96.8182569,
+    "Type": "Private"
+  },
+  {
+    "Name": "220 OVERTON APTS DALLAS, LLC",
+    "Latitude": 32.6997357,
+    "Longitude": -96.8211855,
+    "Type": "Private"
+  },
+  {
+    "Name": "CLIFF PARK VILLAGE APARTMENTS",
+    "Latitude": 32.6997357,
+    "Longitude": -96.8211855,
+    "Type": "Private"
+  },
+  {
+    "Name": "OMNI AG AT THE FALLS",
+    "Latitude": 32.7490943,
+    "Longitude": -96.6540552,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUPER 7 INN",
+    "Latitude": 32.703224,
+    "Longitude": -96.6555017,
+    "Type": "Private"
+  },
+  {
+    "Name": "STERLINGSHINE",
+    "Latitude": 32.7493502,
+    "Longitude": -96.6586625,
+    "Type": "Private"
+  },
+  {
+    "Name": "PLEASANT GROVE SCHOOL POOL OF DISD",
+    "Latitude": 32.7303042,
+    "Longitude": -96.6806029,
+    "Type": "Private"
+  },
+  {
+    "Name": "LACKLAND RIO LTD",
+    "Latitude": 32.732652,
+    "Longitude": -96.6642968,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MASTERS APARTMENTS LP",
+    "Latitude": 32.7314712,
+    "Longitude": -96.6479023,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT @ PEMBERTON HILL",
+    "Latitude": 32.713426,
+    "Longitude": -96.7136896,
+    "Type": "Private"
+  },
+  {
+    "Name": "MURDEAUX VILLAS APTS",
+    "Latitude": 32.7112054,
+    "Longitude": -96.6959719,
+    "Type": "Private"
+  },
+  {
+    "Name": "LEGENDS DFW 4, LLC.",
+    "Latitude": 32.862864,
+    "Longitude": -96.702276,
+    "Type": "Private"
+  },
+  {
+    "Name": "TMIF LEGENDS LP",
+    "Latitude": 32.862864,
+    "Longitude": -96.702276,
+    "Type": "Private"
+  },
+  {
+    "Name": "LEGENDS DFW 4, LLC.",
+    "Latitude": 32.862177,
+    "Longitude": -96.7034572,
+    "Type": "Private"
+  },
+  {
+    "Name": "TMIF LEGENDS LP",
+    "Latitude": 32.862177,
+    "Longitude": -96.7034572,
+    "Type": "Private"
+  },
+  {
+    "Name": "ESTANCIA HILLS APARTMENT",
+    "Latitude": 32.8522436,
+    "Longitude": -96.6932198,
+    "Type": "Private"
+  },
+  {
+    "Name": "WHITE ROCK SCHOOL POOL OF DISD",
+    "Latitude": 32.8359006,
+    "Longitude": -96.6912561,
+    "Type": "Private"
+  },
+  {
+    "Name": "WHITE ROCK LAKE APARTMENT VILLAS",
+    "Latitude": 32.8307413,
+    "Longitude": -96.7089735,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAK WHITE ROCK APTS",
+    "Latitude": 32.8338777,
+    "Longitude": -96.7074556,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS ARBORETUM",
+    "Latitude": 32.8241651,
+    "Longitude": -96.7139551,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKE CHATEAU APTS",
+    "Latitude": 32.837541,
+    "Longitude": -96.6942592,
+    "Type": "Private"
+  },
+  {
+    "Name": "ZEKE",
+    "Latitude": 32.8436316,
+    "Longitude": -96.6922797,
+    "Type": "Private"
+  },
+  {
+    "Name": "IFC WHITEROCK, INC",
+    "Latitude": 32.8463456,
+    "Longitude": -96.7108124,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROEHAMPTON COURTS HOMEOWNERS ASSOC",
+    "Latitude": 32.99952,
+    "Longitude": -96.8012901,
+    "Type": "Private"
+  },
+  {
+    "Name": "5310 KELLER SPRINGS CONDOMINIUMS",
+    "Latitude": 32.9673497,
+    "Longitude": -96.8144587,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE SPRINGS APTS",
+    "Latitude": 32.8196001,
+    "Longitude": -96.82099,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARKSIDE CEDARSPRINGS HOA",
+    "Latitude": 32.8185702,
+    "Longitude": -96.8207048,
+    "Type": "Private"
+  },
+  {
+    "Name": "THUNDERBIRD CONDOMINIUMS",
+    "Latitude": 32.8182609,
+    "Longitude": -96.8206133,
+    "Type": "Private"
+  },
+  {
+    "Name": "FAIRFIELD MADISON LLC",
+    "Latitude": 32.8187821,
+    "Longitude": -96.8185727,
+    "Type": "Private"
+  },
+  {
+    "Name": "NXRT ATERA LLC",
+    "Latitude": 32.8187821,
+    "Longitude": -96.8185727,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE DYLAN",
+    "Latitude": 32.817064,
+    "Longitude": -96.8192318,
+    "Type": "Private"
+  },
+  {
+    "Name": "4425 GILBERT LLC",
+    "Latitude": 32.820923,
+    "Longitude": -96.8111945,
+    "Type": "Private"
+  },
+  {
+    "Name": "LOS NOGALES CONDOMINNUMS",
+    "Latitude": 32.8126148,
+    "Longitude": -96.8153435,
+    "Type": "Private"
+  },
+  {
+    "Name": "RBS BROWN DEVELOPMENT LP",
+    "Latitude": 32.818558,
+    "Longitude": -96.8110567,
+    "Type": "Private"
+  },
+  {
+    "Name": "CRESTPARK IN HIGHLAND PARK",
+    "Latitude": 32.822239,
+    "Longitude": -96.8128631,
+    "Type": "Private"
+  },
+  {
+    "Name": "THROCKMORTON LP",
+    "Latitude": 32.820419,
+    "Longitude": -96.803847,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALEXAN FAIRMOUNT",
+    "Latitude": 32.8089006,
+    "Longitude": -96.8168402,
+    "Type": "Private"
+  },
+  {
+    "Name": "PURE FAIRMOUNT APTS, LLC",
+    "Latitude": 32.8089006,
+    "Longitude": -96.8168402,
+    "Type": "Private"
+  },
+  {
+    "Name": "KANAWHA PROPERTIES LTD",
+    "Latitude": 32.8166195,
+    "Longitude": -96.8095947,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAS ON GILBERT",
+    "Latitude": 32.8180252,
+    "Longitude": -96.8076157,
+    "Type": "Private"
+  },
+  {
+    "Name": "EDEN AT AVONDALE",
+    "Latitude": 32.817652,
+    "Longitude": -96.8048554,
+    "Type": "Private"
+  },
+  {
+    "Name": "ILUME",
+    "Latitude": 32.8116443,
+    "Longitude": -96.8132487,
+    "Type": "Private"
+  },
+  {
+    "Name": "ILUME APARTMENTS OAKLAWN PARK, LP",
+    "Latitude": 32.8116443,
+    "Longitude": -96.8132487,
+    "Type": "Private"
+  },
+  {
+    "Name": "4110 FAIRMOUNT APARTMENTS",
+    "Latitude": 32.8081711,
+    "Longitude": -96.815752,
+    "Type": "Private"
+  },
+  {
+    "Name": "EQUINOX PARK PLACE",
+    "Latitude": 32.8179976,
+    "Longitude": -96.8028656,
+    "Type": "Private"
+  },
+  {
+    "Name": "TWENTY ONE TURTLE CREEK",
+    "Latitude": 32.8153072,
+    "Longitude": -96.7998987,
+    "Type": "Private"
+  },
+  {
+    "Name": "TALL TREES HOA",
+    "Latitude": 32.8112011,
+    "Longitude": -96.8078516,
+    "Type": "Private"
+  },
+  {
+    "Name": "3631 CEDAR SPRINGS LLC",
+    "Latitude": 32.8077143,
+    "Longitude": -96.8080552,
+    "Type": "Private"
+  },
+  {
+    "Name": "MARQUIS ON CEDAR SPRINGS",
+    "Latitude": 32.8082622,
+    "Longitude": -96.8068486,
+    "Type": "Private"
+  },
+  {
+    "Name": "RADIUS TURTLE CREEK",
+    "Latitude": 32.8082622,
+    "Longitude": -96.8068486,
+    "Type": "Private"
+  },
+  {
+    "Name": "RIENZI",
+    "Latitude": 32.8031377,
+    "Longitude": -96.8106913,
+    "Type": "Private"
+  },
+  {
+    "Name": "GALLERY AT TURTLE CREEK",
+    "Latitude": 32.8059552,
+    "Longitude": -96.8056738,
+    "Type": "Private"
+  },
+  {
+    "Name": "RENAISSANCE ON TURTLE CREEK",
+    "Latitude": 32.806751,
+    "Longitude": -96.8047924,
+    "Type": "Private"
+  },
+  {
+    "Name": "ILUME",
+    "Latitude": 32.81363,
+    "Longitude": -96.8138322,
+    "Type": "Private"
+  },
+  {
+    "Name": "ILUME DP APARTMENTS LP",
+    "Latitude": 32.81363,
+    "Longitude": -96.8138322,
+    "Type": "Private"
+  },
+  {
+    "Name": "CEDAR POINTE MULTIFAMILY LLC",
+    "Latitude": 32.8145278,
+    "Longitude": -96.8170375,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MARQUIS AT TURTLE CREEK",
+    "Latitude": 32.8065282,
+    "Longitude": -96.8064268,
+    "Type": "Private"
+  },
+  {
+    "Name": "BROADSTONE WYCLIFF LP",
+    "Latitude": 32.8130537,
+    "Longitude": -96.8163569,
+    "Type": "Private"
+  },
+  {
+    "Name": "TPG KINGS LLC",
+    "Latitude": 32.8172703,
+    "Longitude": -96.8215383,
+    "Type": "Private"
+  },
+  {
+    "Name": "DRI/TRG CEDAR SPRINGS LLC",
+    "Latitude": 32.8152884,
+    "Longitude": -96.8181853,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LUCAS",
+    "Latitude": 32.8152884,
+    "Longitude": -96.8181853,
+    "Type": "Private"
+  },
+  {
+    "Name": "BRIDGE TOWER DALLAS THREE, LLC",
+    "Latitude": 32.8098113,
+    "Longitude": -96.8122834,
+    "Type": "Private"
+  },
+  {
+    "Name": "SCHUMACHER/STEPPING STONE LLC",
+    "Latitude": 32.8108681,
+    "Longitude": -96.8149841,
+    "Type": "Private"
+  },
+  {
+    "Name": "CAMDEN PROPERTY TRUST",
+    "Latitude": 32.7917299,
+    "Longitude": -96.8115707,
+    "Type": "Private"
+  },
+  {
+    "Name": "2727 PN SPE LLC",
+    "Latitude": 32.8164622,
+    "Longitude": -96.8238369,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOOD ST TOWNHOMES",
+    "Latitude": 32.8054226,
+    "Longitude": -96.8099384,
+    "Type": "Private"
+  },
+  {
+    "Name": "IMT SEVILLE UPTOWN",
+    "Latitude": 32.8065177,
+    "Longitude": -96.8139146,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLA TORINO",
+    "Latitude": 32.812211,
+    "Longitude": -96.821189,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAK LAWN HEIGHTS APARTMENTS",
+    "Latitude": 32.8120234,
+    "Longitude": -96.8202927,
+    "Type": "Private"
+  },
+  {
+    "Name": "LBJ PROPERTIES",
+    "Latitude": 32.8110873,
+    "Longitude": -96.81971,
+    "Type": "Private"
+  },
+  {
+    "Name": "INKWELL GROUP LLC",
+    "Latitude": 32.8110873,
+    "Longitude": -96.81971,
+    "Type": "Private"
+  },
+  {
+    "Name": "W DALLAS VICTORY",
+    "Latitude": 32.7885145,
+    "Longitude": -96.8091375,
+    "Type": "Private"
+  },
+  {
+    "Name": "ARPEGGIO AT VICTORY PARK",
+    "Latitude": 32.7882307,
+    "Longitude": -96.8112432,
+    "Type": "Private"
+  },
+  {
+    "Name": "VISTA DALLAS APARTMENT COMPANY",
+    "Latitude": 32.7870379,
+    "Longitude": -96.8090127,
+    "Type": "Private"
+  },
+  {
+    "Name": "SKYHOUSE DALLAS",
+    "Latitude": 32.7858027,
+    "Longitude": -96.8083486,
+    "Type": "Private"
+  },
+  {
+    "Name": "REAVANS LAKE AVENUE LLC",
+    "Latitude": 32.8166195,
+    "Longitude": -96.8095947,
+    "Type": "Private"
+  },
+  {
+    "Name": "QUALITY INN",
+    "Latitude": 32.8773438,
+    "Longitude": -96.8966625,
+    "Type": "Private"
+  },
+  {
+    "Name": "CROSSWINDS ESTATES LLC",
+    "Latitude": 32.869605,
+    "Longitude": -96.864894,
+    "Type": "Private"
+  },
+  {
+    "Name": "AIGP CORNESTONE APARTMENTS LLC",
+    "Latitude": 32.8560252,
+    "Longitude": -96.8742216,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPANISH PUEBLO APARTMENTS",
+    "Latitude": 32.8743314,
+    "Longitude": -96.8666071,
+    "Type": "Private"
+  },
+  {
+    "Name": "NORTHWEST CROSSING APTS.",
+    "Latitude": 32.8609069,
+    "Longitude": -96.8675601,
+    "Type": "Private"
+  },
+  {
+    "Name": "NORTHWEST CROSSING APTS.",
+    "Latitude": 32.8602977,
+    "Longitude": -96.8674763,
+    "Type": "Private"
+  },
+  {
+    "Name": "SANTA FE APARTMENTS",
+    "Latitude": 32.8640094,
+    "Longitude": -96.874684,
+    "Type": "Private"
+  },
+  {
+    "Name": "REGAL VILLAS APTS",
+    "Latitude": 32.8637323,
+    "Longitude": -96.8735931,
+    "Type": "Private"
+  },
+  {
+    "Name": "RICHELIEU APTS",
+    "Latitude": 32.8635943,
+    "Longitude": -96.8537306,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE ASH AT THE BRANCH",
+    "Latitude": 32.8421855,
+    "Longitude": -96.7640583,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE GATES OF BLUFFVIEW APTS",
+    "Latitude": 32.8627232,
+    "Longitude": -96.8486398,
+    "Type": "Private"
+  },
+  {
+    "Name": "ELAN @ BLUFFVIEW",
+    "Latitude": 32.860849,
+    "Longitude": -96.8517888,
+    "Type": "Private"
+  },
+  {
+    "Name": "VREC PECAN LP",
+    "Latitude": 32.86549,
+    "Longitude": -96.8656976,
+    "Type": "Private"
+  },
+  {
+    "Name": "OVER THE RAINBOW APTS",
+    "Latitude": 32.8654182,
+    "Longitude": -96.8606221,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE VICTORIAN APTS",
+    "Latitude": 32.8637219,
+    "Longitude": -96.8653828,
+    "Type": "Private"
+  },
+  {
+    "Name": "BAYOU BEND APTS",
+    "Latitude": 32.8666134,
+    "Longitude": -96.8680076,
+    "Type": "Private"
+  },
+  {
+    "Name": "GREEN STREET PARTNERS, GP",
+    "Latitude": 32.8628974,
+    "Longitude": -96.8663969,
+    "Type": "Private"
+  },
+  {
+    "Name": "DIJ PLAZA DEL LAGO LLC",
+    "Latitude": 32.8621215,
+    "Longitude": -96.8645151,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLA DEL ZOCALO 1",
+    "Latitude": 32.8611887,
+    "Longitude": -96.8648835,
+    "Type": "Private"
+  },
+  {
+    "Name": "CASA SAN LUIS APARTMENTS LLC",
+    "Latitude": 32.876347,
+    "Longitude": -96.8719519,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLA DEL ZOCALO 1",
+    "Latitude": 32.8599237,
+    "Longitude": -96.8663032,
+    "Type": "Private"
+  },
+  {
+    "Name": "MANOR STONE PARTNERS LP",
+    "Latitude": 32.875128,
+    "Longitude": -96.8729615,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARKSIDE APTS LLC",
+    "Latitude": 32.8589199,
+    "Longitude": -96.8733598,
+    "Type": "Private"
+  },
+  {
+    "Name": "BACHMAN PLACE APTS",
+    "Latitude": 32.8541512,
+    "Longitude": -96.8704262,
+    "Type": "Private"
+  },
+  {
+    "Name": "BENJAMIN PENA",
+    "Latitude": 32.8571855,
+    "Longitude": -96.874432,
+    "Type": "Private"
+  },
+  {
+    "Name": "AIGP CORNESTONE APARTMENTS LLC",
+    "Latitude": 32.8560599,
+    "Longitude": -96.8755833,
+    "Type": "Private"
+  },
+  {
+    "Name": "LIBERTY JOINT VENTURES",
+    "Latitude": 32.8557577,
+    "Longitude": -96.8758976,
+    "Type": "Private"
+  },
+  {
+    "Name": "RUSH CREEK APARTMENTS ,LLP",
+    "Latitude": 32.8557472,
+    "Longitude": -96.8768343,
+    "Type": "Private"
+  },
+  {
+    "Name": "BACHMAN OAKS APTS",
+    "Latitude": 32.8528902,
+    "Longitude": -96.8760821,
+    "Type": "Private"
+  },
+  {
+    "Name": "KAYA LODGING, LLC",
+    "Latitude": 32.858991,
+    "Longitude": -96.8864247,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MEN'S CLUB OF DALLAS",
+    "Latitude": 32.8593628,
+    "Longitude": -96.8876725,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOLIDAY IN EXPRESS",
+    "Latitude": 32.8599726,
+    "Longitude": -96.8974231,
+    "Type": "Private"
+  },
+  {
+    "Name": "PURE FARMERS MARKET",
+    "Latitude": 32.7775959,
+    "Longitude": -96.7857131,
+    "Type": "Private"
+  },
+  {
+    "Name": "MOTEL 6",
+    "Latitude": 32.8584029,
+    "Longitude": -96.8859962,
+    "Type": "Private"
+  },
+  {
+    "Name": "GOMEL TEXAS 3 LLC",
+    "Latitude": 32.8752352,
+    "Longitude": -96.8740487,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKEWOOD GREENS APTS",
+    "Latitude": 32.8041671,
+    "Longitude": -96.731626,
+    "Type": "Private"
+  },
+  {
+    "Name": "SAN MATEO FOREST APTS",
+    "Latitude": 32.8070516,
+    "Longitude": -96.7370185,
+    "Type": "Private"
+  },
+  {
+    "Name": "PROVIDENCE AT VILLAGE FAIR",
+    "Latitude": 32.6958509,
+    "Longitude": -96.8258256,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE KINGS HOUSE APTS",
+    "Latitude": 32.7012559,
+    "Longitude": -96.8319739,
+    "Type": "Private"
+  },
+  {
+    "Name": "AGAPE HOUSE APTS",
+    "Latitude": 32.701474,
+    "Longitude": -96.829728,
+    "Type": "Private"
+  },
+  {
+    "Name": "MARY MARTHA APTS",
+    "Latitude": 32.7024273,
+    "Longitude": -96.8296566,
+    "Type": "Private"
+  },
+  {
+    "Name": "MORNING STAR APTS",
+    "Latitude": 32.7020807,
+    "Longitude": -96.8356605,
+    "Type": "Private"
+  },
+  {
+    "Name": "DAY SPRING APTS",
+    "Latitude": 32.706669,
+    "Longitude": -96.84046,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA FITNESS INTERNATIONAL",
+    "Latitude": 32.9102236,
+    "Longitude": -96.8770659,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRIMROSE OAKS APARTMENTS",
+    "Latitude": 32.7124377,
+    "Longitude": -96.8622674,
+    "Type": "Private"
+  },
+  {
+    "Name": "WYNNEWOOD GARDENS APARTMENTS",
+    "Latitude": 32.7197029,
+    "Longitude": -96.8311427,
+    "Type": "Private"
+  },
+  {
+    "Name": "HIGH POINT SENIOR LIVING",
+    "Latitude": 32.7288419,
+    "Longitude": -96.8287291,
+    "Type": "Private"
+  },
+  {
+    "Name": "BETHEL HOUSE APTS",
+    "Latitude": 32.7012702,
+    "Longitude": -96.8339693,
+    "Type": "Private"
+  },
+  {
+    "Name": "MARANATHA HOUSE APTS",
+    "Latitude": 32.7013849,
+    "Longitude": -96.8326713,
+    "Type": "Private"
+  },
+  {
+    "Name": "CHRIST FOR THE NATIONS",
+    "Latitude": 32.700616,
+    "Longitude": -96.8306615,
+    "Type": "Private"
+  },
+  {
+    "Name": "HIGH POINT FAMILY LIVING",
+    "Latitude": 32.7228293,
+    "Longitude": -96.8299497,
+    "Type": "Private"
+  },
+  {
+    "Name": "GORDON LINDSAY TOWER",
+    "Latitude": 32.7057322,
+    "Longitude": -96.8294472,
+    "Type": "Private"
+  },
+  {
+    "Name": "DIAMOND HEAD APTS",
+    "Latitude": 32.8663964,
+    "Longitude": -96.7978986,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTONWOOD - HILLCREST APTS.",
+    "Latitude": 32.8696164,
+    "Longitude": -96.786823,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE DIPLOMAT CONDOMINIUMS",
+    "Latitude": 32.9317745,
+    "Longitude": -96.9054827,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE RENAISSANCE AT PRESTON HOLLOW",
+    "Latitude": 32.8664035,
+    "Longitude": -96.7914805,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LAUREL PRESTON HOLLOW",
+    "Latitude": 32.8675967,
+    "Longitude": -96.8037023,
+    "Type": "Private"
+  },
+  {
+    "Name": "CREEKWOOD PROPERTY CORP",
+    "Latitude": 32.8780573,
+    "Longitude": -96.7718355,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLA DEL NORTE APTS",
+    "Latitude": 32.8684511,
+    "Longitude": -96.7879714,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK FONTAINE ASSOCIATION",
+    "Latitude": 32.8673489,
+    "Longitude": -96.7958714,
+    "Type": "Private"
+  },
+  {
+    "Name": "DIAMOND HEAD",
+    "Latitude": 32.8663964,
+    "Longitude": -96.7978986,
+    "Type": "Private"
+  },
+  {
+    "Name": "CARLTON HOUSE",
+    "Latitude": 32.8678435,
+    "Longitude": -96.7969154,
+    "Type": "Private"
+  },
+  {
+    "Name": "HARCOUNT HOUSE",
+    "Latitude": 32.8678155,
+    "Longitude": -96.7992213,
+    "Type": "Private"
+  },
+  {
+    "Name": "FONTAINEBLEAU CONDOMINIUMS",
+    "Latitude": 32.8671631,
+    "Longitude": -96.799568,
+    "Type": "Private"
+  },
+  {
+    "Name": "CARUTH @ LINCOLN PARK",
+    "Latitude": 32.863171,
+    "Longitude": -96.773962,
+    "Type": "Private"
+  },
+  {
+    "Name": "TURTLE DOVE INVESTORS",
+    "Latitude": 32.8306521,
+    "Longitude": -96.7676664,
+    "Type": "Private"
+  },
+  {
+    "Name": "POMER II LAKEWOOD EAST",
+    "Latitude": 32.7941704,
+    "Longitude": -96.7656646,
+    "Type": "Private"
+  },
+  {
+    "Name": "MITCHELL LOFTS",
+    "Latitude": 32.7849577,
+    "Longitude": -96.7714015,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE CASE BLDG",
+    "Latitude": 32.7854155,
+    "Longitude": -96.7783056,
+    "Type": "Private"
+  },
+  {
+    "Name": "BROADSTONE AMBROSE, LP",
+    "Latitude": 32.7861675,
+    "Longitude": -96.7814401,
+    "Type": "Private"
+  },
+  {
+    "Name": "BROADSTONE FARMERS MARKET PROPERTY",
+    "Latitude": 32.7775959,
+    "Longitude": -96.7857131,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKEWOOD EAST CONDOS",
+    "Latitude": 32.7941704,
+    "Longitude": -96.7656646,
+    "Type": "Private"
+  },
+  {
+    "Name": "WOODSIDE APTS",
+    "Latitude": 32.6735028,
+    "Longitude": -96.6013919,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT AT SIERRA VISTA",
+    "Latitude": 32.7637422,
+    "Longitude": -96.6510884,
+    "Type": "Private"
+  },
+  {
+    "Name": "HEATHERWOOD APARTMENTS",
+    "Latitude": 32.763292,
+    "Longitude": -96.653901,
+    "Type": "Private"
+  },
+  {
+    "Name": "QUAIL HOLLOW",
+    "Latitude": 32.7614273,
+    "Longitude": -96.6552355,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAS DEL REY",
+    "Latitude": 32.7502874,
+    "Longitude": -96.6819433,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOLANA RIDGE APARTMENTS HOMES",
+    "Latitude": 32.7824917,
+    "Longitude": -96.6842527,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARKWAY GARDENS APTS",
+    "Latitude": 32.7689294,
+    "Longitude": -96.6838434,
+    "Type": "Private"
+  },
+  {
+    "Name": "MAYAN PALMS HLD, LLC",
+    "Latitude": 32.7917309,
+    "Longitude": -96.711455,
+    "Type": "Private"
+  },
+  {
+    "Name": "BUENA VISTA ESTATES",
+    "Latitude": 32.7857633,
+    "Longitude": -96.686911,
+    "Type": "Private"
+  },
+  {
+    "Name": "SKYLINE PLACE APTS",
+    "Latitude": 32.7797189,
+    "Longitude": -96.6865,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALCOR SKYLINE LTD",
+    "Latitude": 32.7797189,
+    "Longitude": -96.6865,
+    "Type": "Private"
+  },
+  {
+    "Name": "DELAFIELD VILLAS",
+    "Latitude": 32.7734045,
+    "Longitude": -96.6750472,
+    "Type": "Private"
+  },
+  {
+    "Name": "GOSPEL COURTS APTS",
+    "Latitude": 32.7030362,
+    "Longitude": -96.8309755,
+    "Type": "Private"
+  },
+  {
+    "Name": "TACP DCREEK GP, LLC",
+    "Latitude": 32.7666086,
+    "Longitude": -96.6823156,
+    "Type": "Private"
+  },
+  {
+    "Name": "CASA LINDA APTS",
+    "Latitude": 32.7601081,
+    "Longitude": -96.6563995,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARQUE RIO",
+    "Latitude": 32.8138668,
+    "Longitude": -96.687563,
+    "Type": "Private"
+  },
+  {
+    "Name": "ST AUGUSTINE ESTATES",
+    "Latitude": 32.7509415,
+    "Longitude": -96.656308,
+    "Type": "Private"
+  },
+  {
+    "Name": "EXECUTIVE INN",
+    "Latitude": 32.8630509,
+    "Longitude": -96.6628723,
+    "Type": "Private"
+  },
+  {
+    "Name": "MEADOWS AT FERGUSON",
+    "Latitude": 32.8545598,
+    "Longitude": -96.6488859,
+    "Type": "Private"
+  },
+  {
+    "Name": "EYAL DALLAS HOLDINGS, LLC",
+    "Latitude": 32.8545598,
+    "Longitude": -96.6488859,
+    "Type": "Private"
+  },
+  {
+    "Name": "EXPONENTIAL PROPERTY GROUP V. LLC",
+    "Latitude": 32.8550068,
+    "Longitude": -96.6523738,
+    "Type": "Private"
+  },
+  {
+    "Name": "SHADOWBROOK REDEVELOPMENT, LLC",
+    "Latitude": 32.8523891,
+    "Longitude": -96.6541191,
+    "Type": "Private"
+  },
+  {
+    "Name": "NEW WORLD APTS",
+    "Latitude": 32.8532674,
+    "Longitude": -96.6499265,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE ESTARA APARTMENTS",
+    "Latitude": 32.8523291,
+    "Longitude": -96.6475892,
+    "Type": "Private"
+  },
+  {
+    "Name": "GABLE POINT APTS",
+    "Latitude": 32.8502345,
+    "Longitude": -96.6461487,
+    "Type": "Private"
+  },
+  {
+    "Name": "SEVEN SEAS HOLDINGS V LLC",
+    "Latitude": 32.849446,
+    "Longitude": -96.643195,
+    "Type": "Private"
+  },
+  {
+    "Name": "VANTAGE POINT APARTMENTS",
+    "Latitude": 32.8460671,
+    "Longitude": -96.6387174,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARQUE RIO",
+    "Latitude": 32.8154368,
+    "Longitude": -96.6887702,
+    "Type": "Private"
+  },
+  {
+    "Name": "DIJ PARQUE RIO LLC",
+    "Latitude": 32.8154368,
+    "Longitude": -96.6887702,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUPER 8 MOTEL",
+    "Latitude": 32.796802,
+    "Longitude": -96.6905379,
+    "Type": "Private"
+  },
+  {
+    "Name": "HALSTON",
+    "Latitude": 32.8116113,
+    "Longitude": -96.6981732,
+    "Type": "Private"
+  },
+  {
+    "Name": "FRATERNAL ORDER OF EAGLES #3108",
+    "Latitude": 32.8123088,
+    "Longitude": -96.707469,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA PRADA PLACE APTS",
+    "Latitude": 32.808915,
+    "Longitude": -96.6678404,
+    "Type": "Private"
+  },
+  {
+    "Name": "WHITE ROCK HILLS TOWNHOMES",
+    "Latitude": 32.7959054,
+    "Longitude": -96.7215382,
+    "Type": "Private"
+  },
+  {
+    "Name": "DEER CREEK APTS",
+    "Latitude": 32.7978995,
+    "Longitude": -96.6917283,
+    "Type": "Private"
+  },
+  {
+    "Name": "CASA BONITA",
+    "Latitude": 32.7978995,
+    "Longitude": -96.6917283,
+    "Type": "Private"
+  },
+  {
+    "Name": "SHADOW GLEN APARTMENTS, LLC",
+    "Latitude": 32.7987321,
+    "Longitude": -96.6930527,
+    "Type": "Private"
+  },
+  {
+    "Name": "PUEBLO SAN LUIS",
+    "Latitude": 32.809351,
+    "Longitude": -96.682192,
+    "Type": "Private"
+  },
+  {
+    "Name": "TACP MPOINTE GP, LLC",
+    "Latitude": 32.810009,
+    "Longitude": -96.6884989,
+    "Type": "Private"
+  },
+  {
+    "Name": "HANDPRINTS CHILD CARE, LLC",
+    "Latitude": 32.8143556,
+    "Longitude": -96.6847804,
+    "Type": "Private"
+  },
+  {
+    "Name": "DIJ PARQUE RIO LLC",
+    "Latitude": 32.8138668,
+    "Longitude": -96.687563,
+    "Type": "Private"
+  },
+  {
+    "Name": "TIMBER PARK APTS",
+    "Latitude": 32.8165639,
+    "Longitude": -96.688087,
+    "Type": "Private"
+  },
+  {
+    "Name": "CARLETON CONST LAPRADA TREYMORE EASTFIEL",
+    "Latitude": 32.8095252,
+    "Longitude": -96.6695253,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT AT ASH CREEK",
+    "Latitude": 32.8082834,
+    "Longitude": -96.6710782,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRIMROSE PARK VILLA",
+    "Latitude": 32.8078386,
+    "Longitude": -96.6728752,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRIMROSE AT HIGHLAND MEADOWS",
+    "Latitude": 32.8038127,
+    "Longitude": -96.7169981,
+    "Type": "Private"
+  },
+  {
+    "Name": "JAG BVA RE-DEVELOPMENT LLC",
+    "Latitude": 32.8062619,
+    "Longitude": -96.6844535,
+    "Type": "Private"
+  },
+  {
+    "Name": "HIGHLAND BLUFFS,LLC",
+    "Latitude": 32.8074544,
+    "Longitude": -96.6866604,
+    "Type": "Private"
+  },
+  {
+    "Name": "MCGUIRE FAMILY TARAVAL PROPERTY LLC -",
+    "Latitude": 32.80572,
+    "Longitude": -96.686547,
+    "Type": "Private"
+  },
+  {
+    "Name": "HIGHLAND BLUFFS,LLC",
+    "Latitude": 32.8079965,
+    "Longitude": -96.6883468,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOLIDAY INN EXPRESS",
+    "Latitude": 32.7965216,
+    "Longitude": -96.6941808,
+    "Type": "Private"
+  },
+  {
+    "Name": "RAMNA LP",
+    "Latitude": 32.907543,
+    "Longitude": -96.8815514,
+    "Type": "Private"
+  },
+  {
+    "Name": "TOWN NORTH YMCA",
+    "Latitude": 32.9018255,
+    "Longitude": -96.8351837,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS SWIM CLUB ROYAL",
+    "Latitude": 32.8994104,
+    "Longitude": -96.8634581,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPARKMAN CLUB ESTATES COMMUNITY CLUB",
+    "Latitude": 32.8930968,
+    "Longitude": -96.8657087,
+    "Type": "Private"
+  },
+  {
+    "Name": "NORTHAVEN TERRACE APT",
+    "Latitude": 32.903171,
+    "Longitude": -96.883462,
+    "Type": "Private"
+  },
+  {
+    "Name": "SEDONA RANCH",
+    "Latitude": 32.9041187,
+    "Longitude": -96.8852507,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK FOREST COMM CLUB",
+    "Latitude": 32.9077708,
+    "Longitude": -96.8605661,
+    "Type": "Private"
+  },
+  {
+    "Name": "NOEL ON THE PARK",
+    "Latitude": 32.942513,
+    "Longitude": -96.819923,
+    "Type": "Private"
+  },
+  {
+    "Name": "VENETO I CONSO ASSOC INC",
+    "Latitude": 32.9222367,
+    "Longitude": -96.7853512,
+    "Type": "Private"
+  },
+  {
+    "Name": "WILLIAMSBURG CONDOS ASSOC",
+    "Latitude": 32.9209786,
+    "Longitude": -96.7858426,
+    "Type": "Private"
+  },
+  {
+    "Name": "WILLIAMSBURG CONDOMINUM ASSOC",
+    "Latitude": 32.9209786,
+    "Longitude": -96.7858426,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON SQUARE TOWNHOMES",
+    "Latitude": 32.9195393,
+    "Longitude": -96.8151054,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON SQUARE TOWNHOMES DBA HOA",
+    "Latitude": 32.9195393,
+    "Longitude": -96.8151054,
+    "Type": "Private"
+  },
+  {
+    "Name": "ELMER SWIM SCHOOL",
+    "Latitude": 32.9115062,
+    "Longitude": -96.8055428,
+    "Type": "Private"
+  },
+  {
+    "Name": "434800 BELL PARTNERS INC.- MS # 2",
+    "Latitude": 32.9121363,
+    "Longitude": -96.7698087,
+    "Type": "Private"
+  },
+  {
+    "Name": "CANYON CREEK APTS",
+    "Latitude": 32.8962503,
+    "Longitude": -96.7713322,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOUNTAINS OF WOODMEADOW",
+    "Latitude": 32.8481784,
+    "Longitude": -96.6423286,
+    "Type": "Private"
+  },
+  {
+    "Name": "CHASE CROSSING APARTMENTS",
+    "Latitude": 32.8967806,
+    "Longitude": -96.7722968,
+    "Type": "Private"
+  },
+  {
+    "Name": "AVONDALE PARC APARTMENTS",
+    "Latitude": 32.894056,
+    "Longitude": -96.7727845,
+    "Type": "Private"
+  },
+  {
+    "Name": "STEPPINGTON APARTMENTS, LLC",
+    "Latitude": 32.8924738,
+    "Longitude": -96.7712762,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE SUMMIT AT MIDTOWN",
+    "Latitude": 32.892164,
+    "Longitude": -96.773792,
+    "Type": "Private"
+  },
+  {
+    "Name": "STONE CANYON APARTMENTS, LLC",
+    "Latitude": 32.8913083,
+    "Longitude": -96.7741374,
+    "Type": "Private"
+  },
+  {
+    "Name": "RIVER FALLS PARK APTS",
+    "Latitude": 32.8906494,
+    "Longitude": -96.77396,
+    "Type": "Private"
+  },
+  {
+    "Name": "MADISON PARKE APARTMENTS LLC",
+    "Latitude": 32.8908586,
+    "Longitude": -96.7718022,
+    "Type": "Private"
+  },
+  {
+    "Name": "MEADOW STONE APTS",
+    "Latitude": 32.8876506,
+    "Longitude": -96.7746834,
+    "Type": "Private"
+  },
+  {
+    "Name": "MEADOWSTONE PLACE RETIREMENT COMMUNITY",
+    "Latitude": 32.8876506,
+    "Longitude": -96.7746834,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAT CREEK PARTNERS",
+    "Latitude": 32.9108367,
+    "Longitude": -96.7703692,
+    "Type": "Private"
+  },
+  {
+    "Name": "WATERFORD AT BELLMAR",
+    "Latitude": 32.8904652,
+    "Longitude": -96.7726784,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON HOLLOW VILLAGE",
+    "Latitude": 32.8817754,
+    "Longitude": -96.7720552,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON HOLLOW VILLAGE",
+    "Latitude": 32.8819741,
+    "Longitude": -96.773199,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE FORUM",
+    "Latitude": 32.8869104,
+    "Longitude": -96.7728255,
+    "Type": "Private"
+  },
+  {
+    "Name": "WATERFORD PARK HOA",
+    "Latitude": 32.9189939,
+    "Longitude": -96.7810581,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKE FOREST HOMEOWNERS ASSOC",
+    "Latitude": 32.9107935,
+    "Longitude": -96.7803848,
+    "Type": "Private"
+  },
+  {
+    "Name": "5800 ROYAL CONDOMINIUMS",
+    "Latitude": 32.893711,
+    "Longitude": -96.8075738,
+    "Type": "Private"
+  },
+  {
+    "Name": "MONTFORT CROSSING APTS",
+    "Latitude": 32.9215455,
+    "Longitude": -96.8124305,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE PLAZA ON HARVEST HILL",
+    "Latitude": 32.9227761,
+    "Longitude": -96.8134549,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALTA STRAND",
+    "Latitude": 32.7958763,
+    "Longitude": -96.8256396,
+    "Type": "Private"
+  },
+  {
+    "Name": "SYLVAN ARC APTS LLC",
+    "Latitude": 32.7692322,
+    "Longitude": -96.8346844,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE FOUNTAINS APTS",
+    "Latitude": 32.8840655,
+    "Longitude": -96.7716405,
+    "Type": "Private"
+  },
+  {
+    "Name": "ADVENIR AT FOXMOOR APARTMENTS",
+    "Latitude": 32.8954048,
+    "Longitude": -96.7705124,
+    "Type": "Private"
+  },
+  {
+    "Name": "ABERDEEN @ BELLMAR",
+    "Latitude": 32.8954048,
+    "Longitude": -96.7705124,
+    "Type": "Private"
+  },
+  {
+    "Name": "MIDTOWN MARK LLC",
+    "Latitude": 32.8897714,
+    "Longitude": -96.7683039,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MARK AT MIDTOWN PARK",
+    "Latitude": 32.8897714,
+    "Longitude": -96.7683039,
+    "Type": "Private"
+  },
+  {
+    "Name": "WHITESTONE HOSPITALITY",
+    "Latitude": 32.887072,
+    "Longitude": -96.7687645,
+    "Type": "Private"
+  },
+  {
+    "Name": "DOLFIN SWIM SCHOOL",
+    "Latitude": 32.8815878,
+    "Longitude": -96.768889,
+    "Type": "Private"
+  },
+  {
+    "Name": "9750 ROYAL LANE, LP",
+    "Latitude": 32.893423,
+    "Longitude": -96.7296466,
+    "Type": "Private"
+  },
+  {
+    "Name": "HIDDEN OAKS APARTMENT LLC",
+    "Latitude": 32.8844453,
+    "Longitude": -96.7315845,
+    "Type": "Private"
+  },
+  {
+    "Name": "IVANHOE APARTMENTS LLC",
+    "Latitude": 32.8682499,
+    "Longitude": -96.7451208,
+    "Type": "Private"
+  },
+  {
+    "Name": "WIP SERENDIPITY LLP",
+    "Latitude": 32.8686008,
+    "Longitude": -96.7488366,
+    "Type": "Private"
+  },
+  {
+    "Name": "CLOVER ON PARK LANE",
+    "Latitude": 32.8686008,
+    "Longitude": -96.7488366,
+    "Type": "Private"
+  },
+  {
+    "Name": "NORTHPARK TERRACE APTS",
+    "Latitude": 32.8693007,
+    "Longitude": -96.7530373,
+    "Type": "Private"
+  },
+  {
+    "Name": "TOWNE CENTER APARTMENTS",
+    "Latitude": 32.8699802,
+    "Longitude": -96.7543875,
+    "Type": "Private"
+  },
+  {
+    "Name": "NEW WILDFLOWER I - HEART HOUSE TX",
+    "Latitude": 32.8709353,
+    "Longitude": -96.7574599,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE VIVE",
+    "Latitude": 32.8938194,
+    "Longitude": -96.7268144,
+    "Type": "Private"
+  },
+  {
+    "Name": "WOODHILL MEDICAL PARK",
+    "Latitude": 32.8847071,
+    "Longitude": -96.7614678,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK CENTRAL APTS HOMES LLC",
+    "Latitude": 32.88711,
+    "Longitude": -96.760234,
+    "Type": "Private"
+  },
+  {
+    "Name": "WIND PROPERTIES RB LLC",
+    "Latitude": 32.8932182,
+    "Longitude": -96.7268472,
+    "Type": "Private"
+  },
+  {
+    "Name": "GLEN OAKS INVESTMENTS, LLC",
+    "Latitude": 32.8918332,
+    "Longitude": -96.7262412,
+    "Type": "Private"
+  },
+  {
+    "Name": "MODENA APARTMENTS",
+    "Latitude": 32.8843485,
+    "Longitude": -96.7632008,
+    "Type": "Private"
+  },
+  {
+    "Name": "BENADAM CORPORATION",
+    "Latitude": 32.8843485,
+    "Longitude": -96.7632008,
+    "Type": "Private"
+  },
+  {
+    "Name": "MP DALLAS PROJECT OWNER LLC",
+    "Latitude": 32.8866841,
+    "Longitude": -96.7637864,
+    "Type": "Private"
+  },
+  {
+    "Name": "HANOVER MIDTOWN PARK",
+    "Latitude": 32.8866841,
+    "Longitude": -96.7637864,
+    "Type": "Private"
+  },
+  {
+    "Name": "CANTERA CREEK",
+    "Latitude": 32.8918763,
+    "Longitude": -96.7296839,
+    "Type": "Private"
+  },
+  {
+    "Name": "DOMAIN AT MIDTOWN PARK",
+    "Latitude": 32.8915009,
+    "Longitude": -96.7676313,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAK HOLLOW OWNERS",
+    "Latitude": 32.8907953,
+    "Longitude": -96.7298312,
+    "Type": "Private"
+  },
+  {
+    "Name": "DNCX PARK LANE",
+    "Latitude": 32.870109,
+    "Longitude": -96.7676982,
+    "Type": "Private"
+  },
+  {
+    "Name": "DNCX PARK LANE",
+    "Latitude": 32.8703081,
+    "Longitude": -96.7683556,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAKWOOD CREEK CONDOMINIUMS",
+    "Latitude": 32.888036,
+    "Longitude": -96.731499,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAKWOOD CREEK",
+    "Latitude": 32.888036,
+    "Longitude": -96.731499,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOHO APTS",
+    "Latitude": 32.8862955,
+    "Longitude": -96.7327995,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOHO APARTMENTS LLC",
+    "Latitude": 32.8862955,
+    "Longitude": -96.7327995,
+    "Type": "Private"
+  },
+  {
+    "Name": "WHITEROCK WEST OWNERS ASSOCIATION",
+    "Latitude": 32.8549671,
+    "Longitude": -96.7327915,
+    "Type": "Private"
+  },
+  {
+    "Name": "7474 REGENCY LLC",
+    "Latitude": 32.8845926,
+    "Longitude": -96.7336751,
+    "Type": "Private"
+  },
+  {
+    "Name": "CNC SWAGAT FOUR , LTD.",
+    "Latitude": 32.8824128,
+    "Longitude": -96.7316289,
+    "Type": "Private"
+  },
+  {
+    "Name": "VALENCEO @ MIDTOWN",
+    "Latitude": 32.8740682,
+    "Longitude": -96.7562971,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA FITNESS INTERNATIONAL",
+    "Latitude": 32.8795681,
+    "Longitude": -96.7363882,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAVEN LAKE HIGHLANDS",
+    "Latitude": 32.874833,
+    "Longitude": -96.7331844,
+    "Type": "Private"
+  },
+  {
+    "Name": "EVERWOOD APARTMENTS LP",
+    "Latitude": 32.87215,
+    "Longitude": -96.7338848,
+    "Type": "Private"
+  },
+  {
+    "Name": "SKILLMAN BEND CONDOMINIUMS",
+    "Latitude": 32.8706951,
+    "Longitude": -96.7344161,
+    "Type": "Private"
+  },
+  {
+    "Name": "URBANO @ MIDTOWN",
+    "Latitude": 32.8641864,
+    "Longitude": -96.7526462,
+    "Type": "Private"
+  },
+  {
+    "Name": "NORTHROCK LAKE HIGHLANDS",
+    "Latitude": 32.8678918,
+    "Longitude": -96.7374821,
+    "Type": "Private"
+  },
+  {
+    "Name": "BUILDING PORTFOLIO INVESTMENTS V LLC",
+    "Latitude": 32.8672284,
+    "Longitude": -96.7514482,
+    "Type": "Private"
+  },
+  {
+    "Name": "EAST TOWN",
+    "Latitude": 32.8654286,
+    "Longitude": -96.7532312,
+    "Type": "Private"
+  },
+  {
+    "Name": "SANTA FE TRAILS APTS",
+    "Latitude": 32.8648144,
+    "Longitude": -96.7549712,
+    "Type": "Private"
+  },
+  {
+    "Name": "SANTA FE TRAILS APTS",
+    "Latitude": 32.8663621,
+    "Longitude": -96.7544567,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BILTMORE APARTMENTS",
+    "Latitude": 32.8661337,
+    "Longitude": -96.7563309,
+    "Type": "Private"
+  },
+  {
+    "Name": "WOODGLEN APTS",
+    "Latitude": 32.8721593,
+    "Longitude": -96.7524558,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRINCETON COURT APTS",
+    "Latitude": 32.8673319,
+    "Longitude": -96.7584327,
+    "Type": "Private"
+  },
+  {
+    "Name": "HARVARD SQUARE APTS",
+    "Latitude": 32.8682981,
+    "Longitude": -96.7577189,
+    "Type": "Private"
+  },
+  {
+    "Name": "CROSS CREEK ACQUISITION LLC",
+    "Latitude": 32.8644231,
+    "Longitude": -96.7587201,
+    "Type": "Private"
+  },
+  {
+    "Name": "NEW WILDFLOWER 1 ASSOC LLC",
+    "Latitude": 32.8733124,
+    "Longitude": -96.7543032,
+    "Type": "Private"
+  },
+  {
+    "Name": "THREE FOUNTAINS RETIREMENT COMMUNITY",
+    "Latitude": 32.8687094,
+    "Longitude": -96.7605255,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE PEARL @ MIDTOWN",
+    "Latitude": 32.8696083,
+    "Longitude": -96.759311,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE HIVE",
+    "Latitude": 32.859174,
+    "Longitude": -96.7481865,
+    "Type": "Private"
+  },
+  {
+    "Name": "CAMBRIDGE COURT",
+    "Latitude": 32.865746,
+    "Longitude": -96.7618225,
+    "Type": "Private"
+  },
+  {
+    "Name": "VICKERY VILLAGE",
+    "Latitude": 32.876123,
+    "Longitude": -96.7597159,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON SQUARE TOWNHOMES DBA HOA",
+    "Latitude": 32.876123,
+    "Longitude": -96.7597159,
+    "Type": "Private"
+  },
+  {
+    "Name": "FIVE STAR PREMIER RESIDENCES OF DLS",
+    "Latitude": 32.8846255,
+    "Longitude": -96.7670062,
+    "Type": "Private"
+  },
+  {
+    "Name": "FINLEY EWING CARDIOVASCULAR & FITNESS",
+    "Latitude": 32.8770731,
+    "Longitude": -96.7595253,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAHACIENDA APARTMENT",
+    "Latitude": 32.649565,
+    "Longitude": -96.8292962,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAK CLIFF YMCA",
+    "Latitude": 32.6660021,
+    "Longitude": -96.8576235,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE WAY III APTS",
+    "Latitude": 32.6815269,
+    "Longitude": -96.8542561,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAMPTON TERRACE APTS",
+    "Latitude": 32.6848295,
+    "Longitude": -96.8558332,
+    "Type": "Private"
+  },
+  {
+    "Name": "WEHNER MULTI FAMILY LLC",
+    "Latitude": 32.6848295,
+    "Longitude": -96.8558332,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAK CLIFF COUNTRY CL",
+    "Latitude": 32.6703679,
+    "Longitude": -96.8537782,
+    "Type": "Private"
+  },
+  {
+    "Name": "TX TIMBER CREEK HOUSING LP",
+    "Latitude": 32.6410076,
+    "Longitude": -96.836129,
+    "Type": "Private"
+  },
+  {
+    "Name": "VSP WINDSOR LLC",
+    "Latitude": 32.691956,
+    "Longitude": -96.887951,
+    "Type": "Private"
+  },
+  {
+    "Name": "WINDSOR TOWNHOMES 184 LLC",
+    "Latitude": 32.6936148,
+    "Longitude": -96.8874617,
+    "Type": "Private"
+  },
+  {
+    "Name": "COLUMBIA LUXAR TOWNHOMES",
+    "Latitude": 32.7068723,
+    "Longitude": -96.8884897,
+    "Type": "Private"
+  },
+  {
+    "Name": "WESTWOOD APARTMENTS",
+    "Latitude": 32.7091034,
+    "Longitude": -96.8754367,
+    "Type": "Private"
+  },
+  {
+    "Name": "ESCONDIDO HOUSING, LP",
+    "Latitude": 32.7147554,
+    "Longitude": -96.8620302,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK FOREST APTS",
+    "Latitude": 32.9107534,
+    "Longitude": -96.8583718,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOREST PARK VILLAGE APTS",
+    "Latitude": 32.91114,
+    "Longitude": -96.8629009,
+    "Type": "Private"
+  },
+  {
+    "Name": "BRIDLE PATH APTS",
+    "Latitude": 32.673195,
+    "Longitude": -96.600893,
+    "Type": "Private"
+  },
+  {
+    "Name": "PPF AMLI 6008 MAPLE AVENUE LLC",
+    "Latitude": 32.8246663,
+    "Longitude": -96.839078,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE SOUTHWESTERN",
+    "Latitude": 32.823263,
+    "Longitude": -96.839198,
+    "Type": "Private"
+  },
+  {
+    "Name": "INWOOD ON THE PARK",
+    "Latitude": 32.8205345,
+    "Longitude": -96.8400412,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALTA MAPLE STATION",
+    "Latitude": 32.8202371,
+    "Longitude": -96.8342668,
+    "Type": "Private"
+  },
+  {
+    "Name": "BES MAPLE FUND X1 LLC",
+    "Latitude": 32.8185373,
+    "Longitude": -96.8348487,
+    "Type": "Private"
+  },
+  {
+    "Name": "MAPLE DISTRICT LOFTS",
+    "Latitude": 32.8185373,
+    "Longitude": -96.8348487,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MONTAGE",
+    "Latitude": 32.823564,
+    "Longitude": -96.827588,
+    "Type": "Private"
+  },
+  {
+    "Name": "5225 MAPLE AVE",
+    "Latitude": 32.8168907,
+    "Longitude": -96.8328435,
+    "Type": "Private"
+  },
+  {
+    "Name": "CC MAPLE LLC",
+    "Latitude": 32.8161795,
+    "Longitude": -96.8323501,
+    "Type": "Private"
+  },
+  {
+    "Name": "ADVENIR @ HIGHLAND PARK LLC",
+    "Latitude": 32.8219888,
+    "Longitude": -96.8212602,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MONROE",
+    "Latitude": 32.8219888,
+    "Longitude": -96.8212602,
+    "Type": "Private"
+  },
+  {
+    "Name": "WESTBURY PARK CONDOMINIMS",
+    "Latitude": 32.8211979,
+    "Longitude": -96.8198944,
+    "Type": "Private"
+  },
+  {
+    "Name": "LOCALE",
+    "Latitude": 32.825695,
+    "Longitude": -96.825363,
+    "Type": "Private"
+  },
+  {
+    "Name": "LOCALE",
+    "Latitude": 32.825695,
+    "Longitude": -96.825363,
+    "Type": "Private"
+  },
+  {
+    "Name": "BELLAVEUX",
+    "Latitude": 32.8236769,
+    "Longitude": -96.8241942,
+    "Type": "Private"
+  },
+  {
+    "Name": "BELLAVEUX",
+    "Latitude": 32.8236769,
+    "Longitude": -96.8241942,
+    "Type": "Private"
+  },
+  {
+    "Name": "HUB MANGEMENT INC",
+    "Latitude": 32.8236875,
+    "Longitude": -96.826014,
+    "Type": "Private"
+  },
+  {
+    "Name": "SAN CARLOS APTS",
+    "Latitude": 32.8170722,
+    "Longitude": -96.8295333,
+    "Type": "Private"
+  },
+  {
+    "Name": "M & M HOTEL VENTURE, LLC",
+    "Latitude": 32.8265706,
+    "Longitude": -96.8476253,
+    "Type": "Private"
+  },
+  {
+    "Name": "CR CORPORATION SYSTEMS DBA",
+    "Latitude": 32.8128142,
+    "Longitude": -96.8305019,
+    "Type": "Private"
+  },
+  {
+    "Name": "AERC 2140 MEDICAL DISTRICT, LLC",
+    "Latitude": 32.8112799,
+    "Longitude": -96.8312526,
+    "Type": "Private"
+  },
+  {
+    "Name": "PROVIDENCE TOWERS",
+    "Latitude": 32.8229199,
+    "Longitude": -96.8534142,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT AT ARLINGTON PARK",
+    "Latitude": 32.816285,
+    "Longitude": -96.8528149,
+    "Type": "Private"
+  },
+  {
+    "Name": "TOWNE SQUARE APTS",
+    "Latitude": 32.817282,
+    "Longitude": -96.830534,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT AT BLUFF RIDGE",
+    "Latitude": 32.6652044,
+    "Longitude": -96.9467052,
+    "Type": "Private"
+  },
+  {
+    "Name": "IRG WHISPERING LLC",
+    "Latitude": 32.6639626,
+    "Longitude": -96.8892232,
+    "Type": "Private"
+  },
+  {
+    "Name": "ARBORSTONE APARTMENTS",
+    "Latitude": 32.6681607,
+    "Longitude": -96.8896963,
+    "Type": "Private"
+  },
+  {
+    "Name": "CIRCLE TEN COUNCIL BSA",
+    "Latitude": 32.6760851,
+    "Longitude": -96.9319964,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALLIANCE / WESTCORP-PJWE, LP",
+    "Latitude": 32.6635264,
+    "Longitude": -96.9307665,
+    "Type": "Private"
+  },
+  {
+    "Name": "CEDAR GLEN APARTMENTS",
+    "Latitude": 32.6635264,
+    "Longitude": -96.9307665,
+    "Type": "Private"
+  },
+  {
+    "Name": "PATRIOT RIDGE, LTD",
+    "Latitude": 32.6870767,
+    "Longitude": -96.9389654,
+    "Type": "Private"
+  },
+  {
+    "Name": "ASMARA AFFORDABLE HOUSING INC",
+    "Latitude": 32.6867044,
+    "Longitude": -96.909861,
+    "Type": "Private"
+  },
+  {
+    "Name": "HERITAGE SQUARE APARTMENTS",
+    "Latitude": 32.6867044,
+    "Longitude": -96.909861,
+    "Type": "Private"
+  },
+  {
+    "Name": "TIMBER ROCK APTS",
+    "Latitude": 32.6934292,
+    "Longitude": -96.8917732,
+    "Type": "Private"
+  },
+  {
+    "Name": "LUXAR VILLAS",
+    "Latitude": 32.7082167,
+    "Longitude": -96.8910913,
+    "Type": "Private"
+  },
+  {
+    "Name": "GREENS OF HICKORY TRAIL",
+    "Latitude": 32.6443441,
+    "Longitude": -96.8688249,
+    "Type": "Private"
+  },
+  {
+    "Name": "PROVIDENCE ON THE PARK",
+    "Latitude": 32.641355,
+    "Longitude": -96.8658566,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT AT HICKORY TRACE",
+    "Latitude": 32.6449027,
+    "Longitude": -96.8735931,
+    "Type": "Private"
+  },
+  {
+    "Name": "NAPA VENTURES BRANDON MILL LLC",
+    "Latitude": 32.650161,
+    "Longitude": -96.8836649,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE CORNERS IN FORTUNE CORNERS",
+    "Latitude": 32.6509118,
+    "Longitude": -96.8794966,
+    "Type": "Private"
+  },
+  {
+    "Name": "CORNERS DAL INVESTORS LLC",
+    "Latitude": 32.6509118,
+    "Longitude": -96.8794966,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK VILLAGE APARTMENTS",
+    "Latitude": 32.655219,
+    "Longitude": -96.887534,
+    "Type": "Private"
+  },
+  {
+    "Name": "EXPONENTIAL PROPERTY GROUP VII-C, LLC",
+    "Latitude": 32.6555,
+    "Longitude": -96.8684808,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE HARBORS APTS",
+    "Latitude": 32.653166,
+    "Longitude": -96.885243,
+    "Type": "Private"
+  },
+  {
+    "Name": "POLARIS TX5 LLP",
+    "Latitude": 32.653166,
+    "Longitude": -96.885243,
+    "Type": "Private"
+  },
+  {
+    "Name": "MANDALAY PALMS APTS",
+    "Latitude": 32.6550551,
+    "Longitude": -96.8708314,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK AT CLIFF CREEK",
+    "Latitude": 32.6566235,
+    "Longitude": -96.8732991,
+    "Type": "Private"
+  },
+  {
+    "Name": "IRG MDL LLC",
+    "Latitude": 32.6584379,
+    "Longitude": -96.871178,
+    "Type": "Private"
+  },
+  {
+    "Name": "CONA LP",
+    "Latitude": 32.6584379,
+    "Longitude": -96.871178,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST WOODS LLC",
+    "Latitude": 32.6740419,
+    "Longitude": -96.8811244,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAGE SQUARE APTS",
+    "Latitude": 32.6754486,
+    "Longitude": -96.8810932,
+    "Type": "Private"
+  },
+  {
+    "Name": "PC BROOKFIELD, LLC",
+    "Latitude": 32.6595,
+    "Longitude": -96.886145,
+    "Type": "Private"
+  },
+  {
+    "Name": "EAGLE POINTE APARTMENTS",
+    "Latitude": 32.6548952,
+    "Longitude": -96.8824552,
+    "Type": "Private"
+  },
+  {
+    "Name": "NAPA VENTURES EAGLE POINTE LLC",
+    "Latitude": 32.6548952,
+    "Longitude": -96.8824552,
+    "Type": "Private"
+  },
+  {
+    "Name": "BROADMOOR APTS",
+    "Latitude": 32.65886,
+    "Longitude": -96.884705,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE WATERFORD APTS",
+    "Latitude": 32.6528009,
+    "Longitude": -96.881434,
+    "Type": "Private"
+  },
+  {
+    "Name": "METHODIST REHABILITATION HOSPITAL",
+    "Latitude": 32.6464046,
+    "Longitude": -96.8710374,
+    "Type": "Private"
+  },
+  {
+    "Name": "CRP TBG ENFIELD-STONEY",
+    "Latitude": 32.8748164,
+    "Longitude": -96.6894133,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE VILLAS AT LA RISA",
+    "Latitude": 32.8707291,
+    "Longitude": -96.6841746,
+    "Type": "Private"
+  },
+  {
+    "Name": "ARAGON MULTI FAMILY FUND, IV, LP",
+    "Latitude": 32.8691887,
+    "Longitude": -96.6803982,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOUTHPOINTE APARTMENTS",
+    "Latitude": 32.869324,
+    "Longitude": -96.682496,
+    "Type": "Private"
+  },
+  {
+    "Name": "NXRTBH MCMILLAN LLC",
+    "Latitude": 32.8669824,
+    "Longitude": -96.6812006,
+    "Type": "Private"
+  },
+  {
+    "Name": "WRC 12610 APARTMENTS LP",
+    "Latitude": 32.8669824,
+    "Longitude": -96.6812006,
+    "Type": "Private"
+  },
+  {
+    "Name": "AMANDA LN LLC",
+    "Latitude": 32.877325,
+    "Longitude": -96.688384,
+    "Type": "Private"
+  },
+  {
+    "Name": "AMANDA LN LLC",
+    "Latitude": 32.877325,
+    "Longitude": -96.688384,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE REGENCY HOTEL",
+    "Latitude": 32.8742079,
+    "Longitude": -96.6843733,
+    "Type": "Private"
+  },
+  {
+    "Name": "CRP TBG ENFIELD-STONEY",
+    "Latitude": 32.8758374,
+    "Longitude": -96.6893804,
+    "Type": "Private"
+  },
+  {
+    "Name": "CRP TBG ENFIELD-STONEY",
+    "Latitude": 32.8759073,
+    "Longitude": -96.6877644,
+    "Type": "Private"
+  },
+  {
+    "Name": "SEDONA RIDGE APARTMENTS",
+    "Latitude": 32.8777797,
+    "Longitude": -96.6899515,
+    "Type": "Private"
+  },
+  {
+    "Name": "NEWPORT LANDING LLC",
+    "Latitude": 32.8783992,
+    "Longitude": -96.6959548,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUN COLONY APTS",
+    "Latitude": 32.895676,
+    "Longitude": -96.715664,
+    "Type": "Private"
+  },
+  {
+    "Name": "ALISTA, LLC",
+    "Latitude": 32.8936829,
+    "Longitude": -96.7160281,
+    "Type": "Private"
+  },
+  {
+    "Name": "S2 PBC BROOKSHIRE, LP",
+    "Latitude": 32.8812749,
+    "Longitude": -96.7190196,
+    "Type": "Private"
+  },
+  {
+    "Name": "D2 RESIDENCE AT LAKE HIGHLANDS LLC",
+    "Latitude": 32.8812749,
+    "Longitude": -96.7190196,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKE HIGHLANDS AUDELIA APARTMENTS LP",
+    "Latitude": 32.8806556,
+    "Longitude": -96.7175165,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAVERA AT LAKE HIGHLANDS APTS",
+    "Latitude": 32.8806556,
+    "Longitude": -96.7175165,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKE HIGHLANDS AUDELIA APTS, LP",
+    "Latitude": 32.8802824,
+    "Longitude": -96.7183251,
+    "Type": "Private"
+  },
+  {
+    "Name": "9707 WHL LLC",
+    "Latitude": 32.8794098,
+    "Longitude": -96.7197986,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUMMER GLEN APTS",
+    "Latitude": 32.87786,
+    "Longitude": -96.693571,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUMMERGLEN APARTMENTS LP",
+    "Latitude": 32.87786,
+    "Longitude": -96.693571,
+    "Type": "Private"
+  },
+  {
+    "Name": "SEDONA RIDGE PROPERTY, LLC",
+    "Latitude": 32.8769358,
+    "Longitude": -96.6900475,
+    "Type": "Private"
+  },
+  {
+    "Name": "CSH DALLAS LLC",
+    "Latitude": 32.8646024,
+    "Longitude": -96.7045718,
+    "Type": "Private"
+  },
+  {
+    "Name": "CPF SENIOR LIVING - LAKE HIGHLAND LLC",
+    "Latitude": 32.8646024,
+    "Longitude": -96.7045718,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARC AT WHITE ROCK APARTMENTS",
+    "Latitude": 32.8561587,
+    "Longitude": -96.7322996,
+    "Type": "Private"
+  },
+  {
+    "Name": "LTPH LLC DBA LAS TERRAZAS APT",
+    "Latitude": 32.9325998,
+    "Longitude": -96.7632427,
+    "Type": "Private"
+  },
+  {
+    "Name": "NORTHWOOD HILLS APTS",
+    "Latitude": 32.93775,
+    "Longitude": -96.772515,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE RESERVE",
+    "Latitude": 32.9371464,
+    "Longitude": -96.8147862,
+    "Type": "Private"
+  },
+  {
+    "Name": "CITTA TOWNHOMES",
+    "Latitude": 32.936647,
+    "Longitude": -96.8176159,
+    "Type": "Private"
+  },
+  {
+    "Name": "WILLOW FALLS HOMEOWNERS",
+    "Latitude": 32.9336072,
+    "Longitude": -96.7653131,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE THREAD",
+    "Latitude": 32.9366947,
+    "Longitude": -96.7610817,
+    "Type": "Private"
+  },
+  {
+    "Name": "TUSCANY AT GOLDMARK",
+    "Latitude": 32.9367666,
+    "Longitude": -96.7542922,
+    "Type": "Private"
+  },
+  {
+    "Name": "M-N GOLDMARK LTD",
+    "Latitude": 32.9359715,
+    "Longitude": -96.7555946,
+    "Type": "Private"
+  },
+  {
+    "Name": "CARILLON HOUSE I & II",
+    "Latitude": 32.9340843,
+    "Longitude": -96.8053703,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRING HILL INVESTORS",
+    "Latitude": 32.9347937,
+    "Longitude": -96.7610127,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE THREAD",
+    "Latitude": 32.9347937,
+    "Longitude": -96.7610127,
+    "Type": "Private"
+  },
+  {
+    "Name": "VISTA BUENA APTS",
+    "Latitude": 32.9309566,
+    "Longitude": -96.7626164,
+    "Type": "Private"
+  },
+  {
+    "Name": "VISTA BUENA",
+    "Latitude": 32.9309566,
+    "Longitude": -96.7626164,
+    "Type": "Private"
+  },
+  {
+    "Name": "TX SFI PARTNERSHIP55, LPD",
+    "Latitude": 32.931626,
+    "Longitude": -96.8177871,
+    "Type": "Private"
+  },
+  {
+    "Name": "LINDA VISTA ASSOCIATES LP",
+    "Latitude": 32.9319438,
+    "Longitude": -96.7598072,
+    "Type": "Private"
+  },
+  {
+    "Name": "LINDA VISTA MAHAM MASSANDRA OWNER LLC",
+    "Latitude": 32.9319438,
+    "Longitude": -96.7598072,
+    "Type": "Private"
+  },
+  {
+    "Name": "VISTA BUENA APTS",
+    "Latitude": 32.9297477,
+    "Longitude": -96.7641628,
+    "Type": "Private"
+  },
+  {
+    "Name": "VISTA BUENA APTS",
+    "Latitude": 32.9296193,
+    "Longitude": -96.7649157,
+    "Type": "Private"
+  },
+  {
+    "Name": "VISTA BUENA APTS",
+    "Latitude": 32.9301085,
+    "Longitude": -96.760733,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLA VERONA",
+    "Latitude": 32.9294204,
+    "Longitude": -96.8177665,
+    "Type": "Private"
+  },
+  {
+    "Name": "CARLTON COURT LTD PS",
+    "Latitude": 32.9297467,
+    "Longitude": -96.7616057,
+    "Type": "Private"
+  },
+  {
+    "Name": "MODERA NEAR THE GALLERIA",
+    "Latitude": 32.9288207,
+    "Longitude": -96.8175154,
+    "Type": "Private"
+  },
+  {
+    "Name": "INSTITUTIONAL MULTIFAMILY",
+    "Latitude": 32.9288207,
+    "Longitude": -96.8175154,
+    "Type": "Private"
+  },
+  {
+    "Name": "WINDING WAY APTS",
+    "Latitude": 32.927316,
+    "Longitude": -96.764064,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA FITNESS INTERNATIONAL",
+    "Latitude": 32.9276398,
+    "Longitude": -96.8021956,
+    "Type": "Private"
+  },
+  {
+    "Name": "STONE RANCH OWNER LLC",
+    "Latitude": 32.9035229,
+    "Longitude": -96.7116065,
+    "Type": "Private"
+  },
+  {
+    "Name": "PAVILIONS AT PEBBLEVIEW",
+    "Latitude": 32.9145243,
+    "Longitude": -96.7490508,
+    "Type": "Private"
+  },
+  {
+    "Name": "AMBER DAWN APTS",
+    "Latitude": 32.9387929,
+    "Longitude": -96.7560589,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAWTHORN SUITES DALLAS",
+    "Latitude": 32.9270749,
+    "Longitude": -96.7714413,
+    "Type": "Private"
+  },
+  {
+    "Name": "CITADEL AT PRESTON",
+    "Latitude": 32.9237646,
+    "Longitude": -96.8009682,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS HOSPITALITY INC",
+    "Latitude": 32.9267908,
+    "Longitude": -96.8016933,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON HILLS CONDOMINIUM HOMES",
+    "Latitude": 32.9353654,
+    "Longitude": -96.8057221,
+    "Type": "Private"
+  },
+  {
+    "Name": "FATH PROPERTY MANAGEMENT",
+    "Latitude": 32.9348702,
+    "Longitude": -96.8085282,
+    "Type": "Private"
+  },
+  {
+    "Name": "ASPEN CREEK APARTMENTS",
+    "Latitude": 32.9373419,
+    "Longitude": -96.812017,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE ARTS AT MIDTOWN",
+    "Latitude": 32.9299303,
+    "Longitude": -96.813074,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUNCREST APTS",
+    "Latitude": 32.9297854,
+    "Longitude": -96.8153904,
+    "Type": "Private"
+  },
+  {
+    "Name": "PETERSON PLACE APTS",
+    "Latitude": 32.931488,
+    "Longitude": -96.814349,
+    "Type": "Private"
+  },
+  {
+    "Name": "N/A COURTS AT PRESTON OAKS -64 LP",
+    "Latitude": 32.9426733,
+    "Longitude": -96.8153852,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOUTHERN VILLAS",
+    "Latitude": 32.9368727,
+    "Longitude": -96.8160921,
+    "Type": "Private"
+  },
+  {
+    "Name": "CREST VG LP",
+    "Latitude": 32.933686,
+    "Longitude": -96.8171586,
+    "Type": "Private"
+  },
+  {
+    "Name": "UHF MAGNOLIA TRACE LP",
+    "Latitude": 32.6695136,
+    "Longitude": -96.7876034,
+    "Type": "Private"
+  },
+  {
+    "Name": "RAJAB ALI",
+    "Latitude": 32.6751191,
+    "Longitude": -96.7660991,
+    "Type": "Private"
+  },
+  {
+    "Name": "MOUNTAIN CREEK APARTMENTS LP",
+    "Latitude": 32.6751191,
+    "Longitude": -96.7660991,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOME OF PERSIMMON",
+    "Latitude": 32.6720913,
+    "Longitude": -96.76699,
+    "Type": "Private"
+  },
+  {
+    "Name": "CHAMPION TOWN HOMES @ PECANGROVE",
+    "Latitude": 32.6719752,
+    "Longitude": -96.7700335,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROSEMONT @ MISSION TRAILS",
+    "Latitude": 32.6591324,
+    "Longitude": -96.8170278,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAS OF SORRENTO",
+    "Latitude": 32.692054,
+    "Longitude": -96.762968,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE VININGS AT CENTRAL",
+    "Latitude": 32.9321263,
+    "Longitude": -96.7577222,
+    "Type": "Private"
+  },
+  {
+    "Name": "MOTEL 6",
+    "Latitude": 32.928445,
+    "Longitude": -96.7623224,
+    "Type": "Private"
+  },
+  {
+    "Name": "EMBASSY SUITE HOTEL",
+    "Latitude": 32.9273291,
+    "Longitude": -96.7626989,
+    "Type": "Private"
+  },
+  {
+    "Name": "EMBASSY SUITES DALLAS PARK CENTRAL",
+    "Latitude": 32.9273291,
+    "Longitude": -96.7626989,
+    "Type": "Private"
+  },
+  {
+    "Name": "ESTANCIA APARTMENTS",
+    "Latitude": 32.9242781,
+    "Longitude": -96.7176669,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MIRAMAR APARTMENTS",
+    "Latitude": 32.9247654,
+    "Longitude": -96.7190848,
+    "Type": "Private"
+  },
+  {
+    "Name": "RIVERWALK PARTNERS 2014 LTD",
+    "Latitude": 32.9235827,
+    "Longitude": -96.7175833,
+    "Type": "Private"
+  },
+  {
+    "Name": "CREEKBEND MANAGEMENT & CONSTRUCTION CREEKBEND CONDOS",
+    "Latitude": 32.9184443,
+    "Longitude": -96.735288,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAYTT PLACE",
+    "Latitude": 32.9177519,
+    "Longitude": -96.7677,
+    "Type": "Private"
+  },
+  {
+    "Name": "NOBLE I WALTON DALLAS OP CO DBA HYAT",
+    "Latitude": 32.9177519,
+    "Longitude": -96.7677,
+    "Type": "Private"
+  },
+  {
+    "Name": "WATERCHASE APARTMENTS HOMES",
+    "Latitude": 32.915459,
+    "Longitude": -96.7014109,
+    "Type": "Private"
+  },
+  {
+    "Name": "NORTHGATE VILLAGE APARTMENTS",
+    "Latitude": 32.9148518,
+    "Longitude": -96.7005041,
+    "Type": "Private"
+  },
+  {
+    "Name": "ST CROIX",
+    "Latitude": 32.9154207,
+    "Longitude": -96.7343275,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOREST GARDENS APARTMENTS",
+    "Latitude": 32.9134843,
+    "Longitude": -96.7029829,
+    "Type": "Private"
+  },
+  {
+    "Name": "INDIGO JV LLC",
+    "Latitude": 32.9139408,
+    "Longitude": -96.7211233,
+    "Type": "Private"
+  },
+  {
+    "Name": "INDIGO JV LLC",
+    "Latitude": 32.912685,
+    "Longitude": -96.7202062,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE DISTRICT AT GREENVILLE",
+    "Latitude": 32.911321,
+    "Longitude": -96.7481569,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUNSTONE RIVIERA APARTMENTS (DALLAS) LLC",
+    "Latitude": 32.9084804,
+    "Longitude": -96.716232,
+    "Type": "Private"
+  },
+  {
+    "Name": "SIENNA CREEK",
+    "Latitude": 32.9063885,
+    "Longitude": -96.7187247,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROC II TX TIMBERLODGE LLC",
+    "Latitude": 32.9063161,
+    "Longitude": -96.7163021,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPCP AUGUSTA OWNER LLC",
+    "Latitude": 32.9063161,
+    "Longitude": -96.7163021,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOLARIS LLC -",
+    "Latitude": 32.905716,
+    "Longitude": -96.713533,
+    "Type": "Private"
+  },
+  {
+    "Name": "CAMBRIDGE CONDOMINIUM OWNERS ASSOC",
+    "Latitude": 32.9051035,
+    "Longitude": -96.7160738,
+    "Type": "Private"
+  },
+  {
+    "Name": "PC AZUL, LLC",
+    "Latitude": 32.8977057,
+    "Longitude": -96.7172066,
+    "Type": "Private"
+  },
+  {
+    "Name": "10928 AUDELIA DALLAS LP",
+    "Latitude": 32.8977057,
+    "Longitude": -96.7172066,
+    "Type": "Private"
+  },
+  {
+    "Name": "HS BRIARWYCK APTS.",
+    "Latitude": 32.9179671,
+    "Longitude": -96.7101492,
+    "Type": "Private"
+  },
+  {
+    "Name": "SOLARIS LLC -",
+    "Latitude": 32.9087045,
+    "Longitude": -96.7122171,
+    "Type": "Private"
+  },
+  {
+    "Name": "WYNDSOR PARK APARTMENTS",
+    "Latitude": 32.9176739,
+    "Longitude": -96.7122354,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK ON WHITEHURST",
+    "Latitude": 32.901234,
+    "Longitude": -96.722236,
+    "Type": "Private"
+  },
+  {
+    "Name": "EL DORADO APARTMENT HOMES",
+    "Latitude": 32.9080425,
+    "Longitude": -96.7139386,
+    "Type": "Private"
+  },
+  {
+    "Name": "SAGE POINTE APTS",
+    "Latitude": 32.9013374,
+    "Longitude": -96.7128138,
+    "Type": "Private"
+  },
+  {
+    "Name": "STONE RANCH OWNER LLC",
+    "Latitude": 32.9087883,
+    "Longitude": -96.7054937,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE VIEW AT LAKE HIGHLANDS",
+    "Latitude": 32.917495,
+    "Longitude": -96.715271,
+    "Type": "Private"
+  },
+  {
+    "Name": "WIP ARBOR VISTA LLP",
+    "Latitude": 32.8995703,
+    "Longitude": -96.7236731,
+    "Type": "Private"
+  },
+  {
+    "Name": "98FIFTY APARTMENTS",
+    "Latitude": 32.8995703,
+    "Longitude": -96.7236731,
+    "Type": "Private"
+  },
+  {
+    "Name": "RICHLAND TRACE HOMEOWNERS",
+    "Latitude": 32.9221287,
+    "Longitude": -96.7160406,
+    "Type": "Private"
+  },
+  {
+    "Name": "RUSH CREEK APARTMENTS ,LLP",
+    "Latitude": 32.8575561,
+    "Longitude": -96.8755785,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUMMERWOOD COVE APTS",
+    "Latitude": 32.904856,
+    "Longitude": -96.7206555,
+    "Type": "Private"
+  },
+  {
+    "Name": "WOODLANDS I ON THE CREEK",
+    "Latitude": 32.89491,
+    "Longitude": -96.7281537,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKE HIGHLANDS LANDING",
+    "Latitude": 32.908725,
+    "Longitude": -96.719432,
+    "Type": "Private"
+  },
+  {
+    "Name": "CANTERA CREEK TFP LTD",
+    "Latitude": 32.893423,
+    "Longitude": -96.7296466,
+    "Type": "Private"
+  },
+  {
+    "Name": "VUE AT FOREST",
+    "Latitude": 32.908725,
+    "Longitude": -96.719432,
+    "Type": "Private"
+  },
+  {
+    "Name": "TWIN CREEK CONDOMINIUMS",
+    "Latitude": 32.9014264,
+    "Longitude": -96.7252611,
+    "Type": "Private"
+  },
+  {
+    "Name": "RELATED RIDGEGATE LLC",
+    "Latitude": 32.9106075,
+    "Longitude": -96.7208692,
+    "Type": "Private"
+  },
+  {
+    "Name": "INDIGO JV TWO LLC",
+    "Latitude": 32.9106075,
+    "Longitude": -96.7208692,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK NINETY - SIX NINETY .",
+    "Latitude": 32.9082706,
+    "Longitude": -96.7214973,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK NINETY - SIX NINETY .",
+    "Latitude": 32.9065064,
+    "Longitude": -96.7222513,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LEX",
+    "Latitude": 32.9038468,
+    "Longitude": -96.725345,
+    "Type": "Private"
+  },
+  {
+    "Name": "DEERFIELD APTS",
+    "Latitude": 32.9088533,
+    "Longitude": -96.7235589,
+    "Type": "Private"
+  },
+  {
+    "Name": "INDIGO JV LLC",
+    "Latitude": 32.9105323,
+    "Longitude": -96.7222685,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOREST HILLS APARTMENTS",
+    "Latitude": 32.9103191,
+    "Longitude": -96.7249312,
+    "Type": "Private"
+  },
+  {
+    "Name": "BOSQUE ESTATES",
+    "Latitude": 32.9147845,
+    "Longitude": -96.732468,
+    "Type": "Private"
+  },
+  {
+    "Name": "INTERGERMAN CHIMNEY LP",
+    "Latitude": 32.9102371,
+    "Longitude": -96.72684,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOREST COVE APTS",
+    "Latitude": 32.907543,
+    "Longitude": -96.7251684,
+    "Type": "Private"
+  },
+  {
+    "Name": "SNUG HARBOR APTS",
+    "Latitude": 32.9083271,
+    "Longitude": -96.7261008,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LANTERN AT LAKE HIGHLAND",
+    "Latitude": 32.8947194,
+    "Longitude": -96.7378418,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LINK",
+    "Latitude": 32.9070406,
+    "Longitude": -96.7318677,
+    "Type": "Private"
+  },
+  {
+    "Name": "SIENNA SPRINGS ACQUISITION, LP",
+    "Latitude": 32.9059983,
+    "Longitude": -96.7121474,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LINK",
+    "Latitude": 32.9076496,
+    "Longitude": -96.7339074,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA BELLA PALMS 117 LLC",
+    "Latitude": 32.8924292,
+    "Longitude": -96.7395624,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE LINK",
+    "Latitude": 32.9082866,
+    "Longitude": -96.7342342,
+    "Type": "Private"
+  },
+  {
+    "Name": "EXPONENTIAL PROPERTY GROUP VII-B LLC",
+    "Latitude": 32.9143016,
+    "Longitude": -96.7359683,
+    "Type": "Private"
+  },
+  {
+    "Name": "PINYON POINT APTS",
+    "Latitude": 32.9145961,
+    "Longitude": -96.7379839,
+    "Type": "Private"
+  },
+  {
+    "Name": "WOODSIDE LANE CONDOMINIUMS - OFFICE",
+    "Latitude": 32.9085223,
+    "Longitude": -96.7396071,
+    "Type": "Private"
+  },
+  {
+    "Name": "WOODSIDE LANE APTS",
+    "Latitude": 32.9085223,
+    "Longitude": -96.7396071,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE PARK ON GREENVILLE APARTMENTS PH",
+    "Latitude": 32.9195272,
+    "Longitude": -96.7409931,
+    "Type": "Private"
+  },
+  {
+    "Name": "EG REFLECTIONS, LLC",
+    "Latitude": 32.9150558,
+    "Longitude": -96.7501521,
+    "Type": "Private"
+  },
+  {
+    "Name": "PBH MONTCLAIR APTS LLC",
+    "Latitude": 32.9145243,
+    "Longitude": -96.7490508,
+    "Type": "Private"
+  },
+  {
+    "Name": "YESENIA REYES",
+    "Latitude": 32.9145243,
+    "Longitude": -96.7490508,
+    "Type": "Private"
+  },
+  {
+    "Name": "CREST SA II LP",
+    "Latitude": 32.9162309,
+    "Longitude": -96.7466579,
+    "Type": "Private"
+  },
+  {
+    "Name": "PAVILIONS AT VANTAGE POINT",
+    "Latitude": 32.9162309,
+    "Longitude": -96.7466579,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAKE HIGHLANDS YMCA",
+    "Latitude": 32.9040693,
+    "Longitude": -96.7496421,
+    "Type": "Private"
+  },
+  {
+    "Name": "EG REFLECTIONS, LLC",
+    "Latitude": 32.917118,
+    "Longitude": -96.7503758,
+    "Type": "Private"
+  },
+  {
+    "Name": "SONORA PALMS",
+    "Latitude": 32.8980158,
+    "Longitude": -96.7271396,
+    "Type": "Private"
+  },
+  {
+    "Name": "WOODLANDS II APARTMENTS",
+    "Latitude": 32.8963485,
+    "Longitude": -96.7280573,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOREST POINT HOA",
+    "Latitude": 32.9083925,
+    "Longitude": -96.7580932,
+    "Type": "Private"
+  },
+  {
+    "Name": "FOREST PARK FLATS PARTNERS,LP",
+    "Latitude": 32.9105711,
+    "Longitude": -96.766297,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON OAKS CROSSING CONDOMINUMS",
+    "Latitude": 32.9431452,
+    "Longitude": -96.8099795,
+    "Type": "Private"
+  },
+  {
+    "Name": "WTH2 CREEKBEND LLC",
+    "Latitude": 32.9242781,
+    "Longitude": -96.7176669,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPCP FAIR OAKS CROSSING LLC",
+    "Latitude": 32.8980158,
+    "Longitude": -96.7271396,
+    "Type": "Private"
+  },
+  {
+    "Name": "WYNDHAM ON THE CREEK",
+    "Latitude": 32.9047063,
+    "Longitude": -96.72623,
+    "Type": "Private"
+  },
+  {
+    "Name": "GLEN COVE SWIM CLUB",
+    "Latitude": 32.910116,
+    "Longitude": -96.8466383,
+    "Type": "Private"
+  },
+  {
+    "Name": "JAMES MONTGOMERY",
+    "Latitude": 32.9519685,
+    "Longitude": -96.8023315,
+    "Type": "Private"
+  },
+  {
+    "Name": "CUTCH J, INC.",
+    "Latitude": 32.8056457,
+    "Longitude": -96.7802938,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA FITNESS INTERNATIONAL",
+    "Latitude": 32.8359077,
+    "Longitude": -96.8292459,
+    "Type": "Private"
+  },
+  {
+    "Name": "GASTONIAN CONDOMINIUMS",
+    "Latitude": 32.7968112,
+    "Longitude": -96.7729011,
+    "Type": "Private"
+  },
+  {
+    "Name": "BAYLOR INSTITUTE FOR REHABILITATION",
+    "Latitude": 32.791682,
+    "Longitude": -96.7804763,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUPER 8 MOTEL",
+    "Latitude": 32.8260625,
+    "Longitude": -96.8857499,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAWTHORN SUITES DALLAS",
+    "Latitude": 32.8190865,
+    "Longitude": -96.8641294,
+    "Type": "Private"
+  },
+  {
+    "Name": "PEGASUS VILLAS",
+    "Latitude": 32.8179389,
+    "Longitude": -96.8674668,
+    "Type": "Private"
+  },
+  {
+    "Name": "RESIDENCE INN BY MARRIOTT",
+    "Latitude": 32.8143362,
+    "Longitude": -96.865039,
+    "Type": "Private"
+  },
+  {
+    "Name": "EXTENDED STAY DELUXE HOTEL #45",
+    "Latitude": 32.8110016,
+    "Longitude": -96.8547416,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOLIDAY INN EXPRESS HOTEL & SUITES",
+    "Latitude": 32.8099828,
+    "Longitude": -96.8509682,
+    "Type": "Private"
+  },
+  {
+    "Name": "STERLING HOTEL DALLAS",
+    "Latitude": 32.8274011,
+    "Longitude": -96.8876267,
+    "Type": "Private"
+  },
+  {
+    "Name": "MONTICELLO MANOR APTS",
+    "Latitude": 32.8078934,
+    "Longitude": -96.7968893,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE COURTS OF BENT TREE",
+    "Latitude": 32.9839056,
+    "Longitude": -96.8261834,
+    "Type": "Private"
+  },
+  {
+    "Name": "EVERTON RESIDENTIAL, LP",
+    "Latitude": 32.9665372,
+    "Longitude": -96.8205464,
+    "Type": "Private"
+  },
+  {
+    "Name": "KENSINGTON SQUARE APTS",
+    "Latitude": 32.971191,
+    "Longitude": -96.8205714,
+    "Type": "Private"
+  },
+  {
+    "Name": "RRE BEAR CREEK HOLDINGS",
+    "Latitude": 32.9661104,
+    "Longitude": -96.814348,
+    "Type": "Private"
+  },
+  {
+    "Name": "ADAIR OFF ADDISON AND ADAIR II",
+    "Latitude": 32.9661104,
+    "Longitude": -96.814348,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTONWOOD COUNTRY CLUB",
+    "Latitude": 32.9656044,
+    "Longitude": -96.8046066,
+    "Type": "Private"
+  },
+  {
+    "Name": "ADAIR OFF ADDISON AND ADAIR II",
+    "Latitude": 32.9660797,
+    "Longitude": -96.8147107,
+    "Type": "Private"
+  },
+  {
+    "Name": "KENSINGTON SQUARE APTS",
+    "Latitude": 32.9692265,
+    "Longitude": -96.8196504,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOLIDAY PARK HOMEOWNERS",
+    "Latitude": 32.9628818,
+    "Longitude": -96.781998,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE MERCE",
+    "Latitude": 32.9663906,
+    "Longitude": -96.8186457,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON 39 VILLAS",
+    "Latitude": 32.9596709,
+    "Longitude": -96.804657,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE VILLAS OF BENT TRAILS",
+    "Latitude": 32.9643662,
+    "Longitude": -96.8180177,
+    "Type": "Private"
+  },
+  {
+    "Name": "MONTEREY VILLAS, LP",
+    "Latitude": 32.960769,
+    "Longitude": -96.77,
+    "Type": "Private"
+  },
+  {
+    "Name": "TIBURON APARTMENTS",
+    "Latitude": 32.957062,
+    "Longitude": -96.807685,
+    "Type": "Private"
+  },
+  {
+    "Name": "DR MICHAEL RITTER MANAGEMENT",
+    "Latitude": 32.9558791,
+    "Longitude": -96.8041627,
+    "Type": "Private"
+  },
+  {
+    "Name": "TURNBERRY ISLE APARTMENTS",
+    "Latitude": 32.9573861,
+    "Longitude": -96.8128025,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRING CREEK APTS",
+    "Latitude": 32.951714,
+    "Longitude": -96.77278,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRING CREEK APARTMENTS",
+    "Latitude": 32.951714,
+    "Longitude": -96.77278,
+    "Type": "Private"
+  },
+  {
+    "Name": "HOLIDAY INN EXPRESS",
+    "Latitude": 32.9158828,
+    "Longitude": -96.7450085,
+    "Type": "Private"
+  },
+  {
+    "Name": "SONOMA @ HILLCREST",
+    "Latitude": 32.9614771,
+    "Longitude": -96.7878208,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BRIGHTON",
+    "Latitude": 32.9607399,
+    "Longitude": -96.7908575,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON GREENS APTS",
+    "Latitude": 32.9612372,
+    "Longitude": -96.8060891,
+    "Type": "Private"
+  },
+  {
+    "Name": "WOODHAVEN CONDO HOA",
+    "Latitude": 32.9616944,
+    "Longitude": -96.8073638,
+    "Type": "Private"
+  },
+  {
+    "Name": "ENCLAVE AT PRESTONWOOD",
+    "Latitude": 32.9592979,
+    "Longitude": -96.8073371,
+    "Type": "Private"
+  },
+  {
+    "Name": "ENCLAVE AT PRESTONWOOD",
+    "Latitude": 32.9592979,
+    "Longitude": -96.8073371,
+    "Type": "Private"
+  },
+  {
+    "Name": "ST MORITZ APTS",
+    "Latitude": 32.961439,
+    "Longitude": -96.8129571,
+    "Type": "Private"
+  },
+  {
+    "Name": "AURA PRESTONWOOD",
+    "Latitude": 32.9621342,
+    "Longitude": -96.8171805,
+    "Type": "Private"
+  },
+  {
+    "Name": "ESTANCIA TOWNHOMES",
+    "Latitude": 32.9566229,
+    "Longitude": -96.8146269,
+    "Type": "Private"
+  },
+  {
+    "Name": "TRG ARAPAHO II LLC",
+    "Latitude": 32.9618212,
+    "Longitude": -96.8181014,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BRIGHTON",
+    "Latitude": 32.9607399,
+    "Longitude": -96.7908575,
+    "Type": "Private"
+  },
+  {
+    "Name": "SADDLE BROOK APTS",
+    "Latitude": 32.9693718,
+    "Longitude": -96.815844,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARKWAY QUARTERS CONDO HOA",
+    "Latitude": 32.965581,
+    "Longitude": -96.8182527,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTONWOOD GREEN CONDO",
+    "Latitude": 32.9676837,
+    "Longitude": -96.8165756,
+    "Type": "Private"
+  },
+  {
+    "Name": "MEADOWCREST APTS",
+    "Latitude": 32.9647993,
+    "Longitude": -96.7903155,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BONAVENTURE CONDOMINIUMS",
+    "Latitude": 32.9677598,
+    "Longitude": -96.8184364,
+    "Type": "Private"
+  },
+  {
+    "Name": "BROADSTONE 5151",
+    "Latitude": 32.9653908,
+    "Longitude": -96.8201109,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON BEND VILLAGE",
+    "Latitude": 32.954193,
+    "Longitude": -96.800518,
+    "Type": "Private"
+  },
+  {
+    "Name": "15215 BERRY TRAIL",
+    "Latitude": 32.9558791,
+    "Longitude": -96.8041627,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUMMIT PARC OWNERS ASSOCIATION, INC",
+    "Latitude": 32.6545989,
+    "Longitude": -96.9457261,
+    "Type": "Private"
+  },
+  {
+    "Name": "WESTIN PARK CENTRAL HOTEL OCCUPANCY TAX",
+    "Latitude": 32.9220774,
+    "Longitude": -96.7717387,
+    "Type": "Private"
+  },
+  {
+    "Name": "LMI PARK CENTRAL TWO, LLC",
+    "Latitude": 32.9203775,
+    "Longitude": -96.7696282,
+    "Type": "Private"
+  },
+  {
+    "Name": "LA COSTA VILLAS",
+    "Latitude": 32.9179083,
+    "Longitude": -96.7719501,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPUS6 MARQUIS LLC",
+    "Latitude": 32.918173,
+    "Longitude": -96.770385,
+    "Type": "Private"
+  },
+  {
+    "Name": "7900 AT PARK CENTRAL",
+    "Latitude": 32.918173,
+    "Longitude": -96.770385,
+    "Type": "Private"
+  },
+  {
+    "Name": "SHRIRAJ INVESTMENTS CORP DBA LA QUINTA",
+    "Latitude": 32.9253132,
+    "Longitude": -96.7715894,
+    "Type": "Private"
+  },
+  {
+    "Name": "GRAND HOTEL HOSPITALITY, LLC",
+    "Latitude": 32.9253132,
+    "Longitude": -96.7715894,
+    "Type": "Private"
+  },
+  {
+    "Name": "CHURCHILL ON THE PARK APTS",
+    "Latitude": 32.9192459,
+    "Longitude": -96.7752063,
+    "Type": "Private"
+  },
+  {
+    "Name": "IMPERIAL HOUSE APTS INC",
+    "Latitude": 32.8659422,
+    "Longitude": -96.8017661,
+    "Type": "Private"
+  },
+  {
+    "Name": "LINCOLN CROSSING APTS",
+    "Latitude": 33.0079589,
+    "Longitude": -96.7983871,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON TOWNHOMES",
+    "Latitude": 33.0071328,
+    "Longitude": -96.7971416,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON VILLAGE APARTMENTS",
+    "Latitude": 33.0107242,
+    "Longitude": -96.7979085,
+    "Type": "Private"
+  },
+  {
+    "Name": "TRIDEN VILLAGE PHASE I",
+    "Latitude": 33.0063411,
+    "Longitude": -96.8448153,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON NEW VISION PARTNERS LP",
+    "Latitude": 32.9995962,
+    "Longitude": -96.80175,
+    "Type": "Private"
+  },
+  {
+    "Name": "MHT ASSOCIATES LTD DBA THE MANHATTAN",
+    "Latitude": 32.9995962,
+    "Longitude": -96.80175,
+    "Type": "Private"
+  },
+  {
+    "Name": "MANDALAY APARTMENTS",
+    "Latitude": 32.9931964,
+    "Longitude": -96.7686804,
+    "Type": "Private"
+  },
+  {
+    "Name": "TEXCAN VENTURES XII LTD",
+    "Latitude": 32.9931964,
+    "Longitude": -96.7686804,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON VILLAS",
+    "Latitude": 32.9926076,
+    "Longitude": -96.8012748,
+    "Type": "Private"
+  },
+  {
+    "Name": "HIGHLAND SPRINGS",
+    "Latitude": 32.9951227,
+    "Longitude": -96.7630335,
+    "Type": "Private"
+  },
+  {
+    "Name": "NNN CHATHAM COURT",
+    "Latitude": 32.9896883,
+    "Longitude": -96.7699471,
+    "Type": "Private"
+  },
+  {
+    "Name": "DFW CHATHAM APARTMENRS LLC",
+    "Latitude": 32.9896883,
+    "Longitude": -96.7699471,
+    "Type": "Private"
+  },
+  {
+    "Name": "MCCALLUM CORNERS APARTMENTS",
+    "Latitude": 32.9881887,
+    "Longitude": -96.7721943,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE GABLES ON MCCALLUM APT",
+    "Latitude": 32.9876436,
+    "Longitude": -96.7709393,
+    "Type": "Private"
+  },
+  {
+    "Name": "MCCALLUM GLEN APTS",
+    "Latitude": 32.98824,
+    "Longitude": -96.7728636,
+    "Type": "Private"
+  },
+  {
+    "Name": "MCCALLUM MEADOWS APARTMENTS",
+    "Latitude": 32.9876586,
+    "Longitude": -96.772278,
+    "Type": "Private"
+  },
+  {
+    "Name": "MCCALLUM GLEN APTS",
+    "Latitude": 32.9876178,
+    "Longitude": -96.773031,
+    "Type": "Private"
+  },
+  {
+    "Name": "MCCALLUM GLEN APTS",
+    "Latitude": 32.9876178,
+    "Longitude": -96.773031,
+    "Type": "Private"
+  },
+  {
+    "Name": "ASHWOOD PARK APTS",
+    "Latitude": 32.9874652,
+    "Longitude": -96.7753116,
+    "Type": "Private"
+  },
+  {
+    "Name": "ASHWOOD PARK APTS",
+    "Latitude": 32.9864582,
+    "Longitude": -96.7768649,
+    "Type": "Private"
+  },
+  {
+    "Name": "COBBLESTONE",
+    "Latitude": 32.9986244,
+    "Longitude": -96.8041627,
+    "Type": "Private"
+  },
+  {
+    "Name": "BENT TRAIL SWIM CLUB INC",
+    "Latitude": 33.009227,
+    "Longitude": -96.803707,
+    "Type": "Private"
+  },
+  {
+    "Name": "YES COMPANIES EXP2, LLC",
+    "Latitude": 32.689597,
+    "Longitude": -96.5769415,
+    "Type": "Private"
+  },
+  {
+    "Name": "PECAN LAKE MOBILE HOMES",
+    "Latitude": 32.6626968,
+    "Longitude": -96.6157589,
+    "Type": "Private"
+  },
+  {
+    "Name": "PECAN LAKE MHP",
+    "Latitude": 32.6626968,
+    "Longitude": -96.6157589,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROLLING HILLS MHC",
+    "Latitude": 32.6836907,
+    "Longitude": -96.5926694,
+    "Type": "Private"
+  },
+  {
+    "Name": "ADVENIR@PRESTONWOOD",
+    "Latitude": 32.9505903,
+    "Longitude": -96.8051154,
+    "Type": "Private"
+  },
+  {
+    "Name": "LIVING WATERS EQUITY LLC",
+    "Latitude": 32.9480719,
+    "Longitude": -96.769866,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE RICHDALE GROUP-SAYONY APTS",
+    "Latitude": 32.9458073,
+    "Longitude": -96.8161525,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON BRIDGE APARTMENTS",
+    "Latitude": 32.9456255,
+    "Longitude": -96.8055772,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON ON THE LAKE, HOA",
+    "Latitude": 32.9442398,
+    "Longitude": -96.8039236,
+    "Type": "Private"
+  },
+  {
+    "Name": "HYDE PARK AT MONTFORT - PHASE I",
+    "Latitude": 32.9444055,
+    "Longitude": -96.8139518,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON ON THE CREEK",
+    "Latitude": 32.9437507,
+    "Longitude": -96.8041048,
+    "Type": "Private"
+  },
+  {
+    "Name": "CREEKVIEW APARTMENTS",
+    "Latitude": 32.942525,
+    "Longitude": -96.805363,
+    "Type": "Private"
+  },
+  {
+    "Name": "SAN RAPHAEL APTS",
+    "Latitude": 32.9412962,
+    "Longitude": -96.8196058,
+    "Type": "Private"
+  },
+  {
+    "Name": "MIDWAY LIFESCAPE VILLAS HOA",
+    "Latitude": 32.9414489,
+    "Longitude": -96.8161503,
+    "Type": "Private"
+  },
+  {
+    "Name": "LIFESCAPE VILLAS ON MONTFORT",
+    "Latitude": 32.9414489,
+    "Longitude": -96.8161503,
+    "Type": "Private"
+  },
+  {
+    "Name": "LIFESCAPE VILLAS ON MONTFORT",
+    "Latitude": 32.9414489,
+    "Longitude": -96.8161503,
+    "Type": "Private"
+  },
+  {
+    "Name": "AERC SAN RAPHAEL LLC",
+    "Latitude": 32.9404068,
+    "Longitude": -96.8187713,
+    "Type": "Private"
+  },
+  {
+    "Name": "RIVER PARK AT THE GALLERIA ICG LLC",
+    "Latitude": 32.9412878,
+    "Longitude": -96.8129168,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON POINTE APTS",
+    "Latitude": 32.9402483,
+    "Longitude": -96.8038848,
+    "Type": "Private"
+  },
+  {
+    "Name": "ARIZONA HIGHLAND HOUSE LLC",
+    "Latitude": 32.9460507,
+    "Longitude": -96.7692876,
+    "Type": "Private"
+  },
+  {
+    "Name": "BERKSHIRE SQUARE APTS",
+    "Latitude": 32.9456364,
+    "Longitude": -96.7694247,
+    "Type": "Private"
+  },
+  {
+    "Name": "GRAND SEASONS APTS",
+    "Latitude": 32.9518424,
+    "Longitude": -96.7998241,
+    "Type": "Private"
+  },
+  {
+    "Name": "LAGUNA APTS., LLC",
+    "Latitude": 32.9579242,
+    "Longitude": -96.8096403,
+    "Type": "Private"
+  },
+  {
+    "Name": "ROCK CREEK APARTMENTS",
+    "Latitude": 32.9511347,
+    "Longitude": -96.8069949,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON RACQUET CLUB CONDO",
+    "Latitude": 32.937598,
+    "Longitude": -96.8077453,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON POINTE APTS",
+    "Latitude": 32.9389286,
+    "Longitude": -96.806541,
+    "Type": "Private"
+  },
+  {
+    "Name": "FRONTLINE OAK RUN APARTMENTS",
+    "Latitude": 32.9432325,
+    "Longitude": -96.8083272,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESTON OAK APTS",
+    "Latitude": 32.9418611,
+    "Longitude": -96.8071223,
+    "Type": "Private"
+  },
+  {
+    "Name": "FRW ASSOCIATES, LTD FAIRWAYS AT PRESTONWOOD APARTMENTS",
+    "Latitude": 32.9568333,
+    "Longitude": -96.8092633,
+    "Type": "Private"
+  },
+  {
+    "Name": "HYDE PARK AT MONTFORT - PHASE I",
+    "Latitude": 32.9464106,
+    "Longitude": -96.8077672,
+    "Type": "Private"
+  },
+  {
+    "Name": "ARBOR SPRINGS APARTMENTS",
+    "Latitude": 32.9374787,
+    "Longitude": -96.8085278,
+    "Type": "Private"
+  },
+  {
+    "Name": "PC RIDGE ON SPRING VALLEY LLC",
+    "Latitude": 32.9374787,
+    "Longitude": -96.8085278,
+    "Type": "Private"
+  },
+  {
+    "Name": "5636 APARTMENT HOMES",
+    "Latitude": 32.9377077,
+    "Longitude": -96.8103751,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRESVAL LLC",
+    "Latitude": 32.9399213,
+    "Longitude": -96.8088909,
+    "Type": "Private"
+  },
+  {
+    "Name": "HIDDEN BEND TOWNHOMES",
+    "Latitude": 32.9365865,
+    "Longitude": -96.8106689,
+    "Type": "Private"
+  },
+  {
+    "Name": "OAKS OF PRESTON RIDGE",
+    "Latitude": 32.944142,
+    "Longitude": -96.8101029,
+    "Type": "Private"
+  },
+  {
+    "Name": "LIFESCAPE VILLAS ON MONTFORT",
+    "Latitude": 32.9431371,
+    "Longitude": -96.8113836,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRINGMONT HOA/EDIE MACKLIN",
+    "Latitude": 32.938787,
+    "Longitude": -96.811483,
+    "Type": "Private"
+  },
+  {
+    "Name": "VENTANA APARTMENTS",
+    "Latitude": 32.9402469,
+    "Longitude": -96.8110335,
+    "Type": "Private"
+  },
+  {
+    "Name": "MONTFORT PLACE APTS",
+    "Latitude": 32.9439127,
+    "Longitude": -96.8164169,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE RICHDALE GROUP-SAYONY APTS",
+    "Latitude": 32.938985,
+    "Longitude": -96.8161922,
+    "Type": "Private"
+  },
+  {
+    "Name": "BILTMORE APARTMENTS",
+    "Latitude": 32.9494453,
+    "Longitude": -96.8185201,
+    "Type": "Private"
+  },
+  {
+    "Name": "RENAISSANCE PARC APARMTMENTS",
+    "Latitude": 32.949008,
+    "Longitude": -96.821426,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BRIXTON",
+    "Latitude": 33.0062423,
+    "Longitude": -96.8306066,
+    "Type": "Private"
+  },
+  {
+    "Name": "HEATHERSTONE APTS",
+    "Latitude": 33.009413,
+    "Longitude": -96.855581,
+    "Type": "Private"
+  },
+  {
+    "Name": "TIVOLI APARTMENT PHASE II",
+    "Latitude": 33.0096988,
+    "Longitude": -96.8470559,
+    "Type": "Private"
+  },
+  {
+    "Name": "TGA LLC (DBA) THE GEORGIAN",
+    "Latitude": 33.008448,
+    "Longitude": -96.855448,
+    "Type": "Private"
+  },
+  {
+    "Name": "DANA POINT APARTMENTS",
+    "Latitude": 33.0077629,
+    "Longitude": -96.8470379,
+    "Type": "Private"
+  },
+  {
+    "Name": "CROSSINGS ON MARSH",
+    "Latitude": 33.007066,
+    "Longitude": -96.85581,
+    "Type": "Private"
+  },
+  {
+    "Name": "RESIDENCES NORTH DALLAS ACQUISITION LP",
+    "Latitude": 33.0082627,
+    "Longitude": -96.8441034,
+    "Type": "Private"
+  },
+  {
+    "Name": "MC APARTMENTS, LLC",
+    "Latitude": 33.0080392,
+    "Longitude": -96.857968,
+    "Type": "Private"
+  },
+  {
+    "Name": "POST TRIDEN APARTMENTS, LLC",
+    "Latitude": 33.005026,
+    "Longitude": -96.8450809,
+    "Type": "Private"
+  },
+  {
+    "Name": "RESIDENCES NORTH DALLAS ACQUISITION LP",
+    "Latitude": 33.005026,
+    "Longitude": -96.8450809,
+    "Type": "Private"
+  },
+  {
+    "Name": "OCEAN SUTTON PLACE APARTMENT",
+    "Latitude": 33.003075,
+    "Longitude": -96.8284797,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAS OF MIDWAY",
+    "Latitude": 32.9984547,
+    "Longitude": -96.8479654,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRING PARC",
+    "Latitude": 33.0000218,
+    "Longitude": -96.8550558,
+    "Type": "Private"
+  },
+  {
+    "Name": "STANFORD COURT APARTMENTS",
+    "Latitude": 32.9961798,
+    "Longitude": -96.8450557,
+    "Type": "Private"
+  },
+  {
+    "Name": "DALLAS HUN PARTNERS, LLC",
+    "Latitude": 32.9953425,
+    "Longitude": -96.8441892,
+    "Type": "Private"
+  },
+  {
+    "Name": "TOSCANA APARTMENTS",
+    "Latitude": 32.9959241,
+    "Longitude": -96.8661303,
+    "Type": "Private"
+  },
+  {
+    "Name": "GARDENS AT VAIL APTS",
+    "Latitude": 32.991652,
+    "Longitude": -96.848973,
+    "Type": "Private"
+  },
+  {
+    "Name": "VAIL TX PARTNERS LLC",
+    "Latitude": 32.991652,
+    "Longitude": -96.848973,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE ASTER BY CORTLAND",
+    "Latitude": 32.991652,
+    "Longitude": -96.848973,
+    "Type": "Private"
+  },
+  {
+    "Name": "WINDSONG APTS",
+    "Latitude": 32.9892993,
+    "Longitude": -96.84797,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAGES OF ADDISON",
+    "Latitude": 32.9880026,
+    "Longitude": -96.8302846,
+    "Type": "Private"
+  },
+  {
+    "Name": "VILLAGES OF ADDISON LLC",
+    "Latitude": 32.9880026,
+    "Longitude": -96.8302846,
+    "Type": "Private"
+  },
+  {
+    "Name": "ADDISON APARTMENTS LLC",
+    "Latitude": 32.9885547,
+    "Longitude": -96.8429833,
+    "Type": "Private"
+  },
+  {
+    "Name": "AZURE URBAN LIVING",
+    "Latitude": 32.9885547,
+    "Longitude": -96.8429833,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAVERLY PARK/OAKS OF NORTH DALLAS",
+    "Latitude": 33.0103407,
+    "Longitude": -96.8260759,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAVERLY PARK APARTMENTS",
+    "Latitude": 33.0092322,
+    "Longitude": -96.8251976,
+    "Type": "Private"
+  },
+  {
+    "Name": "PEAR RIDGE PARTNERS",
+    "Latitude": 33.0101604,
+    "Longitude": -96.8238627,
+    "Type": "Private"
+  },
+  {
+    "Name": "NXRTBH VERSAILLES LLC",
+    "Latitude": 33.009157,
+    "Longitude": -96.823003,
+    "Type": "Private"
+  },
+  {
+    "Name": "RANCHO PALISADES APARTMENTS PHASE I",
+    "Latitude": 32.9996876,
+    "Longitude": -96.8226757,
+    "Type": "Private"
+  },
+  {
+    "Name": "IDLEWYLD VILLAGE",
+    "Latitude": 33.0079391,
+    "Longitude": -96.8228447,
+    "Type": "Private"
+  },
+  {
+    "Name": "IDLEWYLD POE, LLC",
+    "Latitude": 33.0079391,
+    "Longitude": -96.8228447,
+    "Type": "Private"
+  },
+  {
+    "Name": "GRAMERCY ON THE PARK",
+    "Latitude": 33.0117922,
+    "Longitude": -96.8252185,
+    "Type": "Private"
+  },
+  {
+    "Name": "WRPV XIII GRAMERCY DALLAS LLC",
+    "Latitude": 33.0117922,
+    "Longitude": -96.8252185,
+    "Type": "Private"
+  },
+  {
+    "Name": "PEAR RIDGE APTS",
+    "Latitude": 33.0010959,
+    "Longitude": -96.8255631,
+    "Type": "Private"
+  },
+  {
+    "Name": "CREEKSIDE AT PEAR RIDGE",
+    "Latitude": 33.0042834,
+    "Longitude": -96.8244985,
+    "Type": "Private"
+  },
+  {
+    "Name": "STONE RIDGE RESIDENCES, LP",
+    "Latitude": 33.0065535,
+    "Longitude": -96.8263165,
+    "Type": "Private"
+  },
+  {
+    "Name": "HAVERLY PARK APARTMENT HOMES PHASE I",
+    "Latitude": 33.0075665,
+    "Longitude": -96.8260349,
+    "Type": "Private"
+  },
+  {
+    "Name": "VERANDAS @ TIMBERGLEN",
+    "Latitude": 33.003987,
+    "Longitude": -96.8283618,
+    "Type": "Private"
+  },
+  {
+    "Name": "4343 AT THE PARKWAY",
+    "Latitude": 33.011747,
+    "Longitude": -96.834465,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE BRAZOS APARTMENTS",
+    "Latitude": 33.0150221,
+    "Longitude": -96.8347819,
+    "Type": "Private"
+  },
+  {
+    "Name": "WILLOWS ON ROSEMEADE APTS",
+    "Latitude": 33.0108753,
+    "Longitude": -96.8356186,
+    "Type": "Private"
+  },
+  {
+    "Name": "ASHMORE PROPERTY HOLDINGS LLC",
+    "Latitude": 33.014163,
+    "Longitude": -96.8357796,
+    "Type": "Private"
+  },
+  {
+    "Name": "PRCP-DALLAS ROSEMEADE LP",
+    "Latitude": 33.0108753,
+    "Longitude": -96.8356186,
+    "Type": "Private"
+  },
+  {
+    "Name": "TRINITY VILLAGE AT FARMERS CREEK",
+    "Latitude": 32.987237,
+    "Longitude": -96.8362372,
+    "Type": "Private"
+  },
+  {
+    "Name": "EMORY PROPERTY HOLDINGS LLC",
+    "Latitude": 33.0141103,
+    "Longitude": -96.8398168,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE WIMBERLY APTS",
+    "Latitude": 33.01521,
+    "Longitude": -96.8406634,
+    "Type": "Private"
+  },
+  {
+    "Name": "PARK ON ROSEMEADE",
+    "Latitude": 33.0117178,
+    "Longitude": -96.8385755,
+    "Type": "Private"
+  },
+  {
+    "Name": "WALKERS MARK APTS",
+    "Latitude": 32.9988016,
+    "Longitude": -96.8412014,
+    "Type": "Private"
+  },
+  {
+    "Name": "LATEEFAH WADE",
+    "Latitude": 32.9876752,
+    "Longitude": -96.845888,
+    "Type": "Private"
+  },
+  {
+    "Name": "RESIDENCES NORTH DALLAS ACQUISITION LP",
+    "Latitude": 33.0050233,
+    "Longitude": -96.8475018,
+    "Type": "Private"
+  },
+  {
+    "Name": "VAIL VILLAGE",
+    "Latitude": 32.9959947,
+    "Longitude": -96.8482936,
+    "Type": "Private"
+  },
+  {
+    "Name": "V V TWO LP",
+    "Latitude": 32.9939257,
+    "Longitude": -96.8485477,
+    "Type": "Private"
+  },
+  {
+    "Name": "TIMBERGLEN APARTMENTS",
+    "Latitude": 33.006292,
+    "Longitude": -96.850094,
+    "Type": "Private"
+  },
+  {
+    "Name": "CEDARBROOK APTS",
+    "Latitude": 33.0114571,
+    "Longitude": -96.8519818,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE POINTE AT TIMBERGLEN",
+    "Latitude": 33.0053144,
+    "Longitude": -96.8515583,
+    "Type": "Private"
+  },
+  {
+    "Name": "BEL AIR PARK",
+    "Latitude": 33.0053144,
+    "Longitude": -96.8515583,
+    "Type": "Private"
+  },
+  {
+    "Name": "ADVENIR AT FRANKFORD SPRINGS",
+    "Latitude": 32.9961944,
+    "Longitude": -96.8514035,
+    "Type": "Private"
+  },
+  {
+    "Name": "BEL AIR KEYSTONE RANCH LP",
+    "Latitude": 33.002807,
+    "Longitude": -96.853184,
+    "Type": "Private"
+  },
+  {
+    "Name": "TUSCANY SQUARE APARTMENTS",
+    "Latitude": 33.0008156,
+    "Longitude": -96.8519397,
+    "Type": "Private"
+  },
+  {
+    "Name": "GREYSON'S GATE APTS",
+    "Latitude": 32.9975766,
+    "Longitude": -96.8514422,
+    "Type": "Private"
+  },
+  {
+    "Name": "GATES DE PROVENCE",
+    "Latitude": 32.9976436,
+    "Longitude": -96.8531007,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE TIMBERS EQUITY FUND LLC",
+    "Latitude": 33.0037037,
+    "Longitude": -96.8598008,
+    "Type": "Private"
+  },
+  {
+    "Name": "SUNSET 320 LLC",
+    "Latitude": 33.0015365,
+    "Longitude": -96.8591176,
+    "Type": "Private"
+  },
+  {
+    "Name": "LODGE 260, LLC",
+    "Latitude": 33.0004163,
+    "Longitude": -96.8610248,
+    "Type": "Private"
+  },
+  {
+    "Name": "LIFE TIME FITNESS",
+    "Latitude": 32.9884922,
+    "Longitude": -96.8516211,
+    "Type": "Private"
+  },
+  {
+    "Name": "CENTERPOINT APARTMENTS LTD",
+    "Latitude": 32.9960817,
+    "Longitude": -96.8677459,
+    "Type": "Private"
+  },
+  {
+    "Name": "KELLY 334 LLC DBA",
+    "Latitude": 32.9982857,
+    "Longitude": -96.867327,
+    "Type": "Private"
+  },
+  {
+    "Name": "KELLY CROSSING",
+    "Latitude": 32.9982857,
+    "Longitude": -96.867327,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE GROVE AT TRINITY MILLS",
+    "Latitude": 32.9914657,
+    "Longitude": -96.8648999,
+    "Type": "Private"
+  },
+  {
+    "Name": "CITY LIMITS APTS",
+    "Latitude": 33.0069731,
+    "Longitude": -96.848459,
+    "Type": "Private"
+  },
+  {
+    "Name": "MARSH CREEK HOLDINGS LP",
+    "Latitude": 33.0080392,
+    "Longitude": -96.857968,
+    "Type": "Private"
+  },
+  {
+    "Name": "TRINITY SQUARE APTS",
+    "Latitude": 32.9876535,
+    "Longitude": -96.8343049,
+    "Type": "Private"
+  },
+  {
+    "Name": "THE SEVILLE APTS",
+    "Latitude": 32.8931336,
+    "Longitude": -96.7722129,
+    "Type": "Private"
+  },
+  {
+    "Name": "LANDMARK FITNESS CLUB",
+    "Latitude": 32.9222405,
+    "Longitude": -96.770967,
+    "Type": "Private"
+  },
+  {
+    "Name": "SPRINGFIELD",
+    "Latitude": 32.9981867,
+    "Longitude": -96.8650269,
+    "Type": "Private"
+  }
+]

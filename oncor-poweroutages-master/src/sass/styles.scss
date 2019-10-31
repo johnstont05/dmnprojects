@@ -1,0 +1,27 @@
+@import 'normalize/import-now';
+
+@import 'mixins';
+@import 'variables';
+@import 'base';
+
+html.embedded, html {
+  // Applied when embedded using Pym.js
+  font-size: 10px;
+}
+
+body {
+  // This helps Pym.js more more accurately measure our <body>
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+}
+
+
+// NOTE!!!! If you need ooyala code, add @import 'ooyala';  to your list of imports above
+
+#map {
+  width: 100%;
+  height: 500px;
+}

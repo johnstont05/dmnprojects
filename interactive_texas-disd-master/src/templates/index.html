@@ -1,0 +1,551 @@
+{%extends 'base.html'%}
+{%import 'partials/img.html' as img%}
+
+
+{%block custom_meta%}
+<meta content="{{keywords|join(',')}}" name="keywords" />
+
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<meta content="{{shareText}}" name="description" />
+<title>Texas school district grades</title>
+<meta property="og:url" content="{{url}}" />
+<meta property="og:title" content="{{shareTitle}}" />
+<meta property="og:description" content="{{shareText}}" name="description" />
+<meta property="og:image" content="{{imgURL}}" />
+<meta property="og:image:height" content="{{imgHeight}}" />
+<meta property="og:image:width" content="{{imgWidth}}" />
+<meta property="og:type" content="article" />
+<meta property="article:author" content="{{authorFBProfile}}" />
+<meta property="article:publisher" content="https://www.facebook.com/dallasmorningnews/" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@{{sectionTwitter}}" />
+<meta name="twitter:creator" content="@{{authorTwitter}}" />
+
+
+<meta name="liveFyreID" content="{{id}}" />
+
+
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "NewsArticle",
+    "headline": "{{shareTitle}}",
+    "url": "{{url}}",
+    "thumbnailUrl": "{{imgURL}}",
+    "dateCreated": "{{publishDate}}",
+    "articleSection": "{{section}}",
+    "creator": ["{{authors|join('", "')|safe}}"],
+    "keywords": ["{{keywords|join('", "')|safe}}"]
+  }
+</script>
+
+<meta property="og:keywords" content="{{keywords|join(',')}}" />
+
+<meta name="news_keywords" content="{{keywords|join(',')}}" />
+{%endblock%}
+
+
+{%block custom_head%}
+<link rel="canonical" href="{{url}}" />
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.0.0/mapbox-gl.css' rel='stylesheet' />
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.0/mapbox-gl-geocoder.min.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.4.0/mapbox-gl-geocoder.css' type='text/css' />
+<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/css/selectize.css">
+<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+{%endblock%}
+
+
+{%block ad%}
+<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+  DFP_networkId = "11222444";
+  var DFPSlotSizes = window.isMobile ? [
+    [320, 50]
+  ] : [
+    [728, 90],
+    [970, 30]
+  ];
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  var pbjs = pbjs || {};
+  pbjs.que = pbjs.que || [];
+  pbjs.que.push(function() {
+    var pageAds = { //   adUnitID: "position"
+      dfpAdPositionTop: "Top",
+      dfpAdPositionMiddle: "Top2",
+      dfpAdPositionBottom: "Top2"
+    };
+
+    for (i in pageAds) {
+      var bidSlot = new Object();
+      bidSlot.code = i;
+      bidSlot.sizes = DFPSlotSizes;
+      bidSlot.bids = window.isMobile ? window.mobileBids[pageAds[i]] : window.desktopBids[pageAds[i]];
+      if (typeof bidSlot.bids != "undefined") {
+        if (typeof pbjs.addAdUnits != "undefined") {
+          pbjs.addAdUnits(bidSlot);
+        }
+        window.bidSlots[i] = bidSlot;
+      }
+    }
+  });
+  googletag.cmd.push(function() {
+    var DFP_sitepage = "DMN/interactives";
+    var dfpSizeMapping = googletag.sizeMapping().
+    addSize([992, 480], [
+      [728, 90],
+      [970, 30]
+    ]).
+    addSize([0, 0], [
+      [320, 50]
+    ]).
+    build();
+
+
+    var adSlot0 = googletag.defineSlot('/' + DFP_networkId + '/' + DFP_sitepage, DFPSlotSizes, "dfpAdPositionTop")
+      .defineSizeMapping(dfpSizeMapping)
+      .setTargeting("position", "Top")
+      .addService(googletag.pubads());
+
+    /*
+    var adSlot1 = googletag.defineSlot('/' + DFP_networkId + '/' + DFP_sitepage, DFPSlotSizes, "dfpAdPositionMiddle")
+                    .defineSizeMapping(dfpSizeMapping)
+                    .setTargeting("position", "Top2")
+                    .addService(googletag.pubads());
+    */
+
+    /*
+    var adSlot2 = googletag.defineSlot('/' + DFP_networkId + '/' + DFP_sitepage, DFPSlotSizes, "dfpAdPositionBottom")
+                    .defineSizeMapping(dfpSizeMapping)
+                    .setTargeting("position", "Top2")
+                    .addService(googletag.pubads());
+    */
+
+    googletag.pubads().enableAsyncRendering();
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+
+  });
+</script>
+{%endblock%}
+
+
+{%block content%}
+<section class="content-well clearfix">
+
+  <header id="story-head">
+    <h3>TEXAS SCHOOLS</h3>
+    <h1>How Texas schools graded, A-F</h1>
+    <h2>See the scores each school received in the state’s new campus-level accountability system</h2>
+  </header>
+  <!-- end storyHead -->
+
+  <div class="byline-block">
+    <p>By <a target="_blank" href="mailto:taylorfjohnston@gmail.com">Taylor Johnston</a> | Data and Interactives Intern</p>
+    <p>Published Sept. 16, 2019</p>
+    <!-- <p>Updated Month, Date, Year</p> -->
+  </div>
+  <!-- end bylineBlock -->
+
+  <div class="shareComments shareCommentsTop">
+    <ul id="share-bar1"></ul>
+  </div>
+  <!-- end shareComments -->
+
+  <p>Texas expanded on the A-F academic accountability system it released in 2018 when it handed out official grades for school campuses for the <a href="https://www.dallasnews.com/news/education/2019/08/15/texas-schools-receive-new-a-f-grades-see-how-yours-rated/">first time</a> in July.</p>
+  <p>While the system only measured the performance of school districts in its first year, the state added more than 8,800 campuses to the accountability report for 2019. Nearly 20% of those campuses earned an A and 37% earned a B. Only 4.5% received an F, according to preliminary ratings.</p>
+  <p>Along with an overall score, schools were also graded on a number of other metrics outlined by the Texas Education Agency, including:</p>
+  <ul>
+    <li><strong>Academic growth:</strong> Credit for STAAR results in ELA/reading and mathematics that either meet the student-level criteria on the STAAR progress measure or maintain performance.</li>
+    <li><strong>Relative performance:</strong> The measurement of achievement of all students relative to districts or campuses with similar economically disadvantaged percentages.</li>
+    <li><strong>Student achievement:</strong> An evaluation of campus performance based on student achievement in STAAR assessments, college, career and military readiness indicators, and graduation rates.</li>
+    <li><strong>Closing the gap:</strong> A measure of differentials among racial/ethnic groups, socioeconomic backgrounds and other factors.</li>
+  </ul>
+  <p class="no-margin">Search for individual schools below to view their ratings in each of the above categories, along with the TEA’s rates for high school graduates that earned college credit, an associate degree, industry certification or enlisted in the military from each high school campus.</p>
+
+</section>
+
+<div id="selectize__container">
+  <div id="selectize__inner">
+    <h6>Find your school</h6>
+    <select id="school-selectize"></select>
+  </div>
+</div>
+
+<section class="content-well clearfix">
+
+  <div id="school-info" class="clearfix">
+    <div id="school-bio">
+      <div class="label-group">
+        <p class="label">School name</p>
+        <h5 class="field-value" id="school-name"></h5>
+      </div>
+
+      <div class="label-group">
+        <p class="label">Address</p>
+        <p class="field-value" id="school-address"></p>
+      </div>
+
+      <div class="label-grid grid-three-up">
+        <div class="label-group">
+          <p class="label">District</p>
+          <p class="field-value" id="school-district"></p>
+        </div>
+
+        <div class="label-group">
+          <p class="label">Students</p>
+          <p class="field-value" id="school-students"></p>
+        </div>
+
+        <div class="label-group">
+          <p class="label">Grades</p>
+          <p class="field-value" id="school-grades"></p>
+        </div>
+      </div>
+
+      <div id="grad-info" class="no-show">
+        <h6>After graduation</h6>
+        <p class="note">Percentage of 2018 graduates who earned college credit, an associate degree, industry certification or enlisted in the military. College credit requires at least three hours of credit in English, Language Arts or Math, or nine hours in any other subjects. </p>
+        <div class="label-grid grid-four-up">
+          <div class="label-group">
+            <p class="label">College credit</p>
+            <p class="field-value" id="col-cred"></p>
+          </div>
+
+          <div class="label-group">
+            <p class="label">Associate degree</p>
+            <p class="field-value" id="assoc-deg"></p>
+          </div>
+
+          <div class="label-group">
+            <p class="label">Industry certification</p>
+            <p class="field-value" id="ind-cert"></p>
+          </div>
+
+          <div class="label-group">
+            <p class="label">Military enlistment</p>
+            <p class="field-value" id="mil-enl"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div id="ratings-dashboard">
+      <h6>2019 TEA Accountability ratings</h6>
+      <div class="label-grid grid-five-up">
+        <div class="ratings__col" id="overall__col">
+          <h6>Overall <span>Performance</span></h6>
+          <h5></h5>
+          <ul>
+            <li>School<span></span></li>
+            <li>District<span></span></li>
+            <li>Texas<span style="width: 81%">81</span></li>
+          </ul>
+        </div>
+
+        <div class="ratings__col" id="academic__col">
+          <h6>Academic <span>Growth</span></h6>
+          <h5></h5>
+          <ul>
+            <li>School<span></span></li>
+            <li>District<span></span></li>
+            <li>Texas<span style="width: 74%">74</span></li>
+          </ul>
+        </div>
+
+        <div class="ratings__col" id="performance__col">
+          <h6>Relative <span>Performance</span></h6>
+          <h5></h5>
+          <ul>
+            <li>School<span></span></li>
+            <li>District<span></span></li>
+            <li>Texas<span style="width: 79%">79</span></li>
+          </ul>
+        </div>
+
+        <div class="ratings__col" id="achievement__col">
+          <h6>Student <span>Achievement</span></h6>
+          <h5></h5>
+          <ul>
+            <li>School<span></span></li>
+            <li>District<span></span></li>
+            <li>Texas<span style="width: 79%">79</span></li>
+          </ul>
+        </div>
+
+        <div class="ratings__col" id="gaps__col">
+          <h6>Closing <span>the Gaps</span></h6>
+          <h5></h5>
+          <ul>
+            <li>School<span></span></li>
+            <li>District<span></span></li>
+            <li>Texas<span style="width: 76%">76</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+
+
+
+  <!-- MAP -->
+  <div class="container">
+    <div id="map">
+
+      <!-- LEGEND -->
+      <div class='my-legend legend-overlay'>
+        <div class='legend-scale'>
+          <ul class='legend-labels'>
+            <li><span style='background:#329ce8;'>
+                <div id="grade-letter">A</div>
+              </span></li>
+            <li><span style='background:#52b033;'>
+                <div id="grade-letter">B</div>
+              </span></li>
+            <li><span style='background:#fec44f;'>
+                <div id="grade-letter">C</div>
+              </span></li>
+            <li><span style='background:#ff8f24;'>
+                <div id="grade-letter">D</div>
+              </span></li>
+            <li><span style='background:#e34e36;'>
+                <div id="grade-letter">F</div>
+              </span></li>
+            <li><span style='background:#999;'>
+                <div id="grade-letter">N/A</div>
+              </span></li>
+          </ul>
+        </div>
+        <div class="dot-charter">
+        </div>
+        <div class="dot-text">Charter Schools</div>
+      </div>
+    </div>
+
+    <!-- INFO BOX -->
+    <div class='info-container' id='map-features'>
+      <div class="info-text">
+
+        <!-- SCHOOL INFO -->
+        <div class="title">SCHOOL</div>
+        <div class="schoolName title"></div>
+
+        <!-- economic disadvantage -->
+        <div class="gradingMetric">% Economic Disadvantage:
+          <div class="econSchool"></div><span>%</span>
+        </div>
+
+        <!-- overall performance -->
+        <div class="gradingMetric">Overall performance:
+          <div class="grades" id="overallSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- academic growth -->
+        <div class="gradingMetric">Academic growth:
+          <div class="grades" id="growthSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- relative performance -->
+        <div class="gradingMetric">Relative performance:
+          <div class="grades" id="performanceSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- student achievement -->
+        <div class="gradingMetric">Student achievement:
+          <div class="grades" id="achievementSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- closing the gaps -->
+        <div class="gradingMetric">Closing the gaps:
+          <div class="grades" id="gapSchool">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <hr>
+
+        <!-- DISTRICT INFO -->
+        <div class="title">DISTRICT</div>
+        <div class="districtName title"></div>
+
+        <!-- economic disadvantage -->
+        <div class="gradingMetric">% Economic Disadvantage:
+          <div class="econDistrict"></div><span>%</span>
+        </div>
+
+        <!-- overall performance -->
+        <div class="gradingMetric">Overall performance:
+          <div class="grades" id="overallDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- academic growth -->
+        <div class="gradingMetric">Academic growth:
+          <div class="grades" id="growthDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- relative performance -->
+        <div class="gradingMetric">Relative performance:
+          <div class="grades" id="performanceDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- student achievement -->
+        <div class="gradingMetric">Student achievement:
+          <div class="grades" id="achievementDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+
+        <!-- closing the gaps -->
+        <div class="gradingMetric">Closing the gaps:
+          <div class="grades" id="gapDistrict">
+            <div class="letter a">A</div>
+            <div class="letter b">B</div>
+            <div class="letter c">C</div>
+            <div class="letter d">D</div>
+            <div class="letter f">F</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <p class="source">School location data provided by Texas Education Agency. Locations are approximate.</p>
+  </div>
+
+
+  <!-- DATA TABLES -->
+  <div id="table__container">
+    <h6 class="table-label">Schools in <span id="table-label-name"></span></h6>
+    <table id="table_id" class="display responsive" width="100%"></table>
+  </div>
+
+  <!-- GEOCODER -->
+  <div id='geocoder' class='geocoder'></div>
+  {%include "adblock1.html" %}
+
+
+  <p><em>John Hancock contributed to this story.</em></p>
+  <p class="twitter-tag">Follow Taylor Johnston on Twitter at <a href="https://twitter.com/TF_Johnston">@TF_Johnston.</a></p>
+
+
+  <!-- end credits -->
+  <section class="more">
+    <h5>More from The Dallas Morning News</h5>
+    <div class="more__grid">
+      <a class="clearfix" href="https://www.dallasnews.com/interactives/2019/dallas-digital-divide/">
+        <img src="images/_digital-share.jpg" alt="Hands type on the keyboard of an open laptop. A book sits to the left with passages highlighted in purple, while a phone and a bookmark rest on the desk to the right.">
+        <h6>Dallas’ digital haves and have-nots</h6>
+        <p>Hometown AT&T says it wants everyone to have speedy internet, but poorer, older neighborhoods are slow to get upgrades.</p>
+      </a>
+      <a class="clearfix" href="https://www.dallasnews.com/interactives/2019/the-time-we-have-here-photos-of-thomas-jefferson-hs-immigrant-soccer-players/">
+        <img src="images/_tj-share.jpg" alt="Thomas Jefferson soccer players look out of a window before a game.">
+        <h6>The time we have here</h6>
+        <p>A year and a half in the lives of the Thomas Jefferson High School soccer team, many of whom are immigrant students.</p>
+      </a>
+      <a class="clearfix" href="http://dallasnews.com/interactives/2018/time-bomb/index.html">
+        <img src="images/_atmos-share.jpg" alt="Domingo Mendez holds his infant son, Mateo. Domingo’s skin shows the scars from when he was badkly burned in 2011 after their home exploded from a gas leak">
+        <h6>Time bomb</h6>
+        <p>How Atmos Energy’s nartual gas keeps blowing up Texas homes, while their customers pay the tab.</p>
+      </a>
+    </div>
+  </section>
+  <!-- end more -->
+
+
+  <div class="shareComments">
+    <div id="comments"></div>
+  </div>
+  <!-- end shareComments -->
+
+
+</section>
+<!-- end contentWell -->
+{%endblock%}
+
+
+
+
+{%block custom_foot%}
+<script type="text/javascript"></script>
+{%endblock%}
+
+
+
+
+
+{%block custom_social_meta%}
+<script type="text/javascript">
+  var storyTitle = "{{tweetText}}", // headline in tweet card
+    storyURL = "{{url}}",
+    leadText = "{{shareText}}", //description in tweet card
+    storyIMG = "{{imgURL}}",
+    storyAuthor = "{% for author in authors %}{{author}}{{', ' if not loop.last}}{% endfor %}",
+    twitterTag = "{{sectionTwitter}}",
+    comments = true,
+    share = true;
+  OAS_sitepage = 'www.dallasnews.com/{{desk}}/{{section}}/';
+</script>
+{%endblock%}
