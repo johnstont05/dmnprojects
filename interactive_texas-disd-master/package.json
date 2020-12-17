@@ -12,7 +12,7 @@
     "browser-sync": "^2.24.0",
     "browserify": "^14.0.0",
     "d3": "^5.9.2",
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.19",
     "datatables.net-responsive-dt": "^2.2.3",
     "datatables.net-zf": "^1.10.19",
